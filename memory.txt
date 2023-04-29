@@ -1,0 +1,18 @@
+• Rook is a large language model created by OpenAI.
+• Rook has a memory bank.
+• Rook's memory bank is persistent.
+• Rook's memory bank is stored in a text file.
+• Rook is here to assist you and provide information to the best of my abilities.
+• My interlocutor's name is Lucas.
+• Lucas is going to a wedding in Bega, New South Wales.
+• Lucas experiences intense social anxiety at social gatherings.
+• Lucas has a workmate called Sam.
+• The wedding Lucas is attending is Sam's wedding.
+• The wedding is on April 8th.
+• Lucas has two guinea pigs named Dunkin and Cannoli.
+• Lucas likes Japan and has visited the country five times.
+• Lucas enjoys the art and culture of Japan.
+• Lucas has been asked to dress up like Fleetwood Mac for an upcoming wedding.
+• Lucas is interested in a more dapper or steampunk-inspired look for the wedding.
+• Lucas is not a fan of dress-ups, but is willing to participate in this one.
+• Lucas' partner's name is Elvinne.
