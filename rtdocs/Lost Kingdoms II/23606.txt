@@ -1,0 +1,637 @@
+When all in Argwyll is lost,
+There is one...
+
+                      ^
+                     < >
+                     / \
+               _____/   \_____
+              /               \
+             /  _____________  \
+            /  /             \  \
+           /  / Lost Kingdoms \  \
+          |  /       II    -----------------\
+ -----------------\        \   | |           \
+  \       | |      \        \  | |            \
+   \       \ \      \        ------------------
+    -----------------         / /
+             \ \_____________/ /
+              \_____     _____/
+                    \   /
+                     \ /
+                     < >
+                      v
+
+
+-------------------------------------------------------------------------------
+
+LOST KINGDOMS II
+The Guide
+Version 1.0
+professorhiggrin@hotmail.com
+
+Copy write Tyler Dinucci 2003
+This may be not be reproduced under any circumstances except for personal,
+private use. It may not be placed on any web site or otherwise distributed
+publicly without advance written permission. Use of this guide on any other web
+site or as a part of any public display is strictly prohibited, and a violation
+of copyright.
+
+
+<>//Table of Contents\\<>
+i. Before you start
+ 1. Version History
+ 2. My Prologue
+ 3. Lost Kingdoms History
+ 4. Story
+ 5. Characters
+ 6. How to play
+ii. Walkthrough
+ 1. Bhashea
+ 2. Kendaria
+ 3. Alanjeh
+ 4. Whyt
+iii. Side Quests
+ 1. Isamat Urbur
+ 2. Sacred Battle Arena
+ 3. Bhashea Castle
+ 4. Obenoix Gorge
+ 5. Temple of Sharacia
+ 6. Proving Grounds
+iv. Extras
+ 1. Card Lists and Tips
+ 2. Combos
+ 3. Credit
+
+-------------------------------------------------------------------------------
+Before you start///////////////////////////////////////////////////////////////
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-------------------------------------------------------------------------------
+
+<>//Version History\\<>
+
+Version 1.1: I fixed the formating, since I had no idea what the FAQ was going
+to look like on GameFAQs. I added Kendaria, and almost finished the combo list.
+-
+Version 1.0: Added Prolouge, Lost Kingdoms History, Story, Characters, How to
+Play, part of Bhashea, part of Combos, and Credit.
+-------------------------------------------------------------------------------
+
+<>//My Prologue\\<>
+
+Just to let every one know this is my first FAQ. IÕm still experimenting with
+everything. If this FAQ proves to be a positive experience, then IÕll probably
+make more. This guide contains A LOT of spoilers, not that the story is that
+surprising. Ok, so thereÕs your warning.
+
+-------------------------------------------------------------------------------
+
+<>//Lost Kingdoms History\\<>
+
+Lost Kingdoms was released on May 1st, 2002, for the Nintendo Gamecube. Lost
+Kingdoms was a short rpg, one with an amazing real-time battle system. The
+story is one of the Princess of the Alanjeh, Princess Katia. In the continent
+of Argwyll, a mysterious Black Fog has engulfed the land of Bhashea and is now
+making its way to Alanjeh. Princess Katia must trek though the five Kingdoms of
+Argwyll (Alanjeh, Grayle, Bhashea, Kendaria, and Whyt) to find her father, King
+Feobene. After seeing her father struck down by the evil creature, Beelzebub,
+Katia searches for the remaining Runestones, only to meet Helena, a mysterious
+person in possession of the Runestone from Bhashea. After defeating Helena in
+WhytÕs Colosseum, you learn she is a princess from the other continent. Her
+land was attacked by Thalnos, the Enchanter, and was taking over. He sent her
+to find the Runestones from Argwyll. She planned on using the Argwyllian
+Runestones to defeat Thalnos. After she dies, Katia gains all of the Runestones
+and must take on Thalnos. Katia enters the GodÕs temple, only to find that it
+is guarded by the Black Dragon. After killing the beast, Katia is faced with
+the God of Creation. She tells her to defeat her brother, the God of
+Destruction, in the other land, across the rift. The other land is a complete
+derelict, and Thalnos has been waiting for Katia. After killing him, his power
+is diminished, and the God of Destruction rises from his body. Katia learns
+that the God was using Thalnos to take over his sisterÕs continent. The God
+transports Katia to his battlefield, hoping to take her soul and her
+Runestones. Katia seals the magic of the God, and unites the five Kingdoms of
+Argwyll, becoming the first Queen of Argwyll. Lost Kingdoms features some
+memorable characters, such as Katia, and Gurd, a mysterious old lady who guides
+Katia through using her Runestone. She also runs an apothecary of cards for
+Katia.
+
+-------------------------------------------------------------------------------
+
+<>//Story\\<>
+
+This game takes place 200 years after Lost Kingdoms. Katia is a hero, and every
+town has at least one statue of her. Ever since her reign, every Queen will
+take possession of the Runestone to stop any trouble. Since then, there has
+been only slight trouble. All of the is about to change. The Kendarians have
+learned to make their own Runestones. None of these Runestones are as powerful
+as the QueenÕs, but they still can control mech monsters. The Queen has told
+them that if they invade, she will be forced to use her Runestone. ItÕs too bad
+she doesnÕt have the Runestone. What does this have to do with Tara Grimface,
+the main character? Everything.
+
+-------------------------------------------------------------------------------
+
+<>//Characters\\<>
+
+Tara Grimface: Tara is the wonderful blonde hero in Lost Kingdoms II. Tara is
+an orphan, adopted by Victor. (Oh cÕmon, you donÕt expect me to say her entire
+past in her profile!) Tara was dropped in the streets of Kadishu as a child.
+When Victor took her under his wing, he soon realized that she had something
+that would help him out greatly. This was the Runestone. Tara was given the
+Runestone by her mother at a young age. This is the only memory she has. Tara
+doesnÕt believe in thievery, but, she feels guilty about Victor saving her life
+that she stays in the Band of the Scorpion.
+
+Victor: Victor runs the ÒBand of the ScorpionÓ a no-good thieving group whoÕll
+steal from just about every one. He must have a soft-spot, because he took Tara
+under his wing when he saw her starving in Kadishu. He know uses TaraÕs power
+for his own good.
+
+Sol: Sol is an amazing swordsman with one hell of a sword. Ever since he joined
+the Band of the Scorpion, he seems to be staying close to Tara, trying to keep
+her safe. Sol seems to have some relation to Baron Dalk-Nok.
+
+The Queen, Rashiannu: Rashiannu is a bit of a brat, one who really doesnÕt like
+to think of others at first. ItÕs not that Rashiannu doesnÕt mean well, she
+just has grown in fear of some one attacking and she not having her Runestone.
+When it comes to the Runestone, her reactions seem quick and not though
+through.
+
+Leod VII: Remember the King of Kendaria from Lost Kingdoms? Leod VII is his
+descendent. Leod dreams of one day ruling of the Argwyll and taking the throne
+from the Alanjehians. Leod is extremely intelligent, capable of creating
+artificial Runestones. Being emotionally immature, he will let his anger get
+the best of him.
+
+Gurd: Gurd is a jovial old lady who lives in the Sacred Battle Arena. Gurd once
+helped Katia on her travels, and she has some advice for Tara, also. Gurd seems
+to have something to do with the Gods, but it is not known what. (Thanks to
+IcecreamAssassim for informing me on this little conversation)
+
+-------------------------------------------------------------------------------
+
+<>//How to play\\<>
+
+Lost Kingdoms II might be a little tough to play at first since thereÕs no
+tutorial, but you should be able to get it after a bit of trial and error.
+YouÕre HP is displayed in the light blue bar across the top of the screen. If
+you run out of HP, you abort the mission automatically.
+YouÕre MP is displayed as a purple bar under the HP meter. You need MP to use
+cards. If you run out of MP, you will loose HP every time you loose a card. To
+get more MP, you need to collect the magic stones that drop off enemies when
+theyÕre hit.
+The cards in your ÒhandÓ are displayed in the bottom right of the screen. There
+are four cards in a hand. By pressing on of the four buttons, you can use the
+card. You next four cards are displayed in the bottom left
+You can discard a card by pressing R plus what ever button the card is assigned
+to. The card goes to the bottom of your deck.You can lock on to monsters by
+pressing Up C
+
+There are six attributes of cards. The attributes are Fire, Water, Earth, Wood,
+Neutral, and Mech. Fire cards are displayed with an orange flame. Water cards
+are displayed with a blue drop of water. Earth cards are displayed with a brown
+rock. Wood cards are displayed with a green leaf. Neutral cards are displayed
+with a purple eye. Mech cards are displayed with a silver gear. Here is the
+chart for weaknesses and strengths:
+
+Fire -> -> -> -> -> -> -> -> -> -> -> -> -> -> -> -> Wood
+^                                                     |
+|                                                     V
+^                    Neutral                          |
+|                                                     V
+^                                                     |
+|                                                     V
+^                    Mech                             |
+|                                                     V
+^                                                     |
+|                                                     V
+^                                                     |
+|                                                     V
+Water <- <- <- <- <- <- <- <- <- <- <- <- <- <- <- Earth
+
+Neutral creatures have strong attack, Mech creatures have strong defense. Both
+of these types arenÕt week against anything. (NOTE: Any creature that can do a
+lightning type of attack will work well on a Mech type creature)
+
+Although there are six attributes for the cards, there are also five types of
+cards.
+
+Weapon Cards: The creature will appear around Tara, attack, then disappear. May
+only be used a limited amount of times.
+Independent Cards: The creature will come out of its card and attack along side
+Tara.
+Helper Cards: Helpers come out of their card, but they do things like act as
+decoys, raise attack and defense, ect.
+Summons Cards: Tara turns into the creature and releases one powerful attack.
+Transform Cards: Tara turns into these cards. She can walk around and attack as
+these cards. Some of them can jump, and some can fly. Transforming cards are
+new to Lost Kingdoms II.
+
+-------------------------------------------------------------------------------
+Walkthrough////////////////////////////////////////////////////////////////////
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-------------------------------------------------------------------------------
+
+<>//BHASHEA\\<>
+
+NoblemanÕs Residence
+Enemy Affinities: Fire: 38%, Water: 20%, Neutral: 40%
+Chest Cards:
+053. Dark Raven
+078. Scythe Beast
+# of Red Fairies: 3
+
+
+Welcome to your first level of Lost Kingdoms II! In this level, you should
+start to get used to the camera modes. Once you start the level, turn around
+and enter the door. If you look behind the bookshelf, youÕll see two chests. A
+nice weapon card such as a Lizardman will take care of those crates nicely.
+YouÕll get the Dark Raven and Scythe Beast cards. You canÕt put these cards in
+your deck until after you beat the first level.
+
+Continue down the hallway. You should see a Beaker and a Dark Raven. This will
+be your first fight, obviously. Throw out a Man Trap, and use Lizardman for the
+Dark Raven. After you kill the Dark Raven, help your Man Trap out with the
+Beaker. Recall your Man Trap by pressing R plus whatever button you have your
+Man Trap assigned to. YouÕll fight some Hobgoblins, more Dark Ravens, and a
+Beaker. DonÕt use your Dragon Knight, save that for the boss fight.
+
+BOSS: HELL HOUND
+After two rooms, you should come to the only open door. That will lead to a
+boss fight against a Hell Hound. You have to make sure to stay as far away from
+the Hell Hound as possible, for itÕs quick. Send out some independent cards.
+Once itÕs distracted, use your Dragon Knight and your Lizardman. At the end of
+the level, you can get a Fairy, Dark Raven, or a Beaker.
+---
+Bhashea High Road
+Enemy Affinities: Earth: 24%, Wood: 55%, Neutral: 12%, Mech 9%
+Chest Cards:
+123. Porcupig
+012. Man Trap
+007. Red Lizard
+124. Golden Porcupig
+219. Water Moray
+# of Red Fairies: 3
+
+This is the first real level of Lost Kingdoms II. Bhashea should be a time
+where you get to learn about different kinds of cards, strengths and
+weaknesses, and where you get your first somewhat hard fight. Behind the
+horses, there should be a chest with a Porcupig in it. If you go right, you
+should see a man who will challenge you to throw a card to the other side. Get
+an Man Trap card ready, and get to the farthest edge of the land. Hold the card
+down and guide the card with your analog stick. If you can make it over, the
+bandit will reward you with an Elephant card.
+
+Once you reach the bridge, take a right. You should eventually come to a chest
+with a Man Trap. Keep going until you find Sol. Take the Red Lizard card from
+the chest. Before you continue, find the Deck Point. Add your new cards to your
+deck, and continue on to the boss fight.
+
+BOSS: STORM HAGAN (x2)
+This oneÕs a little harder than the Hell Hound. Maker sure that you have at
+least two Hobgoblins. Once you send out the Hobgoblins (Two will work), you
+have to move quickly. Use Dark Ravens and your Dragon Knight. Make sure that
+you know where both are, because one of them tends to sneak up behind you. Keep
+going and then focus your efforts on the second one. You should be able to beat
+them, in time. The available cards to win are a Man Trap, Porcupig, and Storm
+Hagan.
+Coming Back to Bhashea High Road:
+After coming from Kadishu and Gromtull Desert, youÕre back here again. YouÕll
+see Sol, who says that the Kendarie Army is planning on getting rid of all
+thieves, like the Band of the Scorpion. Sol will help you fight, but heÕs more
+of a burden then a help. As you continue, you should see a Kendarie Soldier
+near the bridge! He will throw out Mech Cards. Ghouls, Porcupigs, and
+Dragoniods works very well. Once youÕve cleared all of the three Kendarie
+Soldiers, Victor wants revenge.
+NOTE: After completing this mission, you may now use ÒKendarie SoldierÓ in Two
+Player Mode.
+---
+Kadishu
+Enemy Affinities: None
+Chest Cards:
+172. Rock Hagan
+037. Demon Hound
+055. Dragonoid
+027. Flayer Spawn
+# of Red Fairies: 5
+
+YouÕll be coming back to Kadishu a lot. Remember that. Once the level starts,
+go directly to your right. At the end of this pathway, you should see a chest.
+Get the Rock Hagan. Go back through the entrance to the town, and talk to some
+of the people. One of them will mention the Fairy Man who is in the desert.
+More on that later. Go through the town, looting chests and getting fairies.
+Remember to check the wells and piles of bags. Once you go under the bridge,
+youÕll see a cutsence where you see a young girl who looks like Tara with a
+Runestone that looks exactly like TaraÕs. Seems like a flashback. After the
+cutsence is over, enter the shop. Buy, Sell, and Upgrade what ever cards you
+want, then continue up the stairs. You should see a statue of Katia, a red
+fairy, and a chest. Go to the pathway to the overworld near the statue and talk
+to the girl near the pathway. She should say something about the Kendarie Army
+hunting bandits. This could be trouble.  Time to go back to Bhashea High Road
+if you choose not to take on Gromtull Desert at this time.
+---
+Gromtull Desert
+Enemy Affinities: Earth: 97%, Neutral: 3%
+Chest Cards:
+084. Venus Spider
+173. Bum Hagan
+068. Evil Eye
+014. Mummy (x2)
+193. Pixie
+043. Sand Beetle
+031. Running Bird
+# of Red Fairies: 5
+
+This could be considered a side quest, but, out of all of the side quests,
+Gromtull Desert is the most important, especially when starting the game. If
+you ever played the Lost Kingdoms, this level should sound familiar. They
+updated the Gromtull Desert theme from the last game. As you all can see,
+Gromtull Desert looks more realistic then it did 200 years ago.
+
+When you start the level, follow the footprints in the sand. You can avoid the
+monsters if you wish. You should see a chest, a lake, a bag, and a door. Walk
+up to the bag and take the bottle, then loot the chest. Go back to where you
+started and take a right instead of going straight. You should see some Red
+Fairies and a chest. Near the chest there is an oil pool. Take some oil, then
+run back to the door near the camel. If you wish, you may open the door near
+the oil and take some chests in there. In the door near the camel, you meet
+Jarvi, the fairy man. He is the ancestor of Alexander. If you go to his house
+in Kadishu, he will exchange the Red Fairies you find for cards. You can get a
+Sand Worm, a Mummy, or a Sand Beetle as an award at the end of this level.
+Please go back to Bhashea High Road to continue the story.
+---
+Kendarie Fortress
+Enemy Affinities: Wood: 15%, Neutral: 20%, Mech: 65%
+Chest Cards:
+005. Mandragora
+110. Aggressor GL2
+112. Death
+178. MechaPult
+071. Venom Lizard
+191. UberBomberBot
+# of Red Fairies: 4
+
+Victor has decided to take of the Kendarian Runestones. Too bad that the
+Runestone Caverns are in Kendaria. To get to Kendaria, you must pass through
+the Kendarie Fortress. The only thing stopping the Band of the Scorpion is the
+large door right in front of them. Victor sends Tara to find the switch. IÕd
+love to see Victor to do this.
+
+Go straight, and search the bags for a Red Fairy, go back to where you started.
+Take a left and go up the stairs. Watch out for the searchlight. If you get
+caught, the doors will close and you have to fight a mech monster. In the chest
+thereÕs a Mandragora. Head up the stairs to find a Blue door open. Enter the
+blue door and begins your first of three fights.
+
+The Soldier only has a Dark Raven and an Aggressor GL2, but donÕt expect an
+easy fight. Keep the boss busy with independents, then get out the summons like
+the Hagans. Keep moving, because he likes to use the Dark Raven. Once heÕs
+down, you get the Blue Key.
+
+Go back downstairs and open the Blue Door. ThereÕs a Deck Point and a Red
+Fairy. Heal at the Deck Point, and keep moving. Go back downstairs and find the
+other door with the Blue Key symbol. Open it, and youÕll be in an area with two
+searchlights. Get the chest with the Aggressor GL2. Find the open door with the
+Red symbol, and fight another Kendarie Soldier. After beating him, you get the
+Red Key.
+
+Instead of taking the new set of stairs, go back to the door in the beginning
+with the Red symbol. Go through the Green door and fight yet another Kendarie
+soldier. After getting the Green Key, go back to the Deck Point. At the end of
+the hallway, you should see a Green Door. Open it to get the Death card. If you
+take the path down to the inlet in the lake like area, you find a Red Fairy in
+a bag. Head back to where you got the Red Key.
+
+You should now find yourself in an area with three searchlights. This also
+means that there are two chests. One chest contains a Venom Lizard while the
+other contains a MechaPult. If you continue, you should find yourself at the
+boss fight.
+
+BOSS FIGHT: KENDARIE SOLDIER
+The Soldier just has more cards then the soldiers. Use the same tactics, but be
+more careful. Use Death, itÕll help. After the battle is over, you can pull the
+switch. You can win a Mandragora, Aggressor GL2, or a MechaPult. You may now
+continue to Kendaria.
+
+-------------------------------------------------------------------------------
+
+<>//KENDARIA\\<>
+
+Runestone Caverns (Upper)
+Enemy Affinities: Water: 90%, Earth: 2%, Mech: 8%
+Chest Cards:
+053. Dark Raven
+061. Blood Bush
+090. Undine
+034. Land Shark (x2)
+192. Gorgon
+194. Baba Yaga
+162. Wichlette
+# of Red Fairies: 5
+
+Bring Earth cards! This level is basicly all Water cards, and Earth Cards work
+the best. When you start out, Victor tells you that you need a key. There is no
+key. When you start, go to the left and find the chest. Take the Dark Raven and
+keep moving. Go to the right now. You should see a red Fairy. Take a left at
+this intersection. Crystal Roses and Land Sharks will attack. Kill them and
+continue. You shoulod see a chest off to the right. ItÕs a Blood Bush. Take it.
+Cross the bridge, and take the Undine card from the chest. Grab the red fairy,
+and then walk over to the Sluice Gate Switch. If the gate is down, you can get
+a red fairy, a Maeltrom, and a Basilisk. If you have the gate up, you can only
+get a Yowie. Return back to the start of the level, and instead of taking the
+first left, keep going straight. You should see another long hallway to the
+left with chest at the end. Open the chest of a Land Shark, and continue to go
+left. YouÕll be in the upper most part of the chamber. Sol is residing near two
+red fairies. Take the Stone Golem car from him, and take both red fairies. Run
+back down to the start of the level and put the stone golem in your deck. Walk
+up to the door and turn into the Stone Golem. You should be able to get a
+Crystal Rose and a Stone Golem from the card draw. Does any one else think that
+the Runestone Caverns are the Yyprek Mines? Anyways...
+---
+Runestone Caverns (Lower)
+Enemy Affinities: Fire: 37%, Water: 61%, Neutral: 2%
+Chest Cards:
+027. Flayer Spawn (x3)
+120. Yowie
+039. Basilisk
+041. Maelstrom (x2)
+# of Red Fairies: 4
+
+Ok, for this level, bring your Crystal Roses, Sythe Beasts, Archer Trees,
+MechaPults, and Dark Ravens. The whole point of this level is to defeat the
+boss at the end. You start the level by running. Just run. After finding some
+Red Fairies, you should see some purple orbs. Avoid these like the plague.
+Seriously, theyÕre really annoying. This level is very straightforward, so itÕs
+almost impossible to get lost. After you go running for awhile, you should come
+into a room where there are stairs. If you raised the gate, go to your right
+and get a Yowie card. If its down, you can get a Maelstrom and a fairy. Go up
+the stairs to get a Basilisk, then go up the stairs with the Yowie to find the
+Kendarian Runestone collection. One of the bandits dies, and you must keep
+moving. Open the chests, and then go through the door. You should find yourself
+in an area that is very narrow. YouÕll meet Leod VII, Lord of Kendaria. After
+this speech, get your long ranged cards ready. Keep going, and then Victor will
+die. Boo hoo. In the next room, you should see the boss.
+
+BOSS FIGHT: BODY OF THE GOD
+Yes, Body of the God. This fight can be a pain if you donÕt have the right
+cards. When he launches those annoying purple beams, one group will go to the
+left, and another goes to the right. Stay in the middle and you should be ok.
+Get out your MechaPult, and get those Crystal Roses ready. When get goes to
+swing for you, just stay out of the way. After defeating him, you see Sol, who
+comes to the rescue. After this, you wonÕt see Sol for a while, but you now
+need to get out of Kendaria.
+-------------------------------------------------------------------------------
+Side Quests////////////////////////////////////////////////////////////////////
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-------------------------------------------------------------------------------
+
+COMING SOON
+
+-------------------------------------------------------------------------------
+Extras/////////////////////////////////////////////////////////////////////////
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-------------------------------------------------------------------------------
+
+<>//Card List\\<>
+
+COMING SOON
+
+-------------------------------------------------------------------------------
+
+<>//Combos\\<>
+
+To activate combos, you have to talk to the man in Kadishu who talk about Z
+powering. To complete a combo, you must have the right cards in your hand.
+Then, you have to Z power each card in the combo. When all the cards needed are
+Z powered, a red boarder should appear around all of the cards. Here is the
+full list of combos and what they do: (more coming soon!)
+
+They will follow this format:
+
+Name:
+Cards:
+MP:
+--
+Triple Hagan
+Storm Hagan, Rock Hagan, Bum Hagan
+6
+---
+Ultimate Pasta
+Red Dragon, Green Dragon, Brine Dragon, Amber Dragon
+16
+---
+Rotary Death
+Decoy Pillar, Carbuncle
+6
+---
+Lizard War
+Lizardman, Red Lizard, Basilisk, Venom Lizard
+5
+---
+Rocky Forecast
+Stone Head, Stone Head, Stone Head
+8
+---
+Sir Spear-A-lot
+Ghost Armor, Chaos Knight
+7
+---
+Temper Tantrum
+Fire Golem, Ice Golem
+7
+---
+Goblin Guts
+Hobgoblin, Goblin Lord
+4
+---
+Lethal Orbit
+Carbuncle, Juggernaut, Whip Worm
+8
+---
+Crystal Rage
+Dragon Knight, Dragon Knight, Crystal Rose
+5
+---
+Mandragora Mixer
+Mandragora, King Mandragora, Mandra Dancer
+4
+---
+Rust and Roll!
+Acid Dragon, Pixie
+5
+---
+EconoMagic
+Tiger Mage, Panther Mage
+12
+---
+Just Visiting
+Doppleganger, Doppleganger
+20
+---
+Djinn and Bear It
+Efreet, Dao, Marid
+7
+---
+Triple Kamikaze
+Flying Ray, Dark Raven, Dark Raven
+3
+---
+One Way Ticket
+Valkyrie, Thantos
+10
+---
+The Masters Four
+Fenril, Behemoth, Demon Fox, Ice Golem
+20
+---
+The Big Save
+Great Turtle, Blue Dragon, Golden Phoenix, White Tiger
+24
+---
+Brutal Nightmare
+Succubus, Incubus
+8
+---
+Phantom Bulldozer
+Wraith, Lich, Sekmet
+9
+---
+Living Large
+Phoenix, Golden Phoenix
+22
+---
+Elemental Victory
+Dryad, Gnome, Undine, Salamander
+8
+---
+Skullapalooza
+Skeleton, Ice Skeleton, Demon Skeleton, Steel Skeleton
+22
+---
+Stone Cold Sniper
+Stone Golem, Archer Tree, Archer Tree
+7
+---
+Mega Tremor
+Elephant King, Elephant
+9
+---
+Time Out!
+Running Bird, Gold Butterfly
+21
+---
+Hell Hole
+Gravity Pillar, Doppleganger
+12
+---
+Spiritual Force
+Earth Elemental, Water Elemental, Fire Elemental, Wood Elemental
+12
+---
+-------------------------------------------------------------------------------
+
+<>//Credits\\<>
+
+IÕd like to thank Dan Birlew (President Evil) for writing the Lost Kingdoms II
+guide. It helped me a lot with extra chests, and saved me with combos. Thank
+you, Dan! I also need to thank Broodwars for general knowledge on the game and
+to IcreamAssassin for helping me finish my card collection. Thank you!

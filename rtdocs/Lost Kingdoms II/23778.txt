@@ -1,0 +1,249 @@
+-------------------------------------------------------------------------------
+
+Lost Kingdoms II Golden Goose FAQ
+
+-------------------------------------------------------------------------------
+Game: Lost Kingdoms II
+Author: r_mage
+Date Created: June 6, 2003
+Date Last Modified: October 13, 2003
+Version 1.10
+Email: r_mage@hotmail.com
+-------------------------------------------------------------------------------
+
+-----------------------------------------------
+Table of Contents
+-----------------------------------------------
+
+1. Legal Stuff
+
+2. Version History
+
+3. Introduction
+
+4. Capture the Golden Goose!
+
+5. Capture the Golden Goose! - Button Commands
+
+6. Acknowledgements
+
+-----------------------------------------------
+-----------------------------------------------
+
+1. Legal Stuff
+
+--------------------------
+--------------------------
+
+Copyright 2003 r_mage (Jonathan Ieong)
+
+This FAQ may be not be reproduced under any circumstances except for personal
+or private use. It may not be placed on any web site or distributed publicly
+without my permission. The only websites thus far that have permission to use
+this FAQ are  gamefaqs.com and gamenotover.com Use of this guide on any other
+website or as a part of any public display is strictly prohibited, and a
+violation of copyright. I will however allow duplication if it is for strictly
+personal use.
+
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+--------------------------
+--------------------------
+
+2. Version History
+
+--------------------------
+--------------------------
+
+October 13, 2003
+
+-Version 1.10 released! - Added gamenotover.com as a new host for this FAQ
+
+June 6, 2003
+
+-Version 1.00 released! - Yay!
+
+
+--------------------------
+--------------------------
+
+3. Introduction
+
+--------------------------
+--------------------------
+
+Welcome to my FAQ devoted to one of the most elusive cards in Lost Kingdoms II.
+I'm sure everyone knows what I'm talking about. It's the darn Golden Goose!
+I decided to write this FAQ to show the easiest and sure-fire way to capture
+the Golden Goose! No second player help required!
+
+Here's the Golden Goose's stats:
+
+        Card: #028 Golden Goose
+   Attribute: Neutral
+        Type: Independant
+       Level: ******
+   Stone Req: 4
+          HP: 60
+         Def: 15
+    Lifespan: 180
+Unique Skill: -
+      Skills: Crazy Legs SPECIAL ATK
+     Buy For: -
+   Sells For: 3000 G
+        Copy: 25000 EXP
+ Description: An independant creature that does nothing but run around like
+              mad.
+ Upgrades to: -
+      Combos: -
+
+Not exactly, a prize winner, but most likely it's one of the cards that you're
+missing.
+
+If you have any questions, comments, suggestions or corrections, please send
+them to r_mage@hotmail.com I will try my best to answer them, but don't feel
+disappointed if I don't answer, I can be busy sometimes [either that or your
+incessant spam is driving me insane]. Please include at least the words
+"Lost Kingdoms II FAQ" in the heading so I don't ignore it. Also make sure to
+read the "Frequently Asked Questions" section just in case your question has
+already been answered.
+
+-----------------------------
+-----------------------------
+
+4. Capture the Golden Goose!
+
+-----------------------------
+-----------------------------
+
+This method is extremely reliable, but it may take one or two tries to get the
+hang of it, but rest assured, you'll be teaching that goose who's boss in no
+time at all! Make sure you read the entire method first before attempting
+anything since the capture of the Golden Goose usually takes only 10 seconds!
+
+
+Before attempting to capture the Golden Goose, you'll need to obtain these
+cards (which isn't too hard):
+
+   1x #031 Running Bird
+   1x #033 Banshee
+   1x #046 Gold Butterfly
+   2x #226 Capture Card
+
+Both the Running Bird and Gold Butterfly cards can be purchased from the card
+shop. You can get the Banshee card by upgrading the Ghoul card (which can
+conveniently be bought from the card shop). Lastly, you can get the two
+capture cards from the man behind Queen Katia's statue in Kadishu (not the one
+on the hill). The first one will cost you 1000 G and the second will cost you
+2000 G.
+
+Now start a new deck and put these five cards into it. Select this deck as
+your active deck and save your game.
+
+Now reset the game (this way, you can always encounter the Golden Goose on the
+first try). When the title screen appears, select VS (make sure there is a
+second controller plugged in). Using the first controller, go to P1 OPTIONS and
+load your save file. Now exit back to the VS Mode main screen and go to RULES.
+Turn on the capture option and return to the VS Mode main screen.
+
+Now start the battle and select Ruldo Forest as the stage. As the battle begins
+you should hear and see Golden Goose. Your opening card should consist of 
+
+   #031 Running Bird
+   #033 Banshee
+   #046 Gold Butterfly
+   #226 Capture Card
+
+If it isn't, try again. As soon as you can, Z-Effect the Running Bird and Gold
+Butterfly cards and the edges of the cards should turn red. Use one of them
+(it doesn't matter which and you don't need to aim at the goose) to perform the
+Time Out! combo. This combo will freeze the Golden Goose and keep it still for
+a few seconds.
+
+Immediately after using the combo, use the Banshee card once (don't worry about
+aiming, this step is to set up the second capture card) Now that the combo has
+frozen the Golden Goose, Z-Effect the Banshee card and run up to the Golden
+Goose. Use the Banshee card and then use the capture card immediately afterwards.
+This should reduce the Golden Goose's HP to a very low level.
+
+After the Banshee card finishes burning out (which shouldn't be too long since
+you just used the last charge), the second capture card will take its place.
+Use it on the Golden Goose to capture it.
+
+Congratulations! You caught the Golden Goose! Now you can exit the battle and
+save your game.
+
+If you botched the attempt or missed throwing the
+capture card, you'll need to reset the game before trying again in order to
+ensure the Golden Goose appears the first time.
+
+If you need help on this feel free to e-mail me and I'll try my best to
+help out!
+
+-----------------------------------------------
+-----------------------------------------------
+
+5. Capture the Golden Goose! - Button Commands
+
+-----------------------------------------------
+-----------------------------------------------
+
+This section goes into detail about which buttons to press and assumes that the
+player has performed all the required steps before hand and the duel is
+starting right away. For some reason, everytime I use this method, my opening
+hand is always in this order:
+
+                   Y-Button
+                   ---------
+                   [       ]
+                   [Gold   ]
+                   [Butter-]  X-Button
+                   [fly    ]  ---------
+        B-Button   [       ]  [       ]
+        ---------  ---------  [Capture]
+        [       ]             [Card   ]
+        [Running]             [       ]
+        [Bird   ]  A-Button   [       ]
+        [       ]  ---------  ---------
+        [       ]  [       ]
+        ---------  [Banshee]
+                   [       ]
+                   [       ]
+                   [       ]
+                   ---------
+
+I suspect that yours will be the same, so the following button commands will
+work only if your cards are in this order.
+
+Hold Z
+Press Y
+Press B
+Release Z
+Press B
+Keep Tapping A until you use the Banshee once
+Run Up to Golden Goose
+Hold Z
+Press A
+Release Z
+Press A
+Press X (The banshee card animation, may delay this, so keep tapping)
+Press A (Capture card should appear in this position)
+
+That should capture Golden Goose!
+
+--------------------------
+--------------------------
+
+6. Acknowledgements
+
+-----------------------------------
+-----------------------------------
+
+This FAQ would not have been possible without the following:
+
+-------------------------------------------------------------------------
+First off, I would like to thank the activison and from software for
+bringing us this excellent game. Keep up the awesome work!
+-------------------------------------------------------------------------

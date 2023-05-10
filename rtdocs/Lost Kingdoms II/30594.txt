@@ -1,0 +1,311 @@
+*****************************************************************************
+Lost Kingdoms 2 Elemental Star Experience FAQ Version 1.01
+
+Authors: MysticWeirdo and zeldafannow
+*****************************************************************************
+       ________        ________          ________  _  __________________
+       \_    _/     ,-'  ____  `-.     ,'  _____ `' ||    ___    ___    |
+         |  |     ,'  ,-'    `-.  `.  /   /     `.  ||  .'   |  |   `.  |
+         |  |    /   /          \   \ |   \       \_||_/     |  |     \_|
+         |  |   |   |            |   |\    `-._              |  |
+         |  |   |   |            |   | `-._    `-.           |  |
+         |  |    \   \          /   /      `-.    `.         |  |
+         |  |     `. ,'/.____,-'  ,'   _      `.    \        |  |
+         |  |      ,' /________,-'    | \       \   |        |  |
+        _|  |___,-'  /                |  `._____/   /       _|  |_
+       /____________/                 |___________,'       /______\
+       ___  ________    _    ____ _______     ____   ___      __   _____
+       \ / / /\ /\  \  | | ,'____|\  ___ \  ,'____`. \  \    /  | / ___ |
+       | |/ / | || \ \ | |/ /  __ | |   \ |/ /    \ \| \ \  / / || (___\|
+       |   /  | || |\ \| || | |_ || |   | || |    | || |\ \/ /| | \___ \
+       | |\ \ | || | \ \ |\ \__/ || |___/ |\ \____/ /| | \  / | ||\___) |
+       |_| \ \/_\/_\  \__| `.__,_|/______/  `.____,' /_|  \/  |_\|_____/
+            \ \            ________________________
+             \/            \____________     _____/
+                                  ___   \   /
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |___|
+                            _____/   \____________
+                           /______________________\
+*****************************************************************************
+CONTENTS
+*****************************************************************************
+I.    Introduction
+II.   Version History
+III.  Elemental Stars
+IV.   LEGAL
+V.    Contact Information
+VI.   Credits
+
+*****************************************************************************
+I.    Introduction
+*****************************************************************************
+We are MysticWeirdo and zeldafannow also known by our real names
+Warren Grieder and Mats Andersson.
+
+In March 2004 we where chatting about the elemental stars. 
+zeldafannow had a idea of a point system in which 
+card used increased the number of points for its element, while decreasing
+the number of points.  MysticWeirdo managed to determine how the point system
+works after some extensive experimentation and will be covering his/our findings
+in this guide.   
+
+
+We have previously written a Card/Item/Combo Collection and Boss Guide for
+this game as well as a Card/Combo/Boss FAQ for the original Lost Kingdoms.
+
+
+*****************************************************************************
+II.   Version History
+*****************************************************************************
+Version 1.01, Sep 05 2004 15:00 GMT-6 DST
+<MysticWeirdo>Some updates to legal and contacts
+
+Version 1.002:
+<zeldafannow> June 19, 2004:
+Very minor changes in the introduction and version hisory.
+
+Version 1.0:
+<MysticWeirdo>June 4 2004: 
+Original version. 
+
+*****************************************************************************
+III. Elemental Stars
+*****************************************************************************
+
+Each card in Lost Kingdoms 2 has one of six elemental types associated with
+it: Fire, Water, Earth, Wood, Neutral, or Mech. Each cards also has a 
+difficulty rating of 1 to 8 stars and a base magic stone consumption from
+0-20 magic stones.
+
+Elemental Skill Levels
+---------------------------
+
+Your character has a skill rating of 1-8 stars for each of the elements which
+vary as you play the game.  The current values of the skills depend on a hidden 
+experience point value for each of the elements.  These experience values
+increase when you use a card of the same element and decrease when you use
+a card of a different element. 
+
+In this guide 1 experience point in a element is equal to the amount of 
+experience the Fire element loses when a 1 magic stone Earth card is used.
+
+This table give the elemental experience points range for each skill level.
++-------+----------------+
+| Level |  Experience    |
++-------+----------------+
+|   1   |     0 -   499  |
+|   2   |   500 -   999  |
+|   3   |  1500 -  2999  |
+|   4   |  3000 -  4999  |
+|   5   |  5000 -  7499  |
+|   6   |  7500 - 10499  |
+|   7   | 10500 - 13999  |
+|   8   | 14000 -  *     |
++-------+----------------+
+
+* I've haven't determined the upper bound for level 8. If it had followed the
+patterns of the other levels it should have been 17999. However my testing
+indicates that the value must be greater than 23840.  
+
+Starting Experience Points
+--------------------------
+
+The experience points for each element at the begining of the game
+is given in this table.
+
++---------+------------+
+| Element | Experience | 
++---------+------------+
+| Fire    |    2500    |
+| Water   |    2500    |
+| Earth   |    2500    |
+| Wood    |    2500    |
+| Neutral |       0    |
+| Mech    |       0    |
++---------+------------+
+
+
+Magic Stone Consumption
+-----------------------
+
+A cards magic stone consumption determined by its base stone requirement,
+whether or not the card is too powerful, i.e. the card's difficulty rating
+in higher than the character current skill level of that element, and 
+whether or not the card has been z-effected. 
+
++--------------------------+-------------+
+| Too Powerful, Z-effected | Consumption |
++--------------------------+-------------+
+|     No          No       |      base   |
+|     No          Yes      |  2 x base   |
+|     Yes         No       |  2 x base   |
+|     Yes         Yes      |  4 x base   |
++--------------------------+-------------+
+
+Increase Modifiers
+------------------
+
+The increase modifier is multiplied by a cards magic stone consumption
+to get the total increase to an elements experience.  Experience cannot
+be increase beyond the maximum for the 8th star level. The value of the
+modifier decreases as the elements level increases as given by this 
+table.
+
++-------+----------+
+| Level | Modifier |
++-------+----------+
+|   1   |    15    |
+|   2   |    14    |
+|   3   |    13    |
+|   4   |    12    |
+|   5   |    11    |
+|   6   |    10    |
+|   7   |     9    |
+|   8   |     8    |
++-------+----------+
+
+Decrease Modifiers
+------------------
+
+The decrease modifier for an element is multiple by the
+magic stone consumption of the card used.  Experience 
+cannot be decreased below 0.  This table gives the
+decrease modifiers for the different elemental pairing.
+
++---------+------+-------+-------+------+---------+------+
+|  Card   |                  Modifiers                   |
+|  Used   | Fire | Water | Earth | Wood | Neutral | Mech |
++---------+------+-------+-------+------+---------+------+
+| Fire    |   -  |   2   |   1   |   2  |    2    |   2  |
+| Water   |   2  |   -   |   2   |   1  |    2    |   2  |
+| Earth   |   1  |   2   |   -   |   2  |    2    |   2  |
+| Wood    |   2  |   1   |   2   |   -  |    2    |   2  |
+| Neutral |   2  |   2   |   2   |   2  |    -    |   4  |
+| Mech    |   2  |   2   |   2   |   2  |    4    |   -  |
++---------+------+-------+-------+------+---------+------+
+
+
+Note on Combos
+---------------
+
+Combos do not seem effect to the experiece levels of the 
+elements.
+
+
+Strategy to get 8 stars for all six elements
+--------------------------------------------
+
+An examination of the modifier table indicates that if we try raising
+all six elements: Fire, Water, Earth, and Wood will hit the break 
+even point at level 7 and Neutral and Mech will hit the break even 
+point at level 5. So its going to be necessary to increase the 
+experience points of some of the elements past the minimum requirement
+for the 8th star.
+
+My calculation indicate that raising Neutral and Mech from 0 
+experience to level 8 at the same time will reduce the other four 
+elements' experience by slightly less than 8500 points.  So we need
+to raise the experience point for each of those four elements to
+at least 22500.  
+
+At level 8, expending 1 magic stone in each of Fire, Water, Earth, and 
+Wood result in a net increase of 3 experience point for each of the
+four elements.  So 2834 magic stones worth other cards (roughly 142 god
+cards) need to be used to used in each element after all four are 
+already at level 8 for the elements to enough experience to allow 
+Neutral and Mech to be raised to level 8. 
+
+
+
+
+**********************************************************************
+IV.  LEGAL
+**********************************************************************
+This document is Copyright 2004 MysticWeirdo a.k.a Warren Grieder and
+zeldafannow a.k.a mats andersson
+All trademarks and copyrights contained in this document are owned by
+their respective trademark and copyright holders.
+
+Permission to host this document is given to the following:
+GameFAQs
+IGN
+Neoseeker
+
+Sites that DO NOT have permission and never will:
+fuska.nu
+cheats.de
+CheatCC.com
+Cheatindex.com
+supercheats.de
+
+
+IF you decide to steal this guide one of us is going to personally
+beat you to death with a stick. 
+
+This file may be not be reproduced under any circumstances except for 
+personal, private use. It may not be placed on any web site or 
+otherwise distributed publicly without advance written permission, 
+except GameFaqs, IGN or Neoseeker. Use of this guide on any other web 
+site or as a part of any public display is strictly prohibited, and a 
+violation of copyright.
+
+
+*****************************************************************************
+V. Contact Information
+*****************************************************************************
+For suggestions and/or corrections for this guide please email:
+{mystic.weirdo [at] gmail.com for MysticWeirdo or if you can't reach 
+me; zeldafannow.faq.contact.mail [at] gmail.com for zeldafannow} 
+
+The most recent version of this guide will be on www.gamefaqs.com.
+Please check there before contacting us with additions/corrections.
+
+
+*****************************************************************************
+VI.   Credits
+*****************************************************************************
+Thanks go to the following:
+Activision and FromSoftware for making this great game.
+
+GameFAQs for hosting this FAQ.
+IGN for hosting this FAQ.
+
+osrevad for doing the ascii shown below for our guide:
+       ________        ________          ________  _  __________________
+       \_    _/     ,-'  ____  `-.     ,'  _____ `' ||    ___    ___    |
+         |  |     ,'  ,-'    `-.  `.  /   /     `.  ||  .'   |  |   `.  |
+         |  |    /   /          \   \ |   \       \_||_/     |  |     \_|
+         |  |   |   |            |   |\    `-._              |  |
+         |  |   |   |            |   | `-._    `-.           |  |
+         |  |    \   \          /   /      `-.    `.         |  |
+         |  |     `. ,'/.____,-'  ,'   _      `.    \        |  |
+         |  |      ,' /________,-'    | \       \   |        |  |
+        _|  |___,-'  /                |  `._____/   /       _|  |_
+       /____________/                 |___________,'       /______\
+       ___  ________    _    ____ _______     ____   ___      __   _____
+       \ / / /\ /\  \  | | ,'____|\  ___ \  ,'____`. \  \    /  | / ___ |
+       | |/ / | || \ \ | |/ /  __ | |   \ |/ /    \ \| \ \  / / || (___\|
+       |   /  | || |\ \| || | |_ || |   | || |    | || |\ \/ /| | \___ \
+       | |\ \ | || | \ \ |\ \__/ || |___/ |\ \____/ /| | \  / | ||\___) |
+       |_| \ \/_\/_\  \__| `.__,_|/______/  `.____,' /_|  \/  |_\|_____/
+            \ \            ________________________
+             \/            \____________     _____/
+                                  ___   \   /
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |___|
+                            _____/   \____________
+                           /______________________\
+
+*****************************************************************************
+*****************************************************************************

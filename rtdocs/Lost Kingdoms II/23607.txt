@@ -1,0 +1,488 @@
+                 LOST KINGDOMS 2 CARD LIST
+                       Version 0.96
+              By Chris Ingersoll (aka Vyolynce)
+                  Last Updated 6/07/2003
+
+Version History:
+
+0.96 -- Nine cards to go!
+0.90 -- Nearly there... Corrected all copy costs, as several were wrong due
+        to a quirk of switching between pages in the game. Added my LK1
+        collection to my LK2 game, which filled in A LOT of holes.
+0.80 -- Minor formatting updates, new cards (some just names), added info on 
+        capturing. Removed # symbols from upgrade lists, since Lycanthrope's 
+        four upgrades would have moved it to a new line (and even then I 
+        still needed to eliminate a couple of spaces per line). Gave Stone
+        Golem its correct number (whoops... glad no one called me on that).
+0.50 -- Initial submission (and acceptance!) to GameFAQS. My first FAQ, 
+        I'm so proud. ^_^
+
+
+--------------------
+I. TABLE OF CONTENTS
+--------------------
+
+I.    Table of Contents -- You're reading it now.
+II.   Intro -- You'll be reading this later.
+III.  Legal -- Nobody really reads this, do they?
+IV.   About the List -- How to read the next section.
+V.    Card List -- What you actually came here to read.
+VI.   Submissions/FAQs -- Didn't like something you read?
+VII.  Outro -- Thanks for reading!
+
+
+--------------------
+II. INTRO
+--------------------
+
+Lost Kingdoms 2 is a great sequel to what is considered to be the first
+RPG on the Nintendo GameCube. Like its predecessor, it features a unique
+card-based combat system that's sort of what you would get if you crossed 
+Pokemon and Yu-Gi-Oh, then decided to NOT aim it at children.
+
+Where the first Lost Kingdoms featured 105 different cards, LK2 adds an
+additional 121 to that total, for a staggering total of 226. Nearly all of
+the cards from the original are included in the game, although some have been
+altered from last year's models; a few appear to have been replaced by new
+versions with identical powers but different names, like the original Griffon, 
+whose function is now covered by Gnome, but other than that they're all here.
+
+We can discuss the differences between the LK1 cards and their updated 
+cousins in a bit. But first, we have to take a brief break to talk legalities. 
+I'll keep it quick.
+
+--------------------
+III. LEGAL
+--------------------
+
+This guide copyright 2003 Chris Ingersoll. 
+
+Some card information (names, mostly) thanks to: Fpe1843, StarBBC, and Craig 
+Davis. Extra special thanks to Craig Davis for being the only one to provide 
+more than just the name and number. :P
+
+Some upgrade information thanks to RolloT88.
+
+This guide may be not be reproduced under any circumstances except for 
+personal, private use. It may not be placed on any web site other than 
+GameFAQS or otherwise distributed publicly without advance written permission.
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All other trademarks and copyrights contained in this document are owned 
+by their respective trademark and copyright holders.
+
+Now that we have that out of the way, let's get to business.
+
+--------------------
+IV. ABOUT THE LIST
+--------------------
+
+The list contains the following information about each card:
+
+* Card Number (#) -- This should be self-explanatory.
+
+* Card Name -- Again, fairly obvious.
+
+* Type/Elem. -- Here's where it gets a bit tricky. There are five card TYPES
+(Independent, Weapon, Summoning, Helper, and Transformation) and six card
+ELEMENTS (Earth, Fire, Water, Wood, Neutral, and Mech; also called Attributes).
+Each of these is abbreviated to its first initial, except for Wood, for which I
+use "G" (think "grass" or "green") to avoid confusion. The letter BEFORE the 
+slash is TYPE, the one AFTER is ELEMENT (just so you know which W means Weapon 
+and which means Water). If I don't know one or both, a question mark is holding 
+its place.
+
+* Level -- a new feature to LK2, each card has a Level rating. If your rating
+in a given element is lower than the level of a given card, your magic stone 
+use (and/or HP loss if you don't have enough) will be double the normal amount.
+
+* Copy (Cost) -- The cost of XP, *IN THOUSANDS*, to copy the card at the card
+shop. So an entry of "2" would mean "2,000", while "1.8" would mean "1,800".
+It's not brain surgery, people -- just math. If a card does not appear in the 
+shop under the "Copy" tab, I assume it cannot *BE* copied and thus put "n/a".
+
+* Upgrades -- You can also upgrade your cards if they have enough XP, just like 
+in the first LK; a key difference is that in LK1, this function was called 
+"Transform". What's the difference, you ask? I've noticed a few cards from LK1 
+that used to be "transformable" cannot be "upgraded" in LK2 (the Dragon Knight, 
+to name one off the top of my head). Also, I would assume that this keeps 
+particularly thick people from getting this function confused with the new 
+"Transform"-type cards.
+
+The format for the Upgrades reads as follows: "card number (XP required, *in 
+thousands*)". If you have multiple choices for the same XP cost (like with the 
+various Lizard Weapon-types), they are included in one entry and separated by 
+slashes (e.g. "004/007/039 (2)", which means those upgrades all cost 2,000XP 
+each). If I do not definitely know the identity of a particular upgrade, I 
+put a question mark and the XP cost. If, when I go into the card shop, the 
+card in question does not appear at all, I assume that the card cannot be 
+upgraded and say so.
+
+Bear in mind, if you haven't played LK1, that upgrading a card consumes the 
+original; you might want to copy it first if you have the spare XP.
+
+Speaking of the original LK, at some point in the game you may be able to 
+transfer your collection from that game into this one. As far as I know, this 
+may be the only way to get certain cards, but I haven't plumbed the depths of 
+the Proving Grounds yet. Bear in mind the following changes that have happened 
+in the last 200 years (um... Alanjeh time; 1 year our time):
+
+* As mentioned, some cards that could be transformed in the original cannot be 
+upgraded in LK2.
+* The very rare cards (you know which ones) can no longer even be copied. For 
+some reason, 011 Jack-o-Lantern cannot be copied either.
+* Many summonings have been altered; all summonings in LK2 have two effects.
+* Some summonings are no longer even summonings! The healing cards are the most
+glaring examples of these, as well as most weaker summonings that have 
+(usually) become more appropriate weapon cards. Other cards have changed type 
+as well.
+* Several Independents are now classified as Helpers (traps and shields, 
+mostly)
+* 008 Unicorn is the only card to have changed element, from Wood to Water.
+* A few cards have had their names changed in addition to any other 
+alteration...
+     023 Water Hopper is now Water Reaper
+     056 Giant Bee is now Dryad
+     050 MegaMandragora is now King Mandragora
+     070 Griffon is now Gnome
+     075 Hand of Fire is now Salamander
+     087 Water Bird is now Mermaid
+     090 Hand of Pain is now Undine
+* And finally, some minor changes, such as how many "charges" certain weapons 
+have, addition of side-effects (healing, paralysis, etc.), and other tweaks. 
+Plus, almost all of the cards have new artwork, but that's not a functional 
+change.
+
+Got all that? Good, let's get to the main event then.
+
+--------------------
+V. CARD LIST
+--------------------
+
+#    Card Name        Type/Elem. Level Copy    Upgrades (Exp, in K)
+-----------------------------------------------------------------------------
+001  Skeleton           I / E     1   2     150 (3), 017 (4)
+002  Ghost Armor        W / G     4   13    101 (11)*
+003  Red Dragon         S / F     5   20    155 (8), 212 (35)
+004  Lizard Man         W / E     1   2     007/039/071 (2), 055 (2.5)
+005  Mandragora         H / G     1   2.5   154 (4), 125 (12), ??? (20)
+006  Elephant           S / E     1   3.5   ??? (27)	
+007  Red Lizard         W / F     1   2     004/039/071 (2), 055 (2.5)
+008  Unicorn            S / W     7   45    (does not upgrade)*
+009  Hobgoblin          I / F     1   3     077 (20)
+010  Sand Golem         H / E     2   6     145 (9), 030 (14), ??? (20)
+011  Jack-o-Lantern     S / F     4   n/a   (does not upgrade)
+012  Man Trap           I / G     1   3.2   157 (13), 165 (26)
+013  Sand Worm          S / E     4  16	    (does not upgrade)
+014  Mummy              W / E     1   3     (does not upgrade)
+015  Cockatrice         W / G     4  14     (does not upgrade)
+016  Sasquatch          S / W     6  12.5   158 (15)
+017  Wraith             W / W     2   4     122 (6)
+018  Orc                W / F     1   1.2   171/172/173 (6)
+019  Fairy              H / W     1   2     140 (4), 117/176 (8)
+020  Vampire Bush       H / W     4  12     174 (27)
+021  Catoblepas         I / E     5  17.5   (does not upgrade)
+022  Kraken             S / W     7  40     (does not upgrade)
+023  Water Reaper       W / W     2   3.5   189 (6), ? (30)
+024  Fenril             S / G     6  32     (does not upgrade)
+025  Lich               W / E     6  27     (does not upgrade)	
+026  Carbuncle          H / E     3  10     92 (13), 114 (18)
+027  Flayer Spawn       W / F     1   4     096 (20)
+028  Golden Goose       I / N     6  25     (does not upgrade)
+029  Zombie Dragon      S / E     7  36     (does not upgrade)
+030  Fire Golem         S / F     5  17     (does not upgrade)	
+031  Running Bird       H / E     3   7     (does not upgrade)	
+032  Giant Crab         S / W     1   3     (does not upgrade)	
+033  Banshee            W / G     5  19     149 (27)
+034  Land Shark         I / W     3   8     (does not upgrade)	
+035  Berserker          I / F     2   3     211 (10), 180 (22), 195 (34)
+036  Flying Ray         W / W     1   1.5   023 (1.5), 034 (6)
+037  Demon Hound        I / G     2   6     (does not upgrade)
+038  Behemoth           S / E     6  25     (does not upgrade)
+039  Basilisk           W / W     2   2.5   004/007/071 (2), 055 (2.5)
+040  Mole Monster       H / N     3  10     (does not upgrade)
+041  Maelstrom          H / W     2   5     (does not upgrade)
+042  Lycanthrope        W / G     1   2.5   078 (3), 037 (6), 197 (7), 034 (32)
+043  Sand Beetle        I / E     2   6     (does not upgrade)
+044  Necromancer        S / N     5  21     ??? (12)
+045  Great Turtle       I / E     8  n/a    (does not upgrade)
+046  Gold Butterfly     H / G     3   8     (does not upgrade)
+047  Ghoul              W / G     1   2.5   033 (20)
+048  Treant             H / G     3  10     167/168 (7)
+049  Sea Monk           S / W     5  21     (does not upgrade)
+050  King Mandragora    H / G     7  32     (does not upgrade)
+051  Larval Fly         H / W     3   8     ??? (10)
+052  Crystal Rose       W / W     3  12     (does not upgrade)
+053  Dark Raven         W / F     1   2     187 (12), 205 (25)
+054  Wizard             H / F     3  15     (does not upgrade)
+055  Dragonoid          W / E     2   2.5   004 (2), 142 (5), 073 (15)
+056  Dryad              H / G     2   3     048 (6), 109 (25)
+057  Birdman            T / G     5  10     139 (20)
+058  Will o Wisp        H / F     1   3.5   (does not upgrade)
+059  Archer Tree        W / G     3   8     (does not upgrade)*
+060  Stone Head         H / F     5  12     (does not upgrade)* 
+061  Blood Bush         W / F     1   6     020 (15)
+062  Efreet             W / F     4  15     (does not upgrade)
+063  Dragon Knight      W / W     3   6     (does not upgrade)
+064  Demon Fox          S / F     6  30     (does not upgrade)
+065  Juggernaut         H / E     5  10     045 (47)
+066  Fire Gargoyle      S / F     4  12     (does not upgrade)
+067  Great Demon        W / F     4   7     112/111 (7), 161 (25)
+068  Evil Eye           H / G     1   3.5   ??? (10)
+069  Blue Dragon        S / W     8  n/a    (does not upgrade)
+070  Gnome              H / E     2   4     131 (12), 106 (25)
+071  Venom Lizard       W / G     2   2.5   004/007/039 (2), 055 (2.5)
+072  Tiger Mage         H / F     6  25     (does not upgrade)
+073  Hydra              S / W     5  16     (does not upgrade)
+074  Siren              I / W     5  18     (does not upgrade)
+075  Salamander         H / F     2   3     054 (10), 062 (12), 108 (25)
+076  Chimera            S / F     4  13     132 (10), 186 (21)
+077  Goblin Lord        H / N     4  14     (does not upgrade)
+078  Scythe Beast       W / G     2   3     ??? (30)
+079  Kitty Trap         H / F     2   7     (does not upgrade)
+080  Night Mare         I / N     4  13     200 (42), 008 (36)
+081  Golden Phoenix     H / F     8  n/a    (does not upgrade)
+082  Rheebus            H / G     4  12.5   (does not upgrade)
+083  White Tiger        S / G     8  n/a    (does not upgrade)
+084  Venus Spider       S / E     2   4.5   094 (3)
+085  Vampire            S / N     6  28     (does not upgrade)
+086  Sphinx             W / E     6  28     (does not upgrade)
+087  Mermaid            H / W     6  30     (does not upgrade)
+088  Puppet Master      S / N     6  28     (does not upgrade)
+089  Plague Rat         H / E     4   6     (does not upgrade)
+090  Undine             H / W     2   4     134 (12), 107 (25)
+091  Whip Worm          H / G     5  22     (does not upgrade)
+092  Trickster          I / G     5  18     ??? (13)
+093  Demon Skeleton     I / W     4  20     ??? (25)
+094  Caterpoker         I / G     3  10     013 (17)
+095  Beelzabub          H / N     5  25     (does not upgrade)
+096  Mind Flayer        S / W     6  30     (does not upgrade)  
+097  Ice Golem          S / W     6  27.5   (does not upgrade)
+098  Cyclops            H / E     5  10     (does not upgrade)
+099  Black Dragon       I / N     7  50     (does not upgrade)
+100  Steel Skeleton     I / N     6  30     (does not upgrade)
+101  Chaos Knight       W / N     5  22     (does not upgrade)
+102  Decoy Pillar       H / N     5  21     ??? (20)
+103  Elephant King      S / E     6  30     (does not upgrade)
+104  God of Destruction S / N     8  n/a    (does not upgrade)
+105  Doppleganger       I / N     8  n/a    (does not upgrade)
+106  Earth Elemental    H / E     6  25     (does not upgrade)
+107  Water Elemental    H / W     6  25     (does not upgrade)
+108  Fire Elemental     H / F     6  25     (does not upgrade)
+109  Wood Elemental     H / G     6  25     (does not upgrade)
+110  Aggressor GL2      I / M     3   7     (does not upgrade)
+111  Succubus           S / N     5  20     085 (20)
+112  Incubus            S / N     5  20     085 (20)
+113  Valkyrie           S / F     7  42     (does not upgrade)
+114  Napalm Beast       H / F     5  18.5   (does not upgrade)
+115  Green Dragon       S / G     5  10     155 (8), 188 (10), 221 (35)
+116  Wyvern             T / N     6  27     (does not upgrade)
+117  Sprite             H / W     3  12     181 (9)
+118  Leprechaun         H / F     3   9     (does not upgrade)
+119  Charadius          W / W     5  16     (does not upgrade)
+120  Yowie              I / W     1   1     043 (3), 084 (4), 051/046 (5)
+121  Asparas            H / W     6  28     (does not upgrade)
+122  Death              W / N     3  11     185 (27)
+123  Porcupig           I / E     1   1.5   124 (5), 089 (10), 021 (15)
+124  Golden Porcupig    I / E     3  10     082 (8)
+125  Mandra Dancer      I / G     4  12     050 (23)
+126  Super Pumper       H / W     7  36     (does not upgrade)
+127                     ? / ?     ?   ?
+128  Vodiaroi           I / W     4   6     192 (5), 087 (9), 049 (7)
+129  Uroboros           H / E     8  n/a    (does not upgrade)
+130  Yin Yang           I / N     7  43     (does not upgrade)
+131  Dao                W / E     4  15     (does not upgrade)
+132  Manticore          S / F     5   ?
+133                     ? / ?     ?   ?
+134  Marid              W / W     4  15     (does not upgrade)
+135  Elf                I / G     3   8     137 (15), 136 (27)
+136  Elf Lord           I / G     5  30     (does not upgrade)
+137  Dark Elf           I / N     6  18.5   (does not upgrade)
+138  Global Bust        H / E     5  16     (does not upgrade)
+139  Garuda             T / G     7  45     (does not upgrade)
+140  Popgun Charlie     I / F     2   2.5   177 (4), 067 (11), 159 (34)
+141  Acid Cloud         I / E     4  16     (does not upgrade)
+142  Baby Dragon        I / E     3   2     003/143/115/160 (10)
+143  Brine Dragon       S / W     5  20     155 (8), 069 (35)
+144  CircaSaurus        T / G     1   2     203 (7.5), 182 (10), 164 (20)
+145  Stone Golem        T / E     4  13.5   (does not upgrade)
+146  Gizmolizer         S / M     5  20     (does not upgrade)
+147  Mechalance 5L      I / M     3   7     (does not upgrade)
+148                     ? / ?     ?   ?
+149  Sekmet             W / G     8  n/a    (does not upgrade)
+150  Undead Knight      I / F     2   4     002 (10), 093 (20)
+151  Panther Mage       H / W     6  25     (does not upgrade)
+152  Lamassa            ? / ?     ?   ?
+153                     ? / ?     ?   ?
+154  Myconoid           H / E     2   6     210 (9)
+155  Spartoi            W / E     6  24     (does not upgrade)
+156  Phantom Ship       S / W     7  50     (does not upgrade)
+157  Raflesia           H / G     3   9.8   (does not upgrade)
+158  Daidarapochi       S / W     5  31     (does not upgrade)
+159  Gemini             S / F     7  45     (does not upgrade)
+160  Amber Dragon       S / E     5  10     155 (8), 029 (18), 129 (35)
+161  Demon Lord         W / F     7  43     (does not upgrade)
+162  Witchette          I / W     1   2.5   194 (14), 072/151 (17), 121 (20)
+163  Acid Bot           H / M     3   7.5   (does not upgrade)
+164  Chamelous          I / G     5  22.222 (does not upgrade)
+165  Devil Plant        I / G     5  21     (does not upgrade)
+166  Centaur            T / G     6  26     (does not upgrade)
+167  Dark Treant        H / G     4  12     (does not upgrade)
+168  Coal Treant        H / F     4  12     (does not upgrade)
+169  Sleeping Giant     S / G     4  14     (does not upgrade)
+170  Gravity Pillar     H / N     7  40     (does not upgrade)
+171  Storm Hagan        S / G     2   6     169 (18)
+172  Rock Hagan         S / W     2   6     016 (9)
+173  Bum Hagan          S / E     2   6     (does not upgrade)
+174  Octobush           H / N     7  40     (does not upgrade)
+175  Chariobot          T / M     5  25     (does not upgrade)
+176  Dark Sprite        H / N     3  12     (does not upgrade)
+177  Gargoyle           I / F     3   8.5   066 (7), 102 (35)
+178  Mechapult          I / M     3  12     (does not upgrade)
+179  Agressor DX5       I / M     4  20     (does not upgrade)
+180  Matador            I / F     5  22     (does not upgrade)
+181  Phooka             H / W     5  25     (does not upgrade)
+182  Devata             T / N     4  15     044 (12)
+183                     ? / ?     ?   ?
+184  Cerebus            T / F     5  16     (does not upgrade)
+185  Thanatos           S / N     7  40     (does not upgrade)
+186  Nueh               S / G     7  42     083 (25)
+187  Horus              I / G     4  12     (does not upgrade)*
+188  Acid Dragon        H / N     6  30     (does not upgrade)
+189  Rubber Froggy      I / W     3   5     128 (5), 126 (20)
+190  Boom Monkey        I / F     6  28     (does not upgrade)
+191  UberBomberBot      I / M     4  16     (does not upgrade)
+192  Gorgon             S / N     5  18     (does not upgrade)
+193  Pixie              I / E     3  16     (does not upgrade)
+194  Baba Yaga          T / W     5  18     (does not upgrade)
+195  Berserk Master     I / F     7  48     (does not upgrade)
+196  Rabandos           S / N     8  n/a    (does not upgrade)
+197  Hellhound          T / F     3  10     184 (20)
+198  Tumble Chick       I / E     1   1.4   031 (6), 015 (14), 074 (15)
+199  Mad Reverser       H / G     6  28     (does not upgrade)
+200  Sleipnir           S / W     8  n/a    (does not upgrade)
+201  Claws-R-Us         I / M     5  22     (does not upgrade)
+202  Triblaster         S / M     5  20     (does not upgrade)
+203  Anarchy Owl        H / G     3   9.6   088 (13), 130 (20)
+204  Pegasus            S / G     7  46     (does not upgrade)
+205  Phoenix            H / F     6  30     ??? (25)
+206  Ashura             H / F     8  n/a    (does not upgrade)
+207  Talos              T / E     7  50     (does not upgrade)
+208                     ? / ?     ?   ?
+209  Psycho Dice        S / N     4  22     (does not upgrade)
+210  Blue Mold          H / E     4  12     (does not upgrade)
+211  Jade Giant         S / F     3  10     206 (50)
+212  Fafnir             S / F     8  n/a    (does not upgrade)
+213  Beaker             ? / ?     ?   ?
+214                     ? / ?     ?   ?
+215  SuperScrubber      H / M     4   7     (does not upgrade)
+216  Astrobot           ? / M     ?   ?     (does not upgrade)
+217                     ? / ?     ?   ?
+218  Fire Moray         H / F     3  11     (does not upgrade)*
+219  Water Moray        W / F     4  11     (does not upgrade)*
+220  Earth Moray        W / E     4  11     (does not upgrade)*
+221  Ryuhi              S / G     8  n/a    (does not upgrade)
+222  Demon Swordsman    W / E     7  n/a    (does not upgrade)
+223  Ice Skeleton       I / W     8  n/a    (does not upgrade)
+224  Sacred Umpire      S / M     8  n/a    (does not upgrade)
+225                     ? / ?     ?   ?
+226  Capture Card       H / N     0  n/a    (does not upgrade)**
+
+* Can be combined into a new card by the man near Kadishu's fountain.
+** See below.
+
+Whew! That's a lot of different cards for a thirty-card maximum per deck, no?
+
+--------------------
+VI. SUBMISSIONS/FAQs
+--------------------
+
+This list is far from complete, obviously. I've transferred my extensive 
+collection from LK1 as of version 0.90, so there are a lot less holes in the 
+first half of the list. The rest, as you saw, are just blanks, with a few names
+here and there. If you'd like to help out or feel the need to point out 
+something I screwed up (I can take it, just be constructive), you can contact 
+me via email at vyolynce@earthlink.net. If you know my AIM screen name, you 
+can use that as well, but I'm not giving it out here for sanity purposes.
+
+Anyone who gives me information gets a big thank-you and a mention in the Legal 
+section to give people a reason to read it. Hey, it's the best I can do on what 
+they pay me.
+
+If anyone asks a relevant question, I'll try to answer it in this section, and 
+even mention the first person who asks it in an intelligent manner. Here's an 
+example of what some of those would look like:
+
+Q: Why don't you include Magic Stone Costs on your chart? (SomeUserName)
+A: Two reasons. The first was to conserve space; I wanted to keep each entry on 
+one 79-space line. The second was that stone costs are somewhat irrelevant, as 
+you can still use a card if you don't have enough stones, and depending on 
+levels and/or using the Z-effect (read the manual), actual costs can vary by as 
+much as 4x the original cost.
+
+Q: Can you list combos? (SomeOtherName)
+A: I could, but I'm not going to. This is a Card List, not a Combo FAQ.
+
+And so on. Please note that any questions following this sentence were actually
+submitted by readers like you, although I might have cleaned up the grammar, 
+spelling, and/or context a bit.
+
+Q: How do I capture cards? (ShinLinkLivesOn)
+A: The manual actually tells you how on page 16, but since not everyone
+playing has access to the manual (renters, obviously) and the manual leaves
+out one crucial detail, I might as well cover this here. Capturing underwent a
+major change from LK to LK2 -- no longer can you execute a "capture throw" with
+any card you have. Instead, you may have noticed that card #226 is a "Capture 
+Card". Once you get one, include it in your deck. When you find a beastie you
+want to capture, weaken it until it's near death. Cycle through your deck to
+find the Capture Card, then whip the card at your target (hold down the card's 
+button and direct it in-flight to physically tag the monster). If the 
+feeble 10ATK hit is enough to kill the monster, you'll know it because you'll 
+hear a cool little chime and a pinkish circle will surround the monster, 
+sealing it in a card. Just bear in mind that certain monsters (bosses, mostly) 
+can't be captured.
+
+Well, the manual covers (most of) that, but here's what it neglects to 
+mention: where do you FIND this thing? I wasn't planning on covering 
+locations in this, but I'll make an exception here (and on a case-by-case basis 
+for ultra-rares, I guess). You buy these from a Rogue in Kadishu, who is 
+standing behind the statue near the fountain, for 1000GP... for the first one. 
+Each susequent card costs an increasing amount of cash (2000, then 3000, then 
+5000; anyone try for a 5th?). Why would you need more than one? Because when 
+you successfully use the card (actually capturing a beast, not when you miss 
+or when the blow isn't enough to kill), the Capture Card sort of automatically 
+"upgrades" itself to whatever you captured, so you lose the actual card.
+
+Sucks, doesn't it? I don't think there are any cards that you absolutely NEED
+to capture, however. (I could be wrong.)
+
+Q: Why don't you list attack strength and/or other abilities? (Craig Dennis)
+A: Again, mainly formatting reasons. That and I called this FAQ a "Card List", 
+which is something I plan on sticking to. My intention was to simply provide 
+basic information about the cards, which you can get in the game without needing 
+to hit the A button. I provide upgrade information because it can be maddening 
+to keep track of that and is a much better method for acquiring most cards than 
+spending our life savings on a handful of capture cards; I included copy costs 
+since I was already wasting time in the card shops anyway collecting the upgrade 
+info and it was easy to collect.
+
+
+
+--------------------
+VII. OUTRO
+--------------------
+
+Uh... that's it. I want to thank Activision for continuing to put out quality
+titles, stretching back to Pitfall on the ol' Atari 2600.
+
+While I'm on the subject of Activision, a big thank you to From Software, who 
+took their original game and improved it in nearly every respect for this 
+sequel.
+
+And of course, you gotta thank Nintendo for providing the hardware. Lost 
+Kingdoms 2 is a GCN exclusive, like its older sister.
+
+Well, those are the big ones. If you read this and liked it, you're welcome! If 
+you read this and hated it... well, screw you; nothing I'm gonna say now will 
+change your opinion.

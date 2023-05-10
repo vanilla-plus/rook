@@ -1,0 +1,457 @@
+*****************************************************************************
+Lost Kingdoms 2 Proving Grounds Survival Guide Version 1.03
+
+Authors: MysticWeirdo and zeldafannow
+*****************************************************************************
+       ________        ________          ________  _  __________________
+       \_    _/     ,-'  ____  `-.     ,'  _____ `' ||    ___    ___    |
+         |  |     ,'  ,-'    `-.  `.  /   /     `.  ||  .'   |  |   `.  |
+         |  |    /   /          \   \ |   \       \_||_/     |  |     \_|
+         |  |   |   |            |   |\    `-._              |  |
+         |  |   |   |            |   | `-._    `-.           |  |
+         |  |    \   \          /   /      `-.    `.         |  |
+         |  |     `. ,'/.____,-'  ,'   _      `.    \        |  |
+         |  |      ,' /________,-'    | \       \   |        |  |
+        _|  |___,-'  /                |  `._____/   /       _|  |_
+       /____________/                 |___________,'       /______\
+       ___  ________    _    ____ _______     ____   ___      __   _____
+       \ / / /\ /\  \  | | ,'____|\  ___ \  ,'____`. \  \    /  | / ___ |
+       | |/ / | || \ \ | |/ /  __ | |   \ |/ /    \ \| \ \  / / || (___\|
+       |   /  | || |\ \| || | |_ || |   | || |    | || |\ \/ /| | \___ \
+       | |\ \ | || | \ \ |\ \__/ || |___/ |\ \____/ /| | \  / | ||\___) |
+       |_| \ \/_\/_\  \__| `.__,_|/______/  `.____,' /_|  \/  |_\|_____/
+            \ \            ________________________
+             \/            \____________     _____/
+                                  ___   \   /
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |___|
+                            _____/   \____________
+                           /______________________\
+*****************************************************************************
+CONTENTS
+*****************************************************************************
+I.    Introduction
+II.   Version History
+III.  Proving Grounds
+IV.   LEGAL
+V.    Contact Information
+VI.   Credits
+
+*****************************************************************************
+I.    Introduction
+*****************************************************************************
+We are MysticWeirdo and zeldafannow also known by our real names
+Warren Grieder and Mats Andersson.
+
+This guide provides a miniwalkthrough for getting through the Proving 
+Grounds in Lost Kingdoms II. 
+
+We have previously written a Card/Item/Combo Collection and Boss Guide for
+this game as well as a Card/Combo/Boss FAQ for the original Lost Kingdoms.
+
+
+*****************************************************************************
+II.   Version History
+*****************************************************************************
+Version 1.03, July 03, 2005 11:13 GMT-6 DST.  Updated copywrite
+
+Version 1.02, Sep 05 2004 15:00 GMT-6 DST
+<MysticWeirdo>Some updates to legal and contacts
+
+Version 1.0101: very minor changes in the top
+
+Version 1.01: June 19: Fixed strategy for Vouivres.
+
+Version 1.0:  June 6 2004: Original version. 
+
+*****************************************************************************
+III. Proving Grounds
+*****************************************************************************
+
+What are the Proving Grounds?
+=============================
+
+The Proving Grounds are a 20 level dungeon that becomes available after
+finishing the main story in Lost Kingdoms 2.
+
+Each level of the proving ground consist of four large circular rooms 
+arranged in a square with hallways connecting the rooms forming the sides of 
+the squares. At the each end of the hallways there is one of: a door, a 
+grate, or a brick wall.  The grates cannot be passed. The brick walls can be 
+destroyed with a weapon card. 
+
+
+
+ /^^\       /^^\
+| nw |-----| ne |
+ \__/       \__/
+  |          |
+  |          |
+  |          |          
+ /^^\       /^^\
+| sw |-----| se |
+ \__/       \__/
+
+
+Sometime when you travel down a hallway the door at the other end is already 
+open.  This usually indicated that the next room contains a mandatory battle. 
+Except for the mandatory battles, you can avoid the monsters and head 
+straight for the exit.
+
+The exit for each of the first 19 levels is a circular column of brick with a 
+few bricks shifting positions. The 20th and final level has an extra room in 
+the center where you fight the final opponent of the proving grounds.
+
+Recomended Deck:
+================
+Minimum Requirements
+
+2 Brine Dragons
+4 Banshees
+1 God of Destruction
+4 Red Dragons 
+1 Amber Dragon
+2 Capture Cards
+1 Berserk Master
+
+For the remaining cards you might want some extras of any of these cards
+or any favorites you might have or cards your gathering experience for.  
+A Sprite or two for healing and a Decoy Pillar to distract enemies may be 
+useful.
+
+StormtrooperBW addes this suggestion for your deck: "I think a staple needed 
+for Proving Grounds would be that Neutral Shadow Transform monster that makes 
+you turn into a shadow and go underground. Enemies don't notice you, so you 
+can easily slip past some of those very annoying monsters (like Fenril, for 
+example) or avoid some of the giant monsters in the final stages."
+
+NOTE:  The neutral shadow transformation card is Devata.
+
+Walkthrough:
+============
+
+Unless a battle is mandatory, you primary strategy in the proving grounds
+should be to run.  Keep to the walls rather than cutting to the middle
+of the rooms where you risk getting cut in the crossfire.  If you manage
+to get pinned against the wall, use the Red Dragon's Earth Break and/or
+the Brine Dragon's Sonic Tail to attack the monster holding you in place.
+
+This walkthrough provides directions for each level and a strategy for the
+mandatory battles.  A list of enemies found on each level follows the 
+directions for the level.
+
+
+Level 1:
+---------
+You start in the southwest room.  Go through the door to the north to go down
+the hallway to the northwest room.  Use a weapon card to destroy the brick
+wall blocking the hallway to the east an go the the northeast room where 
+you'll find the exit to level 2.
+
+(Enemies: Berserker, Scythe Beast, Flying Ray, Will-o-wisp, Dragon Knight,
+Berserk Master)
+
+Level 2:
+---------
+You begin in the northeast room this time.  Go west through the door to the
+northwest room, and then through the south door to the southwest room. Go to
+level 3 through the exit here.
+
+(Enemies: Wizard, Basilisk, Treant, Lizardman, Red Lizard, Venom Lizard)
+
+Level 3:
+---------
+You start in the southwest room.  Go the the east door to the south east room
+and then through the north door to the northeast room.  Here you must fight 
+two Fire Golems, a z-effected Brine Dragons Sonic Tail attack will one hit KO
+them.  Go through the door to the west to the northwest room where you find
+the exit to level 4.
+
+(Enemies: Fire Golem, Popgun Charlie, Hobgoblin, Matador, Orc)
+
+
+Level 4:
+---------
+You begin in the northwest room.  Head through the door to the south to the 
+southwest room, then through the door to the east to the southeast room, and
+finally to through the north door to the northeast room.  Go to level 5
+through the exit here.
+
+(Enemies: Valkyrie, Salamander, Fire Elemental, Demon Fox, Ashura, Great 
+Demon)
+
+Level 5:
+---------
+You begin in the northeast room.  Break the wall to the west to get to the
+northwest room.  Take the south door to the southwest room.  Here you are
+force to fight a Night Mare, a Tumblechick, a Mole Monster, and a Dragonoid.
+A z-effected banshee will one hit KO all of these.  Go through the door to 
+the east to go to the southeast room, where the exit to level 6 awaits.
+
+(Enemies: Trickster, Tumble Chick, Cyclops, Mole Monster, Night Mare, 
+Dragonoid)
+
+
+Level 6:
+---------
+You start in the southeast room.  Go through the door to the north to the
+northeast room and then through the door to the west to the to the northwest
+room.  Take the exit in the northwest room to level 7. (There are no grates
+to block your way on this level so you can go the other way)
+
+(Enemies: Juggernaut, Venus Spider, Bum Hagan, Stone Golem, Maelstrom )
+
+Level 7:
+---------
+You start in the northwest room.  Head south through the door to the 
+southwest room. Go through the east door to the southeast room.  There's
+another mandatory fight here, this time against four Vouivre.  Run around
+to lure there together and use a single z-effected Red Dragon's Earth
+Breaker to take them out.  Go the north door to the northeast room where you
+can exit to level 8.
+
+(Enemies: Blue Mold, Banshee, Earth Moray, Skeleton, Vouivre)
+
+Level 8:
+---------
+You begin in the northeast room.  Go through the west door to the northwest
+room and then through the door to the south to the southwest room.  Take the
+exit here to level 9.  (Like on level 6, there are no grate so you can go
+the other way.)
+
+(Enemies: Elephant King, Behemoth, Gnome, Sphinx, Dao, Earth Elemental)
+
+
+Level 9:
+---------
+You start in the southwest room where you have a manditory fight against a 
+Caterpoker, a Circasaurus, an Acid Cloud, and a Carbuncule.  Z-effected 
+banshees will take out the Carbuncle and Acid Cloud, and 2 Red
+Dragon Earth Breakers will take out the Caterpoker and Circasaurus. Go 
+go through the door to the east and break the wall at the end to get to
+the southeast room where you can exit to level 10.
+
+(Enemies: CircaSaurus, Acid Cloud, Caterpoker, Carbuncle, Goblin Lord)
+
+Level 10:
+---------
+You begin in the southeast room.  Go through the north door to the northeast
+room. Continue through the west door to the northwest room and take the south
+door to the southwest room.  The exit to level 11 is in the southwest room.
+(If there a Sleeping Giant in the center of a room on this level keep along
+the walls to avoid being put to sleep, if that happened the elfs on this 
+level will finish you off before you awaken.)
+
+(Enemies: Elf Lord, Panther Mage, Lycanthrope, Blood Bush, Sleeping Giant)
+
+Level 11:
+---------
+You start in the southwest room.  Take the door to the north to get to the
+northwest room.  Here you need to fight 2 Archer Trees, a Chameleus, and a
+Lycantrope.  Use the Red Dragon's Earth Breaker on all of these.  Try to
+lure the Lycantrope and the Cameleus together so you can get them both at
+the same time.  There's a chance that they may respawn forcing you to kill 
+them again, z-effected Banshee will also take out the Archer trees if this
+happens. Go through the door to the east to get to the northeast room and 
+take to exit to level 12.
+
+(Enemies: Archer Tree, Plague Rat, Raflesia, Ghost Armor, Chameleus, Ghoul)
+
+Level 12:
+---------
+You begin in the northeast room.  Take the door the south to the southeast
+room. Then take the door to the west to get to the southwest room.  Then
+take the door to the north to the northwest room.  There a Mandragora King
+guarding the exit so you might want to use a Z-effected Red Dragon when
+you get close to it to avoid taking damage, and take out the pack of Fenril
+that are likely nipping at your heals.  Take the exit to level 13.
+
+(Enemies: Whip Worm, Fenril, Dryad, Madragora King, Garuda)
+
+Level 13:
+---------
+You start in the northwest room.  Break down the wall to the east and go to
+the northeast room.  Take the south door to the southeast room where you
+can exit to level 14.
+
+(Enemies: Rubber Froggy, March Hare, Tiger Mage, Octobush, Pazuzu)
+
+Level 14:
+---------
+You start in the southeast room.  Take the west door to the southwest room.
+Here you have to fight a Red Dragon and a Brine Dragon.  The Brine Dragon 
+can be taken out with a Z-Effected Amber Dragons Rocky Roar.  For the Red
+Dragon you can use a Z-effected Brine Dragons Sonic Tail followed by a
+Banshee.  Head out the north door to the northwest room and then to through
+the east door to the northeast room.  Exit to level 15 from the northeast 
+room.
+
+(Enemies: Baby Dragon, Acid Dragon, Red Dragon, Brine Dragon, Amber Dragon)
+
+Level 15:
+---------
+You start in the northeast room.  Break the wall to the west to get to the
+northwest room.  Go through the door to the south to get to the southwest
+room where you can exit to level 16.
+
+(Enemies: Mermaid, Vampire Bush, Wraith, Baba Yaga, Asparas, Water Moray)
+
+Level 16:
+---------
+You begin in the southwest room.  Take the east door to the southeast room,
+then the northdoor to the northeast room.  The exit to level 17 is in the
+northeast room.
+
+(Enemies: Marid, Undine, Ice Golem, Demon Skeleton, Rock Hagan )
+
+
+Level 17:
+---------
+You start in the northeast room.  There's a Super Pumper by the door to the 
+south that you might want to eliminate with a Z-powered Banshee.
+Take the door to the south and go the the southeast room.  Eliminate the
+two Super Pumpers in front of the exit and take it to level 18.
+
+(Enemies: Super Pumper, Yin Yang, Mind Flayer, Octobush, Boom Monkey)
+
+
+Level 18:
+---------
+You start in the southeast room.  Break the wall to the west and go to the 
+southwest room.  Break another wall to the north and go to the northwest 
+room.  Take the exit to level 19 from the northwest room.
+
+(Enemies: Vampire, Puppet Master, Wyvern, Chaos Knight, Necromancer)
+
+
+Level 19:
+---------
+You start in the northwest room.  Go out the south door to the southwest
+room and then through the east door to the southeast room.  Here you fight
+a Kraken and a Neuh.   For the Kraken, use the God of Destruction's
+Final Judgment follow by any attack. A Z-effected Red Dragon Earth Breaker 
+follow by a Banshee will take care of Neuh.  Leave by the north door and take
+the exit to level 20 from the northeast room.
+
+(Enemies: Black Dragon, Demon Lord, Kraken, Nueh, Ryuhi, Fafnir)
+
+
+Level 20:
+---------
+You start the final level in the northeast room.  Go through the south door
+to the southeast room, and then through the west door to the south west room.
+Here your have a mandatory battle against the four god cards: The Golden 
+Phoenix, the Blue Dragon, the Great Turtle, and the White Tiger. This can be
+a difficult battle but it doesn't need to be if you lead off with a Berserk
+Master.  This cause the gods to fight amongst themselves (just don't get to 
+close) and the Golden Phoenix will destroy itself.  There should be one
+weaken god left by the time the Berserk Master is exhausted.  Use the
+God of Destruction's Final Judgment and finish it off with any attack.
+
+After defeating to gods go through the north door to the northwest room and
+the go through the east door.  Halfway down the hallway turn right and go
+through the door to the center room. Here you face the final opponent of the
+proving grounds, the Emperor.  When fighting the Emperor, use z-powered 
+Banshees and quickly pick up some magic stones after each hit and then
+retreat to a safe distance.  After the 8th hit switch to capture cards, the 
+second capture card will capture it.
+
+(Enemies: Steel Skeleton, Golden Phoenix, Blue Dragon, Great Turtle, White 
+Tiger, Emperor)
+
+
+
+*****************************************************************************
+IV.  LEGAL
+*****************************************************************************
+This document is Copyright 2004, 2005 MysticWeirdo a.k.a Warren Grieder and
+zeldafannow a.k.a mats andersson
+All trademarks and copyrights contained in this document are owned by
+their respective trademark and copyright holders.
+
+Permission to host this document is given to the following:
+GameFAQs
+IGN
+Neoseeker
+
+Sites that DO NOT have permission and never will:
+fuska.nu
+cheats.de
+CheatCC.com
+Cheatindex.com
+supercheats.de
+
+This file may be not be reproduced under any circumstances except for 
+personal, private use. It may not be placed on any web site or 
+otherwise distributed publicly without advance written permission, 
+except GameFaqs, IGN or Neoseeker. Use of this guide on any other web 
+site or as a part of any public display is strictly prohibited, and a 
+violation of copyright.
+
+
+*****************************************************************************
+V. Contact Information
+*****************************************************************************
+For suggestions and/or corrections for this guide please email:
+{mystic.weirdo [at] gmail.com for MysticWeirdo or if you can't reach 
+me; zeldafannow.faq.contact.mail [at] gmail.com for zeldafannow} 
+
+
+
+The most recent version of this guide will be on www.gamefaqs.com.
+Please check there before contacting us with additions/corrections.
+
+
+*****************************************************************************
+VI.   Credits
+*****************************************************************************
+Thanks go to the following:
+Activision and FromSoftware for making this great game.
+
+Thank to StormtrooperBW for the addition of Devata to the deck.
+
+GameFAQs for hosting this FAQ.
+IGN for hosting this FAQ.
+
+The enemy lists were populated with the data from the capture list 
+composed by zeldafannow in our Card, Item, and Combo Collection Guide
+
+
+osrevad for doing the ascii shown below for our guide:
+       ________        ________          ________  _  __________________
+       \_    _/     ,-'  ____  `-.     ,'  _____ `' ||    ___    ___    |
+         |  |     ,'  ,-'    `-.  `.  /   /     `.  ||  .'   |  |   `.  |
+         |  |    /   /          \   \ |   \       \_||_/     |  |     \_|
+         |  |   |   |            |   |\    `-._              |  |
+         |  |   |   |            |   | `-._    `-.           |  |
+         |  |    \   \          /   /      `-.    `.         |  |
+         |  |     `. ,'/.____,-'  ,'   _      `.    \        |  |
+         |  |      ,' /________,-'    | \       \   |        |  |
+        _|  |___,-'  /                |  `._____/   /       _|  |_
+       /____________/                 |___________,'       /______\
+       ___  ________    _    ____ _______     ____   ___      __   _____
+       \ / / /\ /\  \  | | ,'____|\  ___ \  ,'____`. \  \    /  | / ___ |
+       | |/ / | || \ \ | |/ /  __ | |   \ |/ /    \ \| \ \  / / || (___\|
+       |   /  | || |\ \| || | |_ || |   | || |    | || |\ \/ /| | \___ \
+       | |\ \ | || | \ \ |\ \__/ || |___/ |\ \____/ /| | \  / | ||\___) |
+       |_| \ \/_\/_\  \__| `.__,_|/______/  `.____,' /_|  \/  |_\|_____/
+            \ \            ________________________
+             \/            \____________     _____/
+                                  ___   \   /
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |___|
+                            _____/   \____________
+                           /______________________\
+
+*****************************************************************************
+*****************************************************************************

@@ -1,0 +1,5155 @@
+**********************************************************************
+Lost Kingdoms 2 Card, Item, and Combo Collection Guide Version 2.27
+
+Authors: MysticWeirdo and zeldafannow
+**********************************************************************
+       ________        ________          ________  _  __________________
+       \_    _/     ,-'  ____  `-.     ,'  _____ `' ||    ___    ___    |
+         |  |     ,'  ,-'    `-.  `.  /   /     `.  ||  .'   |  |   `.  |
+         |  |    /   /          \   \ |   \       \_||_/     |  |     \_|
+         |  |   |   |            |   |\    `-._              |  |
+         |  |   |   |            |   | `-._    `-.           |  |
+         |  |    \   \          /   /      `-.    `.         |  |
+         |  |     `. ,'/.____,-'  ,'   _      `.    \        |  |
+         |  |      ,' /________,-'    | \       \   |        |  |
+        _|  |___,-'  /                |  `._____/   /       _|  |_
+       /____________/                 |___________,'       /______\
+       ___  ________    _    ____ _______     ____   ___      __   _____
+       \ / / /\ /\  \  | | ,'____|\  ___ \  ,'____`. \  \    /  | / ___ |
+       | |/ / | || \ \ | |/ /  __ | |   \ |/ /    \ \| \ \  / / || (___\|
+       |   /  | || |\ \| || | |_ || |   | || |    | || |\ \/ /| | \___ \
+       | |\ \ | || | \ \ |\ \__/ || |___/ |\ \____/ /| | \  / | ||\___) |
+       |_| \ \/_\/_\  \__| `.__,_|/______/  `.____,' /_|  \/  |_\|_____/
+            \ \            ________________________
+             \/            \____________     _____/
+                                  ___   \   /
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |___|
+                            _____/   \____________
+                           /______________________\
+**********************************************************************
+CONTENTS
+**********************************************************************
+I.     Introduction
+II.    Version History
+III.   Ways to Acquire Cards
+III.i     Missable Cards
+III.ii    Starting Cards
+III.iii   Card Shop
+III.iv    Chests
+III.v     Special Tasks
+III.vi    Automatic rewards for defeating enemies
+III.vii   Red Fairy Rewards
+III.viii  Card Combiner in Kadishu
+III.ix    Importing from Lost Kingdoms 1
+III.x     Upgrade list
+III.xi    Copy List
+III.xii   End of level bonus draw
+III.xiii  Capturing
+IV.    CARD LOCATION LIST
+V.     ITEM LOCATION LIST
+VI.    COMBO LIST
+VII.   BOSS LIST
+VIII   CHARACTERS
+IX.    LEGAL
+X.     Requests
+XI.    Contact Information
+XII.   Credits
+
+**********************************************************************
+I.    Introduction
+**********************************************************************
+we are MysticWeirdo and zeldafannow also known by our real names
+Warren Grieder and Mats Andersson.
+
+<MysticWeirdo>
+Since I've finished my first time through Lost Kingdoms 2 in June
+2003 I've been answering other GameFAQ's users' questions on how to
+locate the various cards in this game, so I've decided write this
+guide to help others locate the various cards. I've included the
+other two collections that can be viewed the ingame menu: items and
+combos.
+<end MysticWeirdo>
+
+This is the first guide that we have written.
+
+<MysticWeirdo>
+A big thanks to zeldafannow for coauthoring this guide with
+the capturable list and filling in the proving ground bonus draw.
+<end MysticWeirdo>
+
+Since writing this guide we've written a similar guide for the
+original Lost Kingdoms.  It can be found on GameFAQs at:
+http://cgi.gamefaqs.com/boards/gentopic.asp?board=19150
+
+And IGN:
+http://faqs.ign.com/articles/498/498966p1.html
+
+
+**********************************************************************
+II.   Version History
+**********************************************************************
+
+Version 2.28, Jul 18, 2005 8:26 GMT-6 DST <MysticWeirdo> Added card
+hydra can be upgrade from to the list of ways it can be obtained.
+
+Version 2.27, Jul 02 2005 10:48 GMT-6 DST <MysticWeirdo> Updated
+copyright.  Added some boss tips.
+
+Version 2.26, Sep 05 2004 15:00 GMT-6 DST <MysticWeirdo>
+Some updates to legal and contacts. Cleaned up some duplication in
+the version history entries.
+
+Version 2.250, June 27 2004 10:27 GMT-6 DST <MysticWeirdo>
+Corrected error in section numbering.  Added some boss strategies.
+
+Version 2.221, June 19 2004 16:03 GMT-6 DST <zeldafannow>
+Added Napalm Beast to Proving grounds level 10 bonus draw.
+Added 3 capturable card to level 8 of the proving grounds.
+
+Version 2.191, June 6 2004 8:25 GMT-6 DST <MysticWeirdo>
+Minor fix to version history.
+
+Version 2.19, June 6 2004 8:11 GMT-6 DST <MysticWeirdo>
+Added bonus draw cards for Proving Grounds 2, Basilisk and Proving
+Grounds 19, Black Dragon.
+
+Version 2.18, June 3 2004 20:00 GMT-6 DST <MysticWeirdo>
+Added Black Dragon strategy from Gabman v2.  Fixed an error in the
+card shop list where the Fire Gargoyle was listed as the Fire Golem.
+
+Version 2.171, may 24 2004 19:45 GMT+1 DST <zeldafannow>
+added the character section and did to Alexander.
+
+Version 2.061, may 23 2004 22:14 GMT+1 DST <zeldafannow>
+corrected version history a bit.
+
+Version 2.06, May 20 2004 7:36 GMT-06 DST <MysticWeirdo>
+Added alternate stategy for four gods battle in proving grounds,
+and earth elemental bonus draw in proving grounds.
+
+Version 2.05, Mar 24 2004 15:56 GMT+1 <zeldafannow>
+added the ascii (thanks osrevad)
+
+Version 2.03, Mar 20 2004 15:56 GMT-06 <zeldafannow>
+Added links to the our guide for the original Lost Kingdom's game.
+
+Version 2.02, Mar 13 2004 7:33 GMT-06 <MysticWeirdo>
+Due to the number of viruses being sent to us our email
+addresses have been obscured in the contacts. Credits updated.
+
+Version 2.01: Mar 8, 2004: <MysticWeirdo>
+added a boss strategy.  Updated Legal 
+section.
+
+Version 2.00: feb 12, 2004: <zeldafannow>
+corrected some errors
+
+Version 1.99: feb 11, 2004: <zeldafannow>
+added the upgrade and copy lists
+
+Version 1.79: Feb 10, 2004: <MysticWeirdo>
+Fixed several spelling mistakes.
+
+Version 1.78: feb 8, 2004 <zeldafannow>
+added undine in the proving grounds bonus draw,
+added a boss in the proving grounds and added black dragon in capture
+list
+
+Version 1.75: feb 7, 2004: <zeldafannow>
+added a boss. added what the bosses gives
+changed around in the Version History.
+
+Version 1.63: Feb 7, 2004: <MysticWeirdo>
+Changed me to us in the contact info.
+
+Version 1.61: feb 6, 2004: <zeldafannow>
+updated permissions. changed an n to an m.
+
+Version 1.60: Feb 5, 2004: <MysticWeirdo>
+Pointed items gained by defeating enemies
+to coresponding boss strategy.  Added some missing bosses.
+Added Doppleganger to suggested capture list.
+
+Version 1.57: feb 4, 2004: <zeldafannow>
+added rubber froggy in the proving grounds bonus draw.
+
+Version 1.56: feb 4, 2004: <zeldafannow>
+added some tips for bosses. added
+another boss.
+
+Version 1.55: feb 3, 2004: <zeldafannow>
+added the last(?) of the bosses.
+added request section.
+
+Version 1.44: feb 2, 2004: <zeldafannow>
+minor spelling changes.
+
+Version 1.43: feb 2, 2004: <MysticWeirdo>
+minor changes. another kingdom in the
+bosses section.
+
+Version 1.32: feb 2, 2004: <zeldafannow>
+my  first update. changed r to n somewhere.
+added locations on the capture list. added the bosses section
+did some minor changes.
+
+Version 1.11: Feb 1, 2004: <MysticWeirdo>
+One of the lines in 1.1 was too long,
+that's been fixed. More proving grounds cards from zeldafannow.
+I'm giving zeldafannow coauthor status for his major contributions
+to this guide.
+
+Version 1.1: Jan 31, 2004: <MysticWeirdo>
+Several updates have been made thanks to
+zeldafannow: Fire Elemental is in a chest in Temple of Sharica,
+several additional Proving Ground bonus draw cards have been added,
+several typos have been identified and corrected. zeldafannow
+mentioned that the section on garbage collection was confusing so
+that's been updated. zeldafannow has also compiled a list of cards
+that can be captured on each level which has been added to
+the capturing section. The combos given by the red fairies have been
+noted thanks to a list provided by zeldafannow. I've also put the
+guide through a major proofreading session fixing many grammatical
+and spelling errors plus several error I made copying the chest
+locations into the main list.
+
+Version 1.01: Jan 26, 2004: <MysticWeirdo>
+zeldafannow noticed some errors and
+omisions: Removed reference to possible color of the proving ground
+level for the Jack-O-Lantern bonus draw, added jumping as a means of
+the crossing the river in Bhashea High Road to get the Golden Porcupig
+chest, and corrected a typo for one the chest locations in Kendarie
+Fortress. I've added mention that red fairies tell you some the combo
+in the combo list section based on one of zeldafannow's suggestions.
+Other changes: Added using Cerberus to jump the chasm in Ruldo
+Forest for the Night Mare chest, and the channel in the Runestone
+Caverns, lower chamber to get the Maelstrom chest. Rewrote the
+instuctions for using a combo. Fixed a few typos.
+
+Version 1.0: Jan 25, 2004: <MysticWeirdo>
+Some formatting touch ups and proof
+reading was done. First version of guide was submitted to GameFAQs.
+
+Version 0.6: Jan 25, 2004: <MysticWeirdo>
+Finished adding chest locations to the
+main list. Finished the necessary/recommended capture list.
+
+Version 0.5: Jan 24, 2004: <MysticWeirdo>
+Finished adding chest locations to chest
+location section.
+
+Version 0.4: Jan 18: <MysticWeirdo>
+Added some Proving Grounds bonus draw cards,
+and a clue to Jack-O-Lantern location from zeldafannow added.
+Finished the item list. Started the chest locations section.
+
+Version 0.3: Jan 17, 2004: <MysticWeirdo>
+Added garbage locations, included complete
+combo list, added bonus draw cards, added cards that can be bought
+from the card shops, added card obtained automatically for defeating
+certain enemies, and started item location list.
+
+Version 0.2: Dec 15, 2003: <MysticWeirdo>
+Added cards obtained from Jarvi. Card
+combiner and special task rewards were added to main list. Starting
+cards added to were added to the main list.
+
+Version 0.1: Dec 5, 2003: <MysticWeirdo> 
+Converted Mary570's spreadsheet into text
+format to populate the Card Location list with the upgrade
+from information. Began the outline of various section.
+
+
+**********************************************************************
+III. Ways to Acquire Cards
+**********************************************************************
+
+There are several ways that cards are obtained in Lost Kingdoms 2. You
+are given a five cards to start the game, some are found in chests,
+some are purchased from the card shops or from the Rogue behind the
+fountain statue in Kadishu. Some cards will be acquired by upgrading
+other cards at the card shop. A few cards will be automatic rewards
+for defeating certain enemies, collecting red fairies, or performing
+other tasks. There is a card combiner by the fountain in Kadishu who
+will make you a card from 2 or 3 other cards. You can import cards
+from
+Lost Kingdoms 1 after a certain point in the game. When you complete
+a level you may be able to draw some cards in the end of level bonus
+draws, where the number of cards drawn from a selection of 6 ranges
+from 0 to 3 depending on how well you did. Some cards will need to be
+captured.
+
+**********************************************************************
+III.i    Missable Cards
+**********************************************************************
+The are three cards that are possible to miss:
+
+Lucky Lion:
+The Lucky Lion is in a caged chest in Savran that you need a flying
+transformation card like the birdman to reach. However, if you open a
+chest containing a Hobgoblin that is beside a sign saying "A treasure
+easily attained is a treasure not worth having," the switch that opens
+to cage permanently deactivates making it impossible to get the Lucky
+Lion.
+
+Chariobot:
+Only appears in the Alanjeh Castle timed mission and bonus draw
+for the Royal Tower, lower missions.
+
+Barometz
+Only appears in the Alanjeh castle timed mission and bonus draw
+for the timed mission.
+
+
+Other cards may be impossible to get again if you use the last one by
+upgrading, selling, giving to the card combiner, or betting away in
+vs. mode.
+
+**********************************************************************
+III.ii   Starting Cards
+**********************************************************************
+Lizardman, Man Trap, Hobgoblin, Fairy, and Dragon Knight are in your
+deck at the start of the game.
+
+**********************************************************************
+III.iii  Card Shop
+**********************************************************************
+The card shop in Kadishu has three different selection of cards
+throughout the game, the second selection will appear after finishing
+the Runestone Caverns, lower chambers, and the third selection appears
+after finishing the first Royal Tower, lower mission. The card shop
+in Grenfoel Cathedral has a different selection of cards. After
+completing the game, the shops offer all of the previously offered
+cards from both shops.
+
+Kadishu Selection 1:
+-------------------
+Dark Raven: 15 GP
+Skeleton: 30 GP
+Hobgoblin: 30 GP
+Ghoul: 75 GP
+Giant Crab: 120 GP
+Archer Tree: 120 GP
+Orc: 135 GP
+Will o' wisp: 150 GP
+Fairy: 240 GP
+Sea Monk: 1440 GP
+
+Kadishu Selection 2:
+-------------------
+Flying Ray: 30 GP
+Aggressor GL2: 180 GP
+Treant: 240 GP
+Dragonoid: 300 GP
+Wizard: 360 GP
+Kitty Trap: 450 GP
+Rheebus: 450 GP
+Catoblepas: 900 GP
+Mole Monster: 999 GP
+Sea Monk: 1440 GP
+
+Kadishu Selection 3:
+-------------------
+Mechlance 5L: 150 GP
+Crystal Rose: 270 GP
+Sand Golem: 300 GP
+Rheebus: 450 GP
+Mechapult: 480 GP
+Death: 540 GP
+Fire Gargoyle: 600 GP
+Ghost Armor: 720 GP
+Gorgon: 810 GP
+Mind Flayer: 3600 GP
+
+Cathedral Selection:
+-------------------
+Baby Dragon: 120 GP
+Gold Butterfly: 180 GP
+Running Bird: 240 GP
+Lyncantrope: 375 GP
+Charadrius: 430 GP
+Sprite: 480 GP
+Napalm Beast: 900 GP
+Cerberus: 1500 GP
+Night Mare: 1800 GP
+Mind Flayer: 3600 GP
+
+**********************************************************************
+III.iv   Chests
+**********************************************************************
+There are chests scattered through the various levels in the game.
+When opened they yield either a card or magic stones.
+
+
+Nobleman's Residence:
+--------------------
+Dark Raven: This chest is in the room at the bottom of the staircase
+that's behind you when you start to game. You need to break some
+chests with a weapon card to get to it.
+
+Scythe Beast: This chest is in the room at the bottom of the
+staircase that's behind you when you start to game. You need to break
+some chests with a weapon card to get to it.
+
+
+Bhashea High Road:
+-----------------
+Porcupig: This chest is in the bandit camp at the beginning on the
+level.
+
+Man Trap: This chest is by the big stump.
+
+Red Lizard: This chest is near the deck point.
+
+Water Moray: Fly to the tower near the broken bridge to reach this
+chest.
+
+Golden Porcupig: Fly or jump across river where you did the card toss
+to reach this chest. [Thanks to zeldafannow for using jumping as an
+alternative to get to this chest.]
+
+
+Kadishu:
+--------
+Rock Hagan: This chest is by wall to the right of the entrance.
+
+Demon Hound: This chest is on the stairs on the first building to the
+right of the path from the entrance.
+
+Dragonoid: This chest is in the alley behind the building north of
+the crossroads.
+
+200 Magic Stones: This chest is by the structure containing the
+statue nearest the fountain.
+
+Flayer Spawn: This chest is by the cart near the fountain.
+
+Demon Hound: This chest is by the hilltop statue.
+
+
+Gromtull Desert:
+---------------
+Evil Eye: This chest is by the oil pool.
+
+Mummy (x2): These chests are in the mummy cave near the oil pool.
+
+Pixie: This chest is in the mummy cave near the oil pool.
+
+Venus Spider: This chest is by the oasis.
+
+Running Bird: This chest is in Jarvis's cave.
+
+sand Beetle: This chest is in Jarvis's cave.
+
+Bum Hagan: Fly to island in the oasis to reach this chest.
+
+
+Kendarie Fortress:
+------------------
+Mandragora: This chest is in the first search light room.
+
+Aggressor GL2: This chest is in the second search light room.
+
+Venom Lizard: This chest is in the third search light room.
+
+MechaPult: This chest is in the third search light room.
+
+Death: This chest is behind the green door near the reservoir.
+
+UberBomberBot: Fly across the reservoir to reach this chest.
+
+
+Bhashea Castle:
+---------------
+500 Magic stones: This chest is in the room to right of the entrance.
+
+Daidorapochi: This chest is at the end of the passage with walls that
+can by broken with a magic circle powered Stone Golem on the east
+side of the map.
+
+Lamassu: Use a Hell Hound to jump from the magic circle to west of the
+entrance to reach this chest.
+
+500 Magic stones: Go up the right stair case of the central room to
+find this chest.
+
+Mole Monster: This chest is in a side room off the main eastern
+corridor.
+
+Death: This chest is on the stairs in the eastern tower.
+
+1500 Magic Stones: This chest is in the throne room off the northern
+corridor.
+
+Gorgon: This chest is on top of the western tower.
+
+
+Isamat Urbur:
+-------------
+10 magic stones: This chest is in eastern room off the circular
+corridor.
+
+550 magic stones: This chest is in eastern room off the circular
+corridor.
+
+1240 magic stones: This chest is in eastern room off the circular
+corridor.
+
+Succubus: This chest is in eastern room off the circular corridor.
+
+Incubus: This chest is in eastern room off the circular corridor.
+
+Green Dragon: This chest is in eastern room off the circular
+corridor.
+
+
+Runestone Caverns, upper:
+------------------------
+Dark Raven: This chest is in the starting room.
+
+Blood Bush: This chest is in the northwest corner of sluice gate room.
+
+Undine: This chest is north of the sluice gate.
+
+Land Shark: This chest is on hill in the eastern map.
+
+Gorgon: Destroy ice pillar in eastern map with the Stone Golem after
+activating magic circles in Ruldo Forest to get to this chest.
+
+Land Shark: Destroy ice pillar on ledge where Sol was with the Stone
+Golem after activating magic circles in Ruldo Forest to get to this
+chest.
+
+Baba Yaga: Fly to Brine Dragon's area to reach this chest.
+
+Witchlette: Fly to Brine Dragon's area to reach this chest.
+
+
+Runestone Caverns, lower:
+------------------------
+Flayer Spawn: This chest is in the room where you see the first
+cutscene.
+
+Yowie: With water level set high at the sluice gate in the upper
+chambers, walk across the crates in the room where you see the
+second cutscene to reach this chest.
+
+Basilisk: Go up the stairs in the second cutscene room to find this
+chest.
+
+Flayer Spawn x2: These chests are in the room where you see the
+third cutscene.
+
+Maelstrom: With water level set low at the sluice gate in the upper
+chambers, go downstairs in second cutscene room to find this chest.
+
+Maelstrom: With water level set high at the sluice gate in the upper
+chambers, jump using Cerberus or fly from upstairs in the second
+cutscene room to reach this chest.
+
+
+Ruldo Forest:
+------------
+Mandragora: This chest can be found on the path to the right of
+the entrance.
+
+150 Magic Stones: This chest can be found on the path to the right
+of the entrance.
+
+Dryad: This chest is near deck point.
+
+Demon Hound: This chest is in the area where you fight the three
+cockatrices.
+Raflesia: This chest is in the area where you fight the three
+cockatrices.
+Night Mare: Fly or use Cerberus to jump across chasm from uphill on
+the path near where the you fight the cultist to reach this chest.
+
+Elf: Jump from magic circle by cultist to reach this chest.
+
+
+Fossil Boneyard:
+---------------
+Hell Hound: This chest is in the starting area.
+
+Gnome: Jump up from the magic circle to the right of the first dragon
+cave to reach this chest. It's in area where you fight the cultist.
+
+Hell Hound: This chest is by the magic circle where you there are
+two ways to jump.
+
+Hell Hound: This chest is by the deck point on the left side of the
+two way jump.
+
+Caterpoker: This chest is in the depression you can jump down to
+from the right side of the two way jump.
+
+300 magic stones: This chest is in the depression you can jump down
+to from the right side of the two way jump.
+
+Dark Raven: This chest is by the river.
+
+Catoblepas: Fly across the river on the left of the path to the exit
+to reach this chest.
+
+Amber Dragon: Fly across river on the right of the path to the exit
+to reach this chest.
+
+Zombie Dragon: Place the nine fossil pieces on the rock in the dead
+end of the path from the start. Defeat the zombie dragon and the
+chest will appear where the rock was.
+
+
+Savran Bridge:
+--------------
+Marid: Use the Hell Hound to jump onto the ledge to the left of
+the entrance to reach this chest.
+
+Decoy Pillar: This chest is down the stairs from first bridge
+section.
+
+Jade Giant: This chest is down the stairs from first bridge
+section.
+
+150 Magic stones: This chest is down the stairs from first bridge
+section.
+
+Hobgoblin: This chest is under drawbridge puzzle by a sign reading:
+"A treasure easily gained is not worth having. DO NOT OPEN
+THIS CHEST IF YOU WANT TO GET THE LUCKY LION.
+
+Lucky Lion: Go down the stairs from the first bridge section and
+fly across to the island with the cage. Activate the switch
+to lower the cage and open the chest. If you already got the
+above hobgoblin card you'll need to start a new game and bet
+the Lucky Lion across in vs. mode.
+
+Golden Butterfly: This chest is on the second bridge section.
+
+Mandragora: This chest is on the second bridge section.
+
+Devata: Solve drawbridge puzzle to get to this chest. Place
+stationary helpers or independents on the circle down the stairs to
+the right and on the circle in front of the drawbridges. Cross the
+bridge and place stationary cards on both circles on the far side.
+Go back across the bridge and recall one (or both of the first
+cards) and place a card on the circle at the bottom of the left
+stairs. Go across the bridge to the chest.
+
+
+Horgozh Town:
+-------------
+200 magic stones: This chest is near the fountain.
+
+Efreet: This chest is by the fountain mechanism in the southeast
+corner the northern section.
+
+Red Lizard: This chest is behind the building to the right of the
+entrance.
+
+Coal Treant: The chest is behind the wall to the left of the
+entrance.
+
+Popgun Charlie: This chest is in the southwest corner of the northern
+section.
+
+Salamander: This chest is in the southwest corner of the northern
+section.
+
+2500 magic stones: This chest is blocked by the gate in the southern
+section. Flip the switch on gatepost to close the gate to access this
+chest.
+
+
+Plains of Rowahl:
+----------------
+Dao: This chest is under some wreckage. It is freed by activating the
+catapult that is pointing at it. Warning: Activating the other
+catapult will prevent access to this chest.
+
+Sand Golem: This chest is near the Royal Vault.
+
+Devil Plant: This chest is in corner behind the hill from the 
+entrance.
+
+700 magic stones: Fly across the river to get to this chest.
+
+King Mandragora: Fly to the end of the river to get to this chest.
+
+Man Trap: This chest is by the cultist past the main gate and to the
+left.
+
+Night Mare: This chest is by the cultist past the main gate and to the
+left.
+
+1000 Magic Stones (x2): These chest are in Royal Vault.
+
+
+Alanjeh Castle:
+----------------
+100 Magic stones: This chest is at the entrance.
+
+Gizmolizer: This chest is behind the fence from entrance.
+
+Dark Treant: This chest is behind the blue circle gate.
+
+AcidBot: This chest is behind the blue circle gate.
+
+Fairy: This chest is past the red circle gate.
+
+1000 magic stones: This chest is to the left of the exit gate.
+
+Boom Monkey: Fly across river from exit gate to reach this chest.
+
+
+Royal Tower, lower:
+-------------------
+Sprite: This chest is the before lift during the escape.
+
+Carbuncle: This chest is the before lift during the escape.
+
+Tiger Mage: This chest is to the right of the stairs after the
+fallen column during the escape.
+
+1000 Magic Stone: Fly across the pool to get to this chest.
+
+Puppet Master: Fly across the pool to get to this chest.
+
+Decoy Pillar: After taking the lift to the area with the exit,
+jump up to the left just after lift to get to this chest.
+
+Fire Gargoyle: Jump up to left twice just before the exit to get to
+this chest.
+
+
+Royal Tower, middle:
+--------------------
+Hydra: This chest is in a secret area in the room to the right of
+the entrance. Use a magic circle powered Stone Golem to break the
+wall.
+
+Rheebus: This chest is in the deck point area.
+
+1000 magic stones: This chest is in the deck point area.
+
+Sphinx: This chest is in a secret area in the second room off the
+corridor past the deck point. Open the door to this room and go to
+the third room, magic circle power a Stone Golem and head for the
+breakable wall, there is just enough time to reach the wall before
+the charge wears off.
+
+Unicorn: This chest is under the shield to the left of Leod,
+deactivate all five switches to drop the shield. Warning: You can't
+get this chest if you finish the level before deactivating the
+switches.
+
+Red Dragon: This chest is under the shield to the right of Leod,
+deactivate all five switches to drop the shield. Warning: You can't
+get this chest if you finish the level before deactivating the
+switches.
+
+
+Royal Tower, upper:
+------------------
+Wyvern: This chest is at the entrance.
+
+Unicorn: This chest is behind the first tentacle on the first detour
+through the center area.
+
+Spartoi: Take second detour through the center area and leave through
+the far door to find this chest.
+
+
+Obenoix Gorge:
+--------------
+Water Elemental: This chest is to the right of the entrance.
+
+Sasquatch: This chest is by the first column.
+
+1500 magic stones: Fly to the ledge from the area were you fight the
+second battle against the Sasquatches to get to this chest.
+
+Crystal Rose: Fly to the ledge from the area were you fight the
+second battle against the Sasquatches to get to this chest.
+
+
+Siren: This chest is by the third column.
+
+Chameleus: This chest is by the third column.
+
+Hydra: Fly from the deck point area to back to the ledge to the left
+of the path leading back to the entrance to get to this chest.
+
+Thanatos: Transform into a Stone Golem on the magic circle and head 
+away
+from the ship to break ice encasing this chest.
+
+
+Krasheen Mountains:
+-------------------
+Birdman: This chest is by the birdman statue and the deck point.
+
+Charadrius: This chest is on the ledge near deck point and the birdman
+statue.
+
+Birdman: This chest is in a cave to the left of the bridge.
+
+400 Magic Stones: This chest is just past the Black Dragon.
+
+Acid Dragon: This chest is on a ledge to the right of the black 
+dragon.
+
+Earth Moray: Fly behind the rock pillar on the left fork of the broken
+bridge to reach this chest.
+
+1000 Magic stones: This chest is at the end of the right fork of 
+broken
+bridge.
+
+Grenfoel Cathedral:
+------------------
+Plague Rat: This chest is in the secret room open by turning the four
+statues and walking up to the point of the wall where they've turned
+to face.
+
+Vampire: This chest is in the secret room open by turning the four
+statues and walking up to the point of the wall where they've turned
+to face.
+
+2000 Magic stones: This chest is in the secret room open by turning
+the four statues and walking up to the point of the wall where
+they've turned to face.
+
+500 magic stones: This chest is in the left wing of the cathedral by
+the organ.
+
+Gravity Pillar: This chest is in the left wing of the cathedral by
+the organ.
+
+Temple of Sharacia:
+------------------
+Cerberus: Fly from left side of entrance area to get to an island
+with this chest.
+
+Salamander: This chest is to the left of top of the first staircase.
+
+Hell Hound: This chest is to the right of the top of the first
+staircase.
+
+500 magic stones: This chest is to the left of the bottom of the
+second staircase.
+
+Fire Gargoyle: This chest is to the right of the top of second
+staircase.
+
+Fire Elemental: This chest is on the platform on top of the third
+staircase. [Thanks zeldafannow]
+
+2000 magic stones: This chest is on the platform on top of the
+third staircase.
+
+**********************************************************************
+III.v    Special Tasks
+**********************************************************************
+Card toss in Bhashea High Road:
+-------------------------------
+Toss a card across the river to get an Elephant from one of your
+fellow thieves.
+
+I've seen reports that sometimes he won't give you the card, if this
+happens you'll need to capture the Elephant in the Gromtull desert.
+
+zeldafannow reports that card needs to be an independent. I've
+completed the toss with an independent so this may a difference
+between the PAL and NTSC versions.
+
+----------------------------------------------------------------------
+Garbage Collection in Kadishu:
+-----------------------------
+
+There are three rounds of garbage collection where you need to find
+three piece of garbage and put them in the garbage bin by the
+fountain.
+
+Round 1: Leprechaun
+-------------------
+One piece is near the well by the stables.
+
+Another piece is on the path near the entrance to the area with
+the statue nearest the fountain.
+
+The last piece is on the path by the fountain between the card
+combiner and the garbage bin.
+
+Round 2: SuperScrubber
+----------------------
+(This round is available after completing the Lower Runestone
+Caverns)
+
+One piece is on the path by the fountain the card combiner's left.
+
+Another piece is by the sign at the card shop.
+
+The last piece on the path the west of the fountain by a young woman.
+
+Round 3: Larval Fly
+-------------------
+(This round is available after the first Royal Tower, Lower mission)
+
+One piece is on the grass at the crossroads near the entrance.
+
+Another piece is behind the hilltop statue.
+
+The last piece is in the veranda of the building to the north of the
+crossroads at the entrance
+
+----------------------------------------------------------------------
+Sol's gift in the Upper Runestone Caverns:
+------------------------------------------
+Sol will give you a Stone Golem when you talk to him.
+
+----------------------------------------------------------------------
+Fountain in Horgozh town:
+------------------------
+Find the fountain key on a corpse by the statue in the northeast
+corner. Go to the fountain mechanism in the southwest corner of the
+northern section and activated it to fill the fountain. Once filled it
+has a Mind Flayer card floating in it.
+
+----------------------------------------------------------------------
+Trapped creature's gift in the Krasheen mountains:
+-----------------------------------------------
+
+The creature trapped in stone form gives you a Birdman card to help
+release him.
+
+----------------------------------------------------------------------
+Royal vault treasure:
+--------------------
+Pick up the God of Destruction from the Royal vault on the Plains of
+Rowahl after you get the Jewel of Alanjeh to open the vault.
+
+----------------------------------------------------------------------
+Choose sides in Temple of Sharacia:
+----------------------------------
+
+Help either the Valkyrie or Ashura to get their card. You be able to
+get the other card by capture or bonus draw on level 4 of the Proving
+Grounds. Ashura can be obtain by an upgrade of the Jade Giant so you
+may want to side with the Valkyrie.
+
+
+**********************************************************************
+III.vi   Automatic rewards for defeating enemies
+**********************************************************************
+The are a few cards given as automatic rewards for defeating certain
+enemies. The reward will only be given once even if you can face
+the opponent multiple times.
+
+
+Bhashea Castle:
+---------------
+Demon Swordsman: Defeat the Demon Swordsman after placing the four
+Blades by the statue in the main hall to obtain its card.
+
+
+Sacred Battle Arena 1:
+---------------------
+Lich: Defeat the Lich in the Earth Arena to obtain its card.
+
+Neuh: Defeat the Neuh in the Wood Arena to obtain its card.
+
+Gemini: Defeat the Gemini in the Fire Arena to obtain its card.
+
+Kraken: Defeat the Kraken in the Water Arena to obtain its card.
+
+
+Sacred Battle Arena 2:
+---------------------
+Rabanados: Defeat Rabanados in the first neutral arena to obtain its
+card.
+
+Ice Skeleton: Defeat Helena in the second neutral arena to obtain the
+Ice Skeleton card.
+
+AstroBot: Defeat the AstroBot in the first mech arena to obtain its
+card.
+
+Sacred Umpire: Defeat Leod in the second mech arena to obtain the
+Sacred Umpire card. You need to finish the main story before you
+can face Leod.
+
+Sekmet: Defeat Thalnos in the arena past the door on the center
+path to obtain the Sekmet card . You need to defeat Helena and Leod
+before you can face Thalnos .
+
+Doppleganger: Defeat Katia in the arena past Thalnos to obtain the
+Doppleganger card.
+
+Obenoix Gorge:
+Phantom Ship: Defeat the Thanatos on the ship at the end of the level
+to obtain the Phantom Ship card.
+
+
+**********************************************************************
+III.vii  Red Fairy Rewards
+**********************************************************************
+After you rescue Jarvi from the desert, he gives you cards
+for bringing him red fairies.
+
+Rescue Jarvi: Tumble Chick
+  10 Fairies: Carbuncle
+  20 Fairies: Berserker
+  30 Fairies: Fire Moray
+  50 Fairies: Psycho Dice
+  70 Fairies: Whip Worm
+  80 Fairies: Global Bust
+  90 Fairies: Crystal Magic
+100 Fairies: CircaSaurus
+
+
+**********************************************************************
+III.viii Card Combiner in Kadishu
+**********************************************************************
+The card combiner stands by the circular path around the fountain in
+Kadishu. He'll make four different cards when brought the correct
+components:
+
+Talos: Ghost Armor and Stone Head
+Centaur: Archer Tree and Unicorn
+Pegasus: Horus and Unicorn
+Fireworks: Earth Moray, Water Moray, and Fire Moray
+
+After giving the cards go do something else in the game for 30 minutes
+and return to retrieve your card.
+
+**********************************************************************
+III.ix   Importing from Lost Kingdoms 1
+**********************************************************************
+If you have save data from the original Lost Kingdoms you're given the
+opportunity to import all on you cards from the first game into LK2
+after completing Sacred Battle Arena 2. Cards 001-105 can be acquired
+this way, in those cases where a new card has be substituted for one
+of the originals, the original will be converted in the new one when
+imported.
+**********************************************************************
+III.x    Upgrade list
+**********************************************************************
+at the bottom there is special groups of monster that is almost the
+same creature.
+
+no. name          upgrades to:   no. name                       cost.
+
+001 skeleton                     150 undead knight              3000
+                                 017 wraith                     4000
+
+002 ghost armor                  101 chaos knight               11000
+
+003 red dragon                   155 spartoi                    8000
+                                 212 fafnir                     35000
+
+004 lizardman                    007 red lizard                 2000
+                                 039 basilisk                   2000
+                                 071 venom lizard               2000
+                                 055 dragonoid                  2500
+
+005 mandragora                   154 myconid                    4000
+                                 125 mandra dancer              12000
+                                 050 king mandragora            35000
+
+006 elephant                     103 elephant king              27000
+
+007 red lizard                   004 lizardman                  2000
+                                 039 basilisk                   2000
+                                 071 venom lizard               2000
+                                 055 dragonoid                  2500
+
+009 hobgoblin                    077 goblin lord                20000
+
+010 sand golem                   145 stone golem                9000
+                                 030 fire golem                 14000
+                                 097 ice golem                  20000
+
+012 man trap                     157 raflesia                   13000
+                                 165 devil plant                26000
+
+016 sasquatch                    158 daidarapochi               15000
+
+017 wraith                       122 death                      6000
+
+018 orc                          171 storm hagan                6000
+                                 172 rock hagan                 6000
+                                 173 bum hagan                  6000
+
+019 fairy                        140 popgun charlie             4000
+                                 117 sprite                     8000
+                                 176 dark sprite                8000
+
+020 vampire bush                 174 octobush                   27000
+
+023 water reaper                 189 rubber froggy              6000
+                                 022 kraken                     30000
+
+026 carbuncle                    092 trickster                  13000
+                                 114 napalm beast               18000
+
+027 flayer spawn                 096 mind flayer                20000
+
+033 banshee                      149 sekmet                     27000
+
+035 berserker                    211 jade giant                 10000
+                                 180 matador                    22000
+                                 195 berserk master             34000
+
+036 flying ray                   023 water reaper                1500
+                                 034 land shark                  6000
+
+039 basilisk                     004 lizardman                   2000
+                                 007 red lizard                  2000
+                                 071 venom lizard                2000
+                                 055 dragonoid                   2500
+
+
+042 lycanthrope                  078 scythe beast                3000
+                                 037 demon hound                 6000
+                                 197 hell hound                  7000
+                                 024 fenril                      32000
+
+044 necromancer                  026 lich                        12000
+
+047 ghoul                        033 banshee                     20000
+
+048 treant                       167 dark treant                 7000
+                                 168 coal treant                 7000
+
+051 larval fly                   095 beelzebub                   10000
+
+053 dark raven                   187 horus                       12000
+                                 205 phoenix                     25000
+
+055 dragonoid                    004 lizardman                   2000
+                                 142 baby dragon                 5000
+                                 073 hydra                       15000
+
+056 dryad                        048 treant                      6000
+                                 109 wood elemental              25000
+
+057 birdman                      139 garuda                      20000
+
+061 blood bush                   020 vampire bush                15000
+
+065 juggernaut                   045 great turtle                47000
+
+067 great demon                  111 succubus                    7000
+                                 112 incubus                     7000
+                                 161 demon lord                  25000
+
+068 evil eye                     098 cyclops                     10000
+
+070 gnome                        131 dao                         12000
+                                 106 earth elemental             25000
+
+071 venom lizard                 004 lizardman                   2000
+                                 007 red lizard                  2000
+                                 039 basilisk                    2000
+                                 055 dragonoid                   2500
+
+075 salamander                   054 wizard                      10000
+                                 062 efreet                      12000
+
+076 chimera                      132 manticore                   10000
+                                 186 nueh                        21000
+
+078 scythe beast                 064 demon fox                   30000
+
+080 night mare                   008 unicorn                     36000
+                                 200 sleipnir                    42000
+
+084 venus spider                 094 caterpoker                  3000
+
+090 undine                       134 marid                       12000
+                                 107 water elemental             25000
+
+092 trickster                    199 mad reverser                13000
+
+093 demon skeleton               100 steel skeleton              25000
+
+094 caterpoker                   013 sand worm                   17000
+
+102 decoy pillar                 170 gravity pillar              20000
+
+111 succubus                     085 vampire                     20000
+
+112 incubus                      085 vampire                     20000
+
+115 green dragon                 155 spartoi                     8000
+                                 188 acid dragon                 10000
+                                 221 ryuhi                       35000
+
+117 sprite                       181 phooka                      9000
+
+120 yowie                        043 sand beetle                 3000
+                                 084 venus spider                4000
+                                 046 gold butterfly              5000
+                                 051 larval fly                  5000
+
+122 death                        185 thanatos                    27000
+
+123 porcupig                     124 golden porcupig             5000
+                                 089 plague rat                  10000
+                                 021 catoblepas                  15000
+
+124 golden porcupig              082 rheebus                     8000
+
+125 mandra dancer                050 king mandragora             23000
+
+127 lucky lion                   038 behemoth                    25000
+
+128 vodianoi                     192 gorgon                      5000
+                                 049 sea monk                    7000
+                                 087 mermaid                     9000
+
+132 manticore                    086 sphinx                      16000
+
+135 elf                          137 dark elf                    15000
+                                 136 elf lord                    22000
+
+140 popgun charlie               177 gargoyle                    4000
+                                 067 great demon                 11000
+                                 159 gemini                      34000
+
+142 baby dragon                  003 red dragon                  10000
+                                 115 green dragon                10000
+                                 143 brine dragon                10000
+                                 160 amber dragon                10000
+
+143 brine dragon                 155 spartoi                     8000
+                                 069 blue dragon                 35000
+
+144 circasaurus                  203 anarchy owl                 7500
+                                 182 devata                      10000
+                                 164 chameleus                   20000
+
+150 undead knight                002 ghost armor                 10000
+                                 093 demon skeleton              20000
+
+154 myconid                      210 blue mold                   9000
+
+160 amber dragon                 155 spartoi                     8000
+                                 029 zombie dragon               18000
+                                 129 uroboros                    35000
+
+162 witchlette                   194 baba yaga                   14000
+                                 072 tiger mage                  17000
+                                 151 panther mage                17000
+                                 121 apsaras                     20000
+
+171 storm hagan                  169 sleeping giant              18000
+
+172 rock hagan                   016 sasquatch                   9000
+
+177 gargoyle                     066 fire gargoyle               7000
+                                 102 decoy pillar                15000
+
+182 devata                       044 necromancer                 12000
+
+186 nueh                         083 white tiger                 25000
+
+189 rubber froggy                128 vodianoi                    5000
+                                 126 super pumper                20000
+
+197 hell hound                   184 cerberus                    20000
+
+198 tumble chick                 031 running bird                6000
+                                 015 cockatrice                  14000
+                                 074 siren                       15000
+
+203 anarchy owl                  088 puppet master               13000
+                                 130 yin yang                    20000
+
+205 phoenix                      081 golden phoenix              25000
+
+211 jade giant                   206 ashura                      50000
+----------------------------------------------------------------------
+all of the upgraded baby dragons can be upgraded into:
+                                 155 spartoi                     8000
+                                rndm legendary dragon            35000
+individual:
+115 green dragon                 188 acid dragon                 10000
+160 amber dragon                 029 zombie dragon               18000
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+the lizardmans can be upgraded to eachother for                  2000
+and dragonoid for                                                2500
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+the elemental power creatures can all be upgraded to:
+                                rndm elemental                   25000
+(optional)                      rndm djinn                       12000
+
+individual:
+056 dryad                        048 treant                      6000
+075 salamander                   054 wizard                      10000
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+111 succubus                     085 vampire                     20000
+112 incubus                      085 vampire                     20000
+----------------------------------------------------------------------
+**********************************************************************
+III.xi   Copy list
+**********************************************************************
+no. name.           cost.
+
+001 skeleton        2000
+002 ghost armor     13000
+003 red dragon      20000
+004 lizardman       2000
+005 mandragora      2500
+006 elephant        3500
+007 red lizard      2000
+008 unicorn         45000
+009 hobgoblin       3000
+010 sand golem      6000
+012 man trap        3200
+013 sand worm       15000
+014 mummy           3000
+015 cockatrice      14000
+016 sasquatch       12500
+017 wraith          4000
+018 orc             1200
+019 fairy           2000
+020 vampire bush    12000
+021 catoblepas      17500
+022 kraken          40000
+023 water reaper    3500
+024 fenril          32000
+025 lich            27000
+026 carbuncle       10000
+027 flayer spawn    4000
+028 golden goose    25000
+029 zombie dragon   36000
+030 fire golem      17000
+031 running bird    7000
+032 giant crab      3000
+033 banshee         19000
+034 land shark      8000
+035 berserker       3000
+036 flying ray      1500
+037 demon hound     6000
+038 behemoth        25000
+039 basilisk        2500
+040 mole monster    10000
+041 maelstrom       5000
+042 lycanthrope     2500
+043 sand beetle     6000
+044 necromancer     21000
+046 gold butterfly  8000
+047 ghoul           2500
+048 treant          10000
+049 sea monk        21000
+050 king mandragora 32000
+051 larval fly      8000
+052 crystal rose    12000
+053 dark raven      2000
+054 wizard          15000
+055 dragonoid       2500
+056 dryad           3000
+057 birdman         10000
+058 will o' wisp    3500
+059 archer tree     8000
+060 stone head      12000
+061 blood bush      6000
+062 efreet          15000
+063 dragon knight   6000
+064 demon fox       30000
+065 juggernaut      10000
+066 fire gargoyle   12000
+067 great demon     7000
+068 evil eye        3500
+070 gnome           4000
+071 venom lizard    2500
+072 tiger mage      25000
+073 hydra           16000
+074 siren           18000
+075 salamander      3000
+076 chimera         13000
+077 goblin lord     14000
+078 scythe beast    3000
+079 kitty trap      7000
+080 night mare      13000
+082 rheebus         12500
+084 venus spider    4500
+085 vampire         28000
+086 sphinx          28000
+087 mermaid         30000
+088 puppet master   28000
+089 plague rat      6000
+090 undine          4000
+091 whip worm       22000
+092 trickster       18000
+093 demon skeleton  20000
+094 caterpoker      10000
+095 beelzabub       25000
+096 mind flayer     30000
+097 ice golem       27500
+098 cyclops         10000
+099 black dragon    50000
+100 steel skeleton  30000
+101 chaos knight    22000
+102 decoy pillar    21000
+103 elephant king   30000
+106 earth elemental 25000
+107 water elemental 25000
+108 fire elemental  25000
+109 wood elemental  25000
+110 aggressor GL2   7000
+111 succubus        20000
+112 incubus         20000
+113 valkyrie        42000
+114 napalm beast    18500
+115 green dragon    10000
+116 wyvern          27000
+117 sprite          12000
+118 leprechaun      9000
+119 charadrius      16000
+120 yowie           1000
+121 apsaras         28000
+122 death           11000
+123 porcupig        1500
+124 golden porcupig 10000
+125 mandra dancer   12000
+126 super pumper    36000
+127 lucky lion      12000
+128 vodianoi        6000
+130 yin yang        43000
+131 dao             15000
+132 manticore       20000
+133 march hare      20000
+134 marid           15000
+135 elf             8000
+136 elf lord        30000
+137 dark elf        18500
+138 global bust     16000
+139 garuda          45000
+140 popgun charlie  2500
+141 acid cloud      16000
+142 baby dragon     2000
+143 brine dragon    20000
+144 circasaurus     2000
+145 stone golem     13500
+146 gizmolizer      20000
+147 mechalance 5L   7000
+148 fireworks       26000
+150 undead knight   4000
+151 panther mage    25000
+152 lamassu         20000
+153 lazerbug 39K    24000
+154 myconid         6000
+155 spartoi         24000
+156 phantom ship    50000
+157 raflesia        9800
+158 daidarapochi    31000
+159 gemini          45000
+160 amber dragon    10000
+161 demon lord      43000
+162 witchlette      2500
+163 acidbot         7500
+164 chameleus       22222
+165 devil plant     21000
+166 centaur         26000
+167 dark treant     12000
+168 coal treant     12000
+169 sleeping giant  14000
+170 gravity pillar  40000
+171 storm hagan     6000
+172 rock hagan      6000
+173 bum hagan       6000
+174 octobush        40000
+175 chariobot       25000
+176 dark sprite     12000
+177 gargoyle        8500
+178 mechapult       12000
+179 aggressor DX5   20000
+180 matador         22000
+181 phooka          25000
+182 devata          15000
+183 barometz        20000
+184 cerberus        16000
+185 thanatos        40000
+186 nueh            42000
+187 horus           12000
+188 acid dragon     30000
+189 rubber froggy   5000
+190 boom monkey     28000
+191 uberbomberbot   16000
+192 gorgon          18000
+193 pixie           16000
+194 baba yaga       18000
+195 berserk master  48000
+197 hell hound      10000
+198 tumble chick    1400
+199 mad reverser    28000
+201 claws-r-us      22000
+202 triblaster      20000
+203 anarchy owl     9600
+204 pegasus         46000
+205 phoenix         30000
+207 talos           50000
+208 crystal magic   55000
+209 psycho dice     22000
+210 blue mold       12000
+211 jade giant      10000
+213 beaker          1000
+215 superscrubber   7000
+216 astrobot        38000
+217 vouivre         36000
+218 fire moray      11000
+219 water moray     11000
+220 earth moray     11000
+**********************************************************************
+III.xii  End of level bonus draw
+**********************************************************************
+When a level is completed, an opportunity will be given to select
+one to three bonus cards from a set of six cards. Most levels offer
+three different cards. The sacred battle arena levels appear to offer
+only one card. The Royal Tower, lower and Royal Tower, middle appear
+to offer 2 different cards. The Proving Grounds levels have six
+different cards.
+
+Here is a list of the card that are offered in each level. The
+proving ground lists are incomplete, missing cards are marked with
+a question mark.
+
+
+Nobleman's Residence: (2 missions)
+--------------------
+Beaker
+Dark Raven
+Fairy
+
+
+Bhashea High Road: (3 missions, third repeatable)
+-----------------
+Man Trap
+Porcupig
+Storm Hagan
+
+
+Gromtull Desert: (1 mission)
+---------------
+Mummy
+Sand Beetle
+Sand Worm
+
+
+Kendarie Fortress: (1 repeatable mission)
+-----------------
+Mandragora
+MechaPult
+Aggressor GL2
+
+
+Bhashea Castle: (1 mission)
+--------------
+Stone Head
+Birdman
+Steel Skeleton
+
+
+Isamat Urbur: (1 mission)
+------------
+Puppet Master
+Devata
+Juggernaught
+
+
+Runestone Caverns, upper: (1 mission)
+------------------------
+Crystal Rose
+Land Shark
+Stone Golem
+
+
+Runestone Caverns, lower: (1 mission)
+------------------------
+Yowie, Flayer Spawn, Water Reaper
+
+
+Ruldo Forest: (2 missions)
+------------
+Elf
+Myconid
+Cockatrice
+
+
+Sacred Battle Arena 1: (1 mission)
+---------------------
+Skeleton
+
+
+Sacred Battle Arena 2: (1 repeatable mission)
+---------------------
+LazerBug 39K
+
+
+Fossil Boneyard: (1 mission)
+---------------
+Caterpoker
+Baby Dragon
+Amber Dragon
+
+
+Savran Bridge: (1 mission)
+-------------
+Chimera
+Siren
+Gold Butterfly
+
+
+Horgozh Town: (1 mission)
+------------
+Coal Treant
+Wizard
+LazerBug 39K
+
+
+Plain's of Rowahl: (2 missions)
+-----------------
+Goblin Lord
+Sand Golem
+Manticore
+
+
+Alanjeh Castle: (1 missions)
+--------------
+MechLance 5L
+Claws-R-Us
+Barometz
+
+
+Royal Tower, lower: (2 missions)
+------------------
+TriBlaster
+Chariobot
+
+
+Royal Tower, middle: (1 mission)
+-------------------
+Aggressor DX5
+Beezlebub
+
+
+Royal Tower, upper: (1 repeatable mission)
+------------------
+Acid Dragon
+Wyvern
+Sphinx
+
+
+Obenoix Gorge: (1 mission)
+-------------
+Vodianoi
+Thanatos
+Hydra
+
+
+Krasheen Mountains: (1 mission)
+------------------
+Gargoyle
+Gorgon
+Black Dragon
+
+
+Temple of Sharacia (1 mission)
+------------------
+Fire Gargoyle
+Phoenix
+Red Dragon
+
+
+Proving Grounds, Level 1: (repeatable)
+------------------------
+Flying Ray
+Will o' wisp
+Dragon Knight
+Berserker
+Berserk Master [thanks zeldafannow]
+Scythe Beast [thanks zeldafannow]
+
+
+Proving Grounds, Level 2:(repeatable)
+------------------------
+Red Lizard
+Treant
+Venom Lizard
+Lizardman
+Wizard
+Basilisk
+
+
+Proving Grounds, Level 3:(repeatable)
+------------------------
+Undead Knight
+Matador
+Fire Moray
+Hobgoblin
+Popgun Charlie
+Fire Golem
+
+
+Proving Grounds, Level 4:(repeatable)
+------------------------
+Great Demon
+Demon Fox
+Ashura
+Salamander
+Valkyrie
+fire elemental [thanks zeldafannow]
+
+
+Proving Grounds, Level 5:(repeatable)
+------------------------
+Running Bird
+Trickster
+Dragonoid
+Mole Monster
+Cyclops
+Night Mare
+
+
+Proving Grounds, Level 6:(repeatable)
+------------------------
+Stone Golem
+Juggernaut
+Gravity Pillar
+Global Bust
+Venus Spider [thanks zeldafannow]
+?
+
+
+Proving Grounds, Level 7:(repeatable)
+------------------------
+Blue Mold
+Banshee
+Earth Moray
+Vouivre
+Lamassu
+Skeleton
+
+
+Proving Grounds, Level 8:(repeatable)
+------------------------
+Elephant King
+Gnome
+Dao
+Behemoth
+Earth Elemental [thanks to James Hargrove]
+?
+
+
+Proving Grounds, Level 9:(repeatable)
+------------------------
+Charadrius
+Acid cloud
+Carbuncle
+Mad Reverser
+CircaSaurus
+Anarchy Owl
+
+
+Proving Grounds, Level 10:(repeatable)
+-------------------------
+Panther Mage
+Elf Lord
+Lycanthrope
+Gold Butterfly
+Napalm Beast
+?
+
+
+Proving Grounds, Level 11:(repeatable)
+-------------------------
+Chameleus
+Ghost Armor
+Plague Rat
+Archer Tree
+Raflesia
+Ghoul [thanks zeldafannow]
+
+
+Proving Grounds, Level 12:(repeatable)
+-------------------------
+King Mandragora
+Whip Worm
+Fenril
+Garuda [thanks zeldafannow]
+?
+?
+
+
+Proving Grounds, Level 13:(repeatable)
+-------------------------
+Octobush
+Sea Monk
+March Hare
+Panther Mage [thanks zeldafannow]
+Rubber Froggy [as a tradition, thanks zeldafannow]
+?
+
+
+Proving Grounds, Level 14:(repeatable)
+-------------------------
+Baby Dragon
+Brine Dragon
+Acid Dragon
+Green Dragon [thanks zeldafannow]
+?
+?
+
+
+Proving Grounds, Level 15:(repeatable)
+-------------------------
+Mermaid
+Wraith
+Apsaras
+Water Moray
+?
+?
+
+
+Proving Grounds, Level 16:(repeatable)
+-------------------------
+Demon Skeleton
+Water Elemental
+Marid
+Ice Golem [thanks zeldafannow]
+undine [see above]
+?
+
+
+Proving Grounds, Level 17:(repeatable)
+-------------------------
+Octobush
+Boom Monkey
+Golden Porcupig
+Mind Flayer
+Yin Yang
+?
+
+
+Proving Grounds, Level 18:(repeatable)
+-------------------------
+Chaos Knight
+Puppet Master
+Acid Dragon
+Vampire
+Necromancer [thanks zeldafannow]
+?
+
+
+Proving Grounds, Level 19:(repeatable)
+-------------------------
+Fafnir
+Kraken
+Ryuhi
+Black Dragon
+?
+?
+
+
+Proving Grounds, Level 20:(repeatable)
+-------------------------
+Steel Skeleton
+Golden Phoenix
+Blue Dragon
+Great Turtle
+White Tiger
+Emperor
+
+
+
+
+zeldafannow has informed me that the Jack-O-Lantern in the bonus draw
+for one of the Proving Ground levels. It will be one on the cards I've
+left a question mark for in the list.
+
+zeldafannow has sent me some more cards in the proving ground
+bonus draws: Super Pumper, Fire Elemental on level 4, Earth Elemental,
+Wood Elemental, Berserk Master on level 1, Venus Spider of level 6,
+Ghoul on level 11, Scythe Beast on level 1, Garuda on level 12,
+Panther Mage on level 13, Green Dragon on level 14, Ice Golem on
+level 16, and Necromancer on level 18.
+
+
+Cards in proving grounds draw which we need levels for:
+Jack-O-Lantern
+Wood Elemental
+Super Pumper
+
+**********************************************************************
+III.xiii Capturing
+**********************************************************************
+Cards are captured by hitting them with a capture card (purchased from
+the Rogue in Kadishu) after they have been reduced to under 10 hit
+points. The Emperor's Dragon Knots attack is a 100% certain capture.
+The card making a successful capture is permanently used up until
+another one is acquired.
+
+There are very few cards that must be captured. I was only going to
+list where a card can be captured if there is no other way, except
+for the bonus draw, to acquire the card with some special cases
+included. However, zeldafannow has put a lot of hard work into
+compiling a complete list which appears at the end of this section.
+
+Necessary captures:
+------------------
+Pazuzu:
+This large bird can be captured in the exit room of level 13 of the
+proving grounds. Can only be obtained by capturing.
+
+Golden Goose:
+This card only appears in vs. mode in the ruldo forest level.
+If you don't have LK1 data to import you'll need to catch it there.
+
+
+Recommended captures:
+--------------------
+Barometz:
+This card dnly appears during the timed mission at Alanjeh castle.
+There are two of them past the red circle gate by the Dark Treant,
+which will respawn once. You may want to catch one if you don't
+want to chance missing it in the
+bonus draw.
+
+
+Chariobot:
+The card only appears during the timed mission at Alanjeh castle.
+A swarm of these wheeled mechs attack when you cross the bridge.
+You may want to catch one if you don't want to chance missing
+it in both of the two bonus draws you get in the Royal Tower,
+lower missions.
+
+
+Emperor:
+This is the final opponent in the Proving Grounds found in the
+center of level 20. You've likely spent an hour to get to this
+point so you may not want to leave acquiring the Emperor to chance
+with the bonus draw. The Emperor has 400 hit points so you can use
+8 z-powered banshee hits and 2 capture cards as one strategy to
+catch it.
+
+Black Dragon:
+This card can be caught it during the boss fight in the Krasheen
+Mountain or you'll need to go down to level 19 of the proving
+grounds to catch one if you miss the bonus draw and don't have
+LK1 data to import.
+
+
+Necessary if you missed their bonus draw:
+----------------------------------------
+
+Beaker:
+This card in the water type bird that can be found in the
+Nobleman's Residence.
+
+Aggressor DX5:
+This mech can be found in the Royal tower, (lower or middle) or
+Horgozh Town.
+
+Chimera
+This card can be caught at the end of the bridge in Savran.
+
+Stone Head
+This card can be caught in Bhashea Castle
+
+Juggernaut
+This card can be caught in Isamat Urbur after getting the Stone of
+Sealing if you don't want to wait until level 6 of the Proving
+Grounds to start gathering experience for its Great Turtle upgrade.
+
+Claws-R-Us
+This stationary mech can be caught in Alanjeh Castle by the red
+circle.
+
+TriBlaster
+This missile launching mech can be caught in Horgozh town where
+you entered originally, you start at the original exit.
+
+Can be obtained from repeatable bonus draws:
+-------------------------------------------
+Catch these only if you have enough capture cards and they're the
+only cards still missing in your catalog
+
+Vouivre
+This card can be caught on level 7 of the Proving Grounds in the room
+were you're forced to fight four of them.
+
+Acid Cloud
+This card can be caught on level 9 of the Proving Grounds in the
+entrance room.
+
+March Hare
+This card can be caught on level 13 of the Proving Grounds in the
+entrance room.
+
+Valkyrie:
+If you sided with Ashura in Sharacia Temple, this card can be caught
+on level 4 of the Proving Grounds.
+
+LazerBug 39K
+This card can be caught in the Royal Tower, lower in the corridor just
+before the lift. You're better off repeating Sacred Battle Arena 2
+until you manage to draw a card.
+
+Special:
+-------
+Elephant:
+If for some reason you weren't able to get the elephant from the
+card toss you can capture one in the Gromtull Desert.
+
+Jack-O-Lantern:
+If you're fortunate enough to see it in the Proving Ground you might
+want to capture it .
+
+CircaSaurus:
+This card can be found on level 9 of the Proving Grounds if you
+couldn't find all the red fairies.
+
+Birdman:
+If you want one before the Krasheen mountains use a Hell Hound
+to get the across the broken bridge on Bhashea High Road, and catch
+one in Bhashea castle if you miss it in the bonus draw for Bhashea
+castle.
+
+Doppleganger:
+While you'll get one of these automatically when you defeat Katia
+you need two of them for one of the combos.  Unless you have LK1
+data to import or exploit the vs. mode betting to copy it, you'll
+need to catch one of Katia's dopplegangers to be able
+to use the combo.
+
+
+Complete List by level
+----------------------
+
+Thanks to zeldafanow for taking the time to compile this list.
+Cards that are marked with x# appear in a limited quantity, usually
+prior to mission completion where # is the number of occurrences
+during the mission.
+
+Cards that are marked "|not catchable" did zeldafannow kill with a
+capture card without catching it.  This may be a difference between the 
+PAL and NTSC version as some NTSC players have reported capturing some of 
+these.
+
+Bosses with |repeatable can be beaten twice or more. the
+|not catchable does not apply to the bosses section
+
+Locations within >< are after the mission. if noted by * the monster
+is for the mission only.
+
+There appear to maybe be some differences between the cards that a
+capturable in the NTSC and PAL versions of the game.
+I'll note any differences I've spotted in square brackets.
+-----------
+| Bhashea: |
+-----------
+
+Nobleman's Residence:
+--------------------
+Beaker /everywhere + respawn
+Dark raven /everywhere + respawn
+Hell hound /everywhere + respawn
+Succubus /everywhere + respawn
+Incubus /everywhere + respawn
+
+Level Boss(es):
+Hell hound x1
+
+Bhashea High Road:
+-----------------
+Porcupig /fielda + respawn
+Man Trap /field + respawn, ruined bridge + respawn
+Storm Hagan /ruined bridge x1 + respawn, see bosses
+Chaos Knight /see bosses |not catchable
+
+Level boss(es):
+Field:
+Storm Hagan x2
+
+Castle:
+Storm Hagan x1 |repeatable
+Chaos Knight x1 |repeatable
+Man Trap x1 |repeatable
+
+Gromtull desert:
+----------------
+Sand Beetle /Desert + respawn
+Elephant /Desert + respawn
+Sand Worm /Stairs x1 + respawn
+Mummy /Desert, cave
+Pixie /Field + respawn
+Lizardman /Field + respawn, Desert + respawn
+
+Bhashea Castle:
+--------------
+Kitty Trap /Chambers + respawn
+Death /Hall + respawn, see bosses
+Birdman /Hall + respawn
+Dark Elf /Roof + respawn
+Stone Head /Stairs + respawn, great hall x1
+Steel Skeleton /see bosses |not catchable
+Demon Swordsman /see bosses |not catchable (Zakattack informs us the this 
+can be caught)
+
+Level boss(es):
+Chamber:
+Steel Skeleton x1
+
+Great Hall:
+Death x2
+Demon Swordsman x1
+
+Ismat Urbur:
+-----------
+Puppet Master /Treasure Room x1, >Worship Hall<  |not catchable
+Devata /Treasure room x2, >Worship Hall<
+Juggernaut />Worship Hall<
+
+Kendarie Fortress:
+----------------
+Aggressor GL2 /Searchlight Rooms
+Mechapult /Storage Isle x1
+Mandragora /Stairs no.1
+UberBomberBot /Storage isle *Rare*[maybe not in NTSC version]
+
+-----------
+|Kendarie:|
+-----------
+
+Upper Runestone Caverns:
+-----------------------
+Brine Dragon /Brine Dragon Isle x1 + respawn
+Crystal Rose /any passage x2 + respawn
+Land Shark /everywhere + respawn
+Stone Golem /High Bridge x1 |not catchable
+Giant Crab /Lower Grounds + respawn, Small Bridge x1 + respawn
+UberBomberBot /Lower Grounds + respawn
+? (Witchlette or Baba Yaga) /Brine Dragon Isle *Very Rare*
+[maybe not in the NTSC version]
+
+Lower Runestone Caverns:
+-----------------------
+Water Reaper
+Flayer Spawn
+Yowie
+
+Ruldo Forest:
+------------
+Elf /everywhere + respawn
+Demon Hound /everywhere + respawn
+Dryad /everywhere + respawn
+Cockatrice /see bosses
+Mandra Dancer /see bosses
+Myconid /Cultist hideout x1 + respawn
+
+Level Boss(es):
+Sacred Meadow:
+Cockatrice x3
+Mandra Dancer x1 |Is not really one of the bosses
+
+Fossil Boneyard:
+---------------
+Baby Dragon /dragon birth caverns + respawn
+Zombie Dragon /see bosses |not catchable
+Amber Dragon /see bosses |not catchable
+Gnome /everywhere + respawn
+Catoblepas /first jump x1, eastern high ledge x1
+Caterpoker /everywhere + respawn
+
+Level Boss(es):
+Fossile Meadow:
+Zombie dragon x1
+
+Draon Graveyard:
+Amber Dragon x1
+
+Sacred Battle Arena 1:
+---------------------
+Nueh /Wood room |not catchable
+Gemini /Fire room |not catchable
+Kraken /Water room |not catchable
+Lich /Earth room |not catchable
+
+Sacred Battle Arena 2:
+---------------------
+Rabandos /neutral room |not catchable
+AstroBot /mech room |not catchable
+
+Sarvan:
+------
+Evil Eye /everywhere + respawn
+Jade Giant /everywhere + respawn
+Siren /Isle passage + respawn
+Whip Worm /Isle passage + respawn [maybe not in the NTSC version]
+Chimera /see bosses
+
+Level Boss(es):
+Chimera x1
+Jade Giant x2
+
+----------
+|Alanjeh:|
+----------
+
+Holzogh Town:
+------------
+Aggressor DX5 /everywhere + respawn
+Coal Treant /lower grounds + respawn
+LazerBug 39K /see bosses
+TriBlaster /see bosses, lower grounds?
+SuperScrubber />lower grounds<
+
+Level Boss(es):
+Lazerbug 39K x1
+Triblaster x2
+
+Plains of Rowahl
+-----------------
+Devil Plant /everywhere + respawn
+Sand Golem /everywhere + respawn, royal vault x2 + respawn
+Manticore /everywhere + respawn *Rare (uncommon after mission)*
+
+-----------------
+|Alanjeh Castle:|
+-----------------
+
+Alanjeh castle:
+---------------
+
+Gizmolizer /Meadow, Final Passage*, Bridge*
+MechLance 5L /everywhere, Castle Door*
+Barometz /red passage* x4 or if you go past them x2
+Dark Treant /red passage* x2 -||- x1, any passage + respawn
+Chariobot /red passagge* x1, bridge* x3 + respawn
+Claws-R-Us /eastern passage* x1, final passage* x1, bridge* x1,
+                                      >starting meadow< x1 + respawn
+
+Royal Tower, Lower:
+----------------
+LazerBug 39K /Inside + respawn, see boss
+TriBlaster /near end x3 |impossible to damage
+Chariobot /royal chamber x1 + respawn *Ultra Rare!*
+                                    [maybe not in the NTSC version]
+Aggressor DX5 /inside + respawn
+
+Level Boss(es):
+Lazerbug 39K x2
+
+Royal Tower, Middle:
+-------------------
+Aggressor DX5 /Deck Point + respawn
+Behemoth /switch room x1 |not catchable
+Ice Golem /switch room x1 |not catchable
+Demon Fox /switch room x1 |not catchable
+Fenril /switch room x1 |not catchable
+Beelzebub /switch room x1 |not catchable
+
+Royal Tower, Upper:
+------------------
+Wyvern /everywhere + respawn
+Sphinx /extra tower x1 + respawn
+
+Obenoix Gorge:
+-------------
+Sasquatch /see bosses |not catchable
+Baba Yaga /frozen dock + respawn
+Voidanoi /everywhere + respawn
+Thantanos /see bosses
+Hydra /frozen dock + respawn
+Water Elemental /frozen dock + respawn
+Undine /frozen dock + respawn [maybe not in the NTSC version]
+Mermaid /frozen dock + respawn *Rare*[maybe not in the NTSC version]
+
+Level Boss(es):
+Ice Wall:
+sasquatch x1 &amp; x2
+
+Phantom Ship:
+Thantanos x1
+
+Krasheen Mountains:
+------------------
+Birdman /birdman statue caves + respawn [maybe not in the NTSC 
+version]
+Gorgon /everywhere + respawn
+Horus /everywhere + respawn
+Great Demon /everywhere + respawn
+Black Dragon /see bosses
+Running Bird /everywhere + respawn
+
+boss(es):
+Black Dragon x1
+
+Temple of Sharacia:
+------------------
+Fire Elemental /Temple *Rare* + respawn
+                                      [Maybe not in the NTSC version]
+Efreet /temple + respawn
+Fire Gargoyle /temple + respawn
+Cerberus /temple + respawn
+Red Dragon /temple + respawn
+Ashura or Valkyrie /see bosses |not catchable
+Phoenix /temple + respawn
+
+Proving grounds:
+----------------
+
+In the proving grounds; there are probably every card in the bonus
+draw catchable there [except cards like the anarchy owl that don't
+appear as enemies]
+
+Level 1
+
+Berserker
+Scythe Beast
+Flying Ray
+Will-o-wisp
+Dragon Knight
+Berserk Master
+
+Level 2
+
+Wizard
+Basilisk
+Treant
+Lizardman
+Red lizard
+Venom lizard
+
+Level 3
+
+Fire Golem
+Popgun Charlie
+Hobgoblin
+Matador
+Orc
+
+Level 4
+
+Valkyrie
+Salamander
+Fire Elemental
+Demon Fox
+Ashura
+Great Demon
+
+Level 5
+
+Trickster
+Tumble Chick
+Cyclops
+Mole Monster
+Night Mare
+Dragonoid
+
+Level 6
+
+Juggernaut
+Venus Spider
+Bum Hagan
+Stone Golem
+Maelstrom
+
+Level 7
+
+Blue mold
+Banshee
+Earth Moray
+Skeleton
+Vouvire
+
+
+Level 8
+
+Elephant king
+Behemoth
+Gnome
+Dao
+Sphinx
+Earth Elemental
+
+Level 9
+
+CircaSaurus
+Acid Cloud
+Caterpoker
+Carbuncle
+Mad Reverser
+Goblin Lord
+
+
+Level 10
+Elf Lord
+Panther Mage
+Lycanthrophe
+Blood Bush
+Sleeping Giant
+
+Level 11
+
+Archer Tree
+Plague Rat
+Raflesia
+Ghost Armor
+Chameleus
+Ghoul
+
+Level 12
+
+Whip Worm
+Fenril
+Dryad
+Madragora King
+Garuda
+
+Level 13
+
+Rubber Froggy
+March Hare
+Tiger Mage
+Octobush
+Pazuzu
+
+Level 14
+
+Baby Dragon
+Acid Dragon
+Red Dragon
+Brine Dragon
+Amber Dragon
+
+Level 15
+
+Mermaid
+Vampire Bush
+Wraith
+Baba Yaga
+Asparas
+Water Moray
+
+Level 16
+
+Marid
+Undine
+Ice Golem
+Demon Skeleton
+Rock Hagan
+
+Level 17
+
+Super Pumper
+Yin Yang
+Mind Flayer
+Octobush
+Boom Monkey
+
+Level 18
+
+vampire
+Puppet Master
+Wyvern
+Chaos Knight
+Necromancer
+
+Level 19
+
+Black Dragon
+Demon Lord
+Kraken
+Nueh
+
+Level 20
+
+Steel Skeleton
+Golden Phoenix
+Blue Dragon
+Great Turtle
+White Tiger
+Emperor
+
+more monster are very welcome!
+
+**********************************************************************
+IV.   CARD LOCATION LIST
+**********************************************************************
+----------------------------------------------------------------------
+*001* Skeleton
+
+Bonus Draw: Sacred Battle Arena 1
+
+Bonus Draw: Proving Grounds, level 7
+
+Buy at Card Shop: 15 GP (1st Kadishu selection or after main story)
+----------------------------------------------------------------------
+*002* Ghost Armor
+
+Upgrade from: Undead Knight at 10000
+
+Bonus Draw: Proving Grounds, level 11
+
+Buy at Card Shop: 720 GP (3rd Kadishu selection or after main story)
+----------------------------------------------------------------------
+*003* Red Dragon
+
+Bonus Draw: Temple of Sharacia
+
+Upgrade from: Baby Dragon at 10000
+
+Chest in Royal Tower, Middle: This chest is under the shield to the
+right of Leod, deactivate all five switches to drop the shield.
+Warning: You can't get this chest if you finish the level before
+deactivating the switches.
+----------------------------------------------------------------------
+*004* Lizardman
+
+One of the cards you start with.
+
+Upgrade from: Red Lizard at 2000
+
+Upgrade from: Basilisk at 2000
+
+Upgrade from: Venom Lizard at 2000
+
+Upgrade from: Dragonoid at 2500
+
+Bonus Draw: Proving Grounds, level 2
+----------------------------------------------------------------------
+*005* Mandragora
+
+Bonus Draw: Kendarie Fortress
+
+Chest in Kedarie Fortress: This chest is in the first search light
+room.
+
+Chest in Ruldo Forest: This chest can be found on the path to the
+right of the entrance.
+
+Chest in Savran: This chest is on the second bridge section.
+----------------------------------------------------------------------
+*006* Elephant
+
+Toss a card across the river after being challenged to by one of
+you fellow thieves in the first Bhashea High Road mission.
+
+Capture in the Gromtull Desert.
+----------------------------------------------------------------------
+*007* Red Lizard
+
+Upgrade from: Lizardman at 2000
+
+Upgrade from: Basilisk at 2000
+
+Bonus Draw: Proving Grounds, level 2
+
+Chest in Bhashea High Road: This chest is near the deck point.
+
+chest in Horgozh Town: This chest is behind the building to the right
+of the entrance.
+
+----------------------------------------------------------------------
+*008* Unicorn
+
+Upgrade from: Nightmare at 36000
+
+Chest in Royal Tower, Middle:
+This chest is under the shield to the left of Leod, deactivate all
+five switches to drop the shield. Warning: You can't get this chest if
+you finish the level before deactivating the switches.
+
+Chest in Royal Tower, Upper:
+This chest is behind the first tentacle on the first detour through
+the center area.
+----------------------------------------------------------------------
+*009* Hobgoblin
+
+Bonus Draw: Proving Grounds, level 3
+
+One of the cards you start with.
+
+Buy at Card Shop: 30 GP (1st Kadishu selection or after main story)
+
+Chest in Savran:
+This chest is under drawbridge puzzle by a sign reading: "A treasure
+easily gained is not worth having. DO NOT OPEN THIS CHEST IF YOU
+WANT TO GET THE LUCKY LION.
+
+----------------------------------------------------------------------
+*010* Sand Golem
+
+Bonus Draw: Plains of Rowahl
+
+Buy at Card Shop: 300 GP (3rd Kadishu selection or after main story)
+
+Chest in Chest in Plains of Rowahl:
+This chest is near the Royal vault.
+----------------------------------------------------------------------
+*011* Jack-O-Lantern
+
+In a proving ground bonus draw [thanks to zeldafannow]
+----------------------------------------------------------------------
+*012* Man Trap
+
+One of the cards you start with.
+
+Chest in Bhashea High Road:
+This chest is by the big stump.
+
+Bonus Draw: Bhashea High Road
+
+Chest in Plains of Rowahl:
+This chest is by the cultist past the main gate and to the left.
+----------------------------------------------------------------------
+*013* Sand Worm
+
+Upgrade from: Caterpoker at 17000
+
+Bonus Draw: Gromtull Desert
+----------------------------------------------------------------------
+*014* Mummy
+
+Bonus Draw: Gromtull Desert
+
+2 Chests in Gromtull Desert:
+These chests are in the mummy cave near the oil pool.
+----------------------------------------------------------------------
+*015* Cockatrice
+
+Upgrade from: Tumble Chick at 14000
+
+Bonus Draw: Ruldo Forest
+----------------------------------------------------------------------
+*016* Sasquatch
+
+Upgrade from: Rock Hagan at 9000
+
+Chest in Obenoix Gorge:
+This chest is by the first column.
+----------------------------------------------------------------------
+*017* Wraith
+
+Bonus Draw: Proving Grounds, level 15
+
+Upgrade from: Skeleton at 4000
+----------------------------------------------------------------------
+*018* Orc
+
+Buy at Card Shop: 135 GP (1st Kadishu selection or after main story)
+----------------------------------------------------------------------
+*019* Fairy
+
+One of the cards you start with.
+
+Bonus Draw Nobleman's Residence
+
+Buy at Card Shop: 240 GP (1st Kadishu selection or after main story)
+
+Chest in Alanjeh Castle:
+This chest is past the red circle gate.
+----------------------------------------------------------------------
+*020* Vampire Bush
+
+Upgrade from: Blood Bush at 15000
+----------------------------------------------------------------------
+*021* Catoblepas
+Upgrade from: Porcupig at 15000
+
+Buy at Card Shop: 900 GP (2nd Kadishu selection or after main story)
+
+Chest in Fossil Boneyard:
+Fly across the river on the left of the path to the exit to reach this
+chest.
+----------------------------------------------------------------------
+*022* Kraken
+Upgrade from: Water Reaper at 30000
+
+Bonus Draw: Proving Grounds, level 19
+
+Automatic reward for defeating the Kraken in the water arena of Sacred
+Battle Arena 1
+----------------------------------------------------------------------
+*023* Water Reaper
+
+Upgrade from: Flying Ray at 1500
+
+Bonus Draw: Runestone Caverns, lower
+----------------------------------------------------------------------
+*024* Fenril
+
+Upgrade from: Lycanthrope at 32000
+
+Bonus Draw: Proving Grounds, level 12
+----------------------------------------------------------------------
+*025* Lich
+
+Upgrade from: Necromancer at 12000
+
+Automatic reward for defeating the Lich in the earth arena of Sacred
+Battle Arena 1
+----------------------------------------------------------------------
+*026* Carbuncle
+
+Receive from Jarvi for 10 red fairies.
+
+Bonus Draw: Proving Grounds, level 9
+
+Chest in Royal Tower, lower: This chest is the before lift during the
+escape.
+----------------------------------------------------------------------
+*027* Flayer Spawn
+
+Bonus Draw: Runestone Caverns, lower
+
+Chest in Kadishu:
+This chest is by the cart near the fountain.
+
+Chest in Runestone Caverns, lower chambers:
+This chest is in the room where you see the first cutscene.
+
+2 Chests in Runestone Caverns, lower chambers:
+These chests are in the room where you see the third cutscene.
+----------------------------------------------------------------------
+*028* Golden Goose
+
+The only place in LK2 the golden goose appears in vs. mode
+in ruldo forest, you can capture it there.
+----------------------------------------------------------------------
+*029* Zombie Dragon
+
+Upgrade from: Amber Dragon at 18000
+
+Chest in Fossil Boneyard:
+Place the nine fossil pieces on the rock in the dead end of the path
+from the start. Defeat the zombie dragon and the chest will appear
+where the rock was. If the Zombie Dragon defeats you, examine the rock
+again for another chance.
+----------------------------------------------------------------------
+*030* Fire Golem
+
+Upgrade from: Sand Golem at 14000
+
+Bonus Draw: Proving Grounds, level 3
+
+----------------------------------------------------------------------
+*031* Running Bird
+
+Upgrade from: Tumble Chick at 6000
+
+Bonus Draw: Proving Grounds, level 5
+
+Buy at Card Shop: 240 GP (Cathedral selection or after main story)
+
+Chest in Gromtull Desert:
+This chest is in Jarvis's cave.
+----------------------------------------------------------------------
+*032* Giant Crab
+
+Buy at Card Shop: 120 GP (1st Kadishu selection or after main story)
+----------------------------------------------------------------------
+*033* Banshee
+
+Upgrade from: Ghoul at 20000
+
+Bonus Draw: Proving Grounds, level 7
+----------------------------------------------------------------------
+*034* Land Shark
+
+Upgrade from: Flying Ray at 6000
+
+Bonus Draw: Runestone Caverns, upper chambers
+
+Chest in Runestone Caverns, upper chambers:
+This chest is on hill in the eastern map.
+
+Chest in Runestone Caverns, upper chambers:
+Destroy ice pillar on ledge where Sol was with the Stone Golem after
+activating magic circles in Ruldo Forest to get to this chest.
+----------------------------------------------------------------------
+*035* Berserker
+
+Receive from Jarvi for 20 Red Fairies
+
+Bonus Draw: Proving Grounds, level 1
+----------------------------------------------------------------------
+*036* Flying Ray
+
+Bonus Draw: Proving Grounds, level 1
+
+Buy at Card Shop: 30 GP (2nd Kadishu selection or after main story)
+----------------------------------------------------------------------
+*037* Demon Hound
+
+Upgrade from: Lycanthrope at 6000
+
+Chest in Kadishu:
+This chest is on the stairs on the first building to the right of the
+path from the entrance.
+
+Chest in Kadishu:
+This chest is by the hilltop statue.
+
+Chest in Ruldo Forest:
+This chest is in the area where you fight the three cockatrices.
+----------------------------------------------------------------------
+*038* Behemoth
+
+Bonus Draw: Proving Grounds, level 5
+
+Upgrade from: Lucky Lion at 25000
+----------------------------------------------------------------------
+*039* Basilisk
+
+Upgrade from: Lizardman at 2000
+
+Upgrade from: Red Lizard at 2000
+
+Chest in Runestone Caverns, lower chambers:
+Go up the stairs in the second cutscene room to find this chest.
+
+Bonus Draw: Proving Grounds, level 2
+----------------------------------------------------------------------
+*040* Mole Monster
+
+Bonus Draw: Proving Grounds, level 5
+
+Buy at Card Shop: 999 GP (2nd Kadishu selection or after main story)
+
+Chest in Bhashea castle:
+This chest is in a side room off the main eastern corridor.
+----------------------------------------------------------------------
+*041* Maelstrom
+
+Chest in Runestone Caverns, lower chambers:
+With water level set low at the sluice gate in the upper chambers, go
+downstairs in second cutscene room to find this chest.
+
+
+Chest in Runestone Caverns, lower chambers:
+With water level set high at the sluice gate in the upper chambers,
+jump using Cerberus or fly from upstairs in the second cutscene room
+to reach this chest.
+----------------------------------------------------------------------
+*042* Lycanthrope
+
+Bonus Draw: Proving Grounds, level 10
+
+Buy at Card Shop: 375 GP (Cathedral selection or after main story)
+----------------------------------------------------------------------
+*043* Sand Beetle
+
+Bonus Draw: Gromtull Desert
+
+Upgrade from: Yowie at 3000
+
+Chest in Gromtull Desert:
+This chest is in Jarvis's cave.
+----------------------------------------------------------------------
+*044* Necromancer
+
+Upgrade from: Devata at 12000
+
+Bonus Draw: Proving Grounds level 18 [thanks zeldafannow]
+----------------------------------------------------------------------
+*045* Great Turtle
+
+Upgrade from: Juggernaut at 47000
+
+Bonus Draw: Proving Grounds, level 20
+----------------------------------------------------------------------
+*046* Gold Butterfly
+
+Chest in Savran:
+This chest is on the second bridge section.
+
+Bonus Draw: Proving Grounds, level 10
+
+Upgrade from: Yowie at 5000
+
+Bonus Draw: Savran
+
+Buy at Card Shop: 180 GP (Cathedral selection or after main story)
+----------------------------------------------------------------------
+*047* Ghoul
+
+Buy at Card Shop: 75 GP (1st Kadishu selection or after main story)
+
+Can be obtained in the bonus draw for level 11 of the Proving Grounds.
+[Thanks Zeldafannow]
+----------------------------------------------------------------------
+*048* Treant
+
+Bonus Draw: Proving Grounds, level 2
+
+Upgrade from: Dryad at 6000
+
+Buy at Card Shop: 240 GP (2nd Kadishu selection or after main story)
+----------------------------------------------------------------------
+*049* Sea Monk
+
+Upgrade from: Vodianoi at 7000
+
+Bonus Draw: Proving Grounds, level 13
+
+Buy at Card Shop: 1440 GP (1st and 2nd Kadishu selections or after
+main story)
+----------------------------------------------------------------------
+*050* King Mandragora
+
+Upgrade from: Mandragora at 35000
+
+Upgrade from: Mandra Dancer at 23000
+
+Bonus Draw: Proving Grounds, level 12
+
+Chest in Plains of Rowahl:
+Fly to the end of the river to get to this chest.
+----------------------------------------------------------------------
+*051* Larval Fly
+
+Upgrade from: Yowie at 5000
+
+Complete the hird round of trash collection in Kadishu.
+----------------------------------------------------------------------
+*052* Crystal Rose
+
+Bonus Draw: Runestone Caverns, upper
+
+Buy at Card Shop: 270 GP (3rd Kadishu selection or after main story)
+
+Chest in Obenoix Gorge:
+Fly to the ledge from the area were you fight the second battle
+against the Sasquatches to get to this chest.
+----------------------------------------------------------------------
+*053* Dark Raven
+
+Chest in the Nobleman's Residence:
+This chest is in the room at the bottom of the staircase that's behind
+you when you start to game. You need to break some chests with a
+weapon card to get to it.
+
+Chest in Runestone Caverns, upper chambers:
+This chest is in the starting room.
+
+Bonus Draw Nobleman's Residence
+
+Buy at Card Shop: 15 GP (1st Kadishu selection or after main story)
+
+Chest in Fossil Boneyard:
+This chest is by the river.
+----------------------------------------------------------------------
+*054* Wizard
+
+Bonus Draw: Horgozh Town
+
+Bonus Draw: Proving Ground Level 2
+
+Upgrade from: Salamander at 10000
+
+Buy at Card Shop: 360 GP (2nd Kadishu selection or after main story)
+----------------------------------------------------------------------
+*055* Dragonoid
+
+Upgrade from: Lizardman at 2500
+
+Upgrade from: Red Lizard at 2500
+
+Upgrade from: Basilisk at 2500
+
+Bonus Draw: Proving Grounds, level 5
+
+Buy at Card Shop: 300 GP (2nd Kadishu selection or after main story)
+
+Chest in Kadishu:
+This chest is in the alley behind the building north of the
+crossroads.
+----------------------------------------------------------------------
+*056* Dryad
+
+Chest in Ruldo Forest:
+This chest is near deck point.
+----------------------------------------------------------------------
+*057* Birdman
+
+Given by the trapped creature in the Krasheen mountains.
+
+Bonus Draw: Bhashea Castle
+
+Chest in Krasheen Mountains:
+This chest is by the birdman statue and the deck point.
+
+Chest in Krasheen Mountains:
+This chest is in a cave to the left of the bridge.
+----------------------------------------------------------------------
+*058* Will o' wisp
+
+Bonus Draw: Proving Grounds, level 1
+
+Buy at Card Shop: 150 GP (1st Kadishu selection or after main story)
+----------------------------------------------------------------------
+*059* Archer Tree
+
+Bonus Draw: Proving Grounds, level 11
+
+Buy at Card Shop: 120 GP (1st Kadishu selection or after main story)
+----------------------------------------------------------------------
+*060* Stone Head
+
+Bonus Draw: Bhashea Castle
+
+Capture in Bhashea Castle
+----------------------------------------------------------------------
+*061* Blood Bush
+
+Chest in Runestone Caverns, upper chambers:
+This chest is in the northwest corner of sluice gate room.
+----------------------------------------------------------------------
+*062* Efreet
+
+Upgrade from: Salamander at 12000
+
+Chest in Horgozh Town: This chest is by the fountain mechanism in the
+southeast corner the northern section.
+----------------------------------------------------------------------
+*063* Dragon Knight
+
+Bonus Draw: Proving Grounds, level 1
+
+One of the card you start with.
+----------------------------------------------------------------------
+*064* Demon Fox
+
+Upgrade from: Scythe Beast at 30000
+
+Bonus Draw: Proving Grounds, level 4
+----------------------------------------------------------------------
+*065* Juggernaut
+
+Bonus Draw: Isamat Urbur
+
+Bonus Draw: Proving Grounds, level 6
+
+Capture in Isamat Urbur
+
+Capture in level 6 of proving grounds
+----------------------------------------------------------------------
+*066* Fire Gargoyle
+
+Upgrade from: Gargoyle at 7000
+
+Chest in Royal Tower, lower:
+Jump up to left twice just before the exit to get to this chest.
+
+Chest in Temple of Sharacia:
+This chest is to the right of the top of second staircase.
+
+Buy at Card Shop: 600 GP (3rd Kadishu selection or after main story)
+----------------------------------------------------------------------
+*067* Great Demon
+
+Bonus Draw: Proving Grounds, level 4
+
+Upgrade from: Popgun Charlie at 11000
+
+Bonus Draw: Proving Grounds, level 3
+----------------------------------------------------------------------
+*068* Evil Eye
+
+Chest in Gromtull Desert:
+This chest is by the oil pool.
+----------------------------------------------------------------------
+*069* Blue Dragon
+
+Upgrade from: Brine Dragon at 35000
+
+Bonus Draw: Proving Grounds, level 20
+----------------------------------------------------------------------
+*070* Gnome
+
+Bonus Draw: Proving Grounds, level 8
+
+Chest in Fossil Boneyard:
+Jump up from the magic circle to the right of the first dragon cave to
+reach this chest. It's in area where you fight the cultist.
+----------------------------------------------------------------------
+*071* Venom Lizard
+
+Bonus Draw: Proving Grounds, level 2
+
+Upgrade from: Lizardman at 2000
+
+Upgrade from: Red Lizard at 2000
+
+Chest in Kedarie Fortress:
+This chest is in the third search light room.
+----------------------------------------------------------------------
+*072* Tiger Mage
+
+Upgrade from: Witchlette at 17000
+
+Chest in Royal Tower, lower:
+This chest is to the right of the stairs after the fallen column 
+during the escape.
+----------------------------------------------------------------------
+*073* Hydra
+
+Bonus Draw: Obenoix Gorge
+
+Upgrade from: Dragonoid card at 15000
+
+Chest in Royal Tower, Middle:
+This chest is in a secret area in the room to the right of the
+entrance. Use a magic circle powered Stone Golem to break the wall.
+
+Chest in Obenoix Gorge:
+Fly from the deck point area to back to the ledge to the left
+of the path leading back to the entrance to get to this chest.
+----------------------------------------------------------------------
+*074* Siren
+
+Upgrade from: Tumble Chick at 15000
+
+Bonus Draw: Savran
+
+Chest in Obenoix Gorge:
+This chest is by the third column.
+----------------------------------------------------------------------
+*075* Salamander
+
+Bonus Draw: Proving Grounds, level 4
+
+Chest in Horgozh Town:
+This chest is in the southwest corner of the northern section.
+
+Chest in Temple of Sharacia:
+This chest is to the left of top of the first staircase.
+----------------------------------------------------------------------
+*076* Chimera
+
+Bonus Draw: Savran
+
+Capture in Savran at the end of the bridge
+----------------------------------------------------------------------
+*077* Goblin Lord
+
+Upgrade from: Goblin at 20000
+
+Bonus Draw: Plains of Rowahl
+----------------------------------------------------------------------
+*078* Scythe Beast
+
+Chest in the Nobleman's Residence:
+This chest is in the room at the bottom of the staircase that's behind
+you when you start to game. You need to break some chests with a
+weapon card to get to it.
+
+Upgrade from: Lycanthrope at 3000
+
+Bonus Draw: Proving Grounds, level 1 [thanks zeldfannow]
+----------------------------------------------------------------------
+*079* Kitty Trap
+
+Buy at Card Shop: 450 GP (2nd Kadishu selection or after main story)
+----------------------------------------------------------------------
+*080* Night Mare
+
+Bonus Draw: Proving Grounds, level 5
+
+Buy at Card Shop: 1800 GP (Cathedral selection or after main story)
+
+Chest in Ruldo Forest:
+Fly or use Cerberus to jump across chasm from uphill on the path
+near where the you fight the cultist to reach this chest.
+
+Chest in Plains of Rowahl:
+This chest is by the cultist past the main gate and to the left.
+----------------------------------------------------------------------
+*081* Golden Phoenix
+
+Bonus Draw: Proving Grounds, level 20
+
+Upgrade from: Phoenix at 25000
+----------------------------------------------------------------------
+*082* Rheebus
+
+Upgrade from: Golden Porcupig at 8000
+
+Buy at Card Shop: 450 GP (2nd Kadishu selection or after main story)
+
+Chest in Royal Tower, Middle:
+This chest is in the deck point area.
+----------------------------------------------------------------------
+*083* White Tiger
+
+Upgrade from: Nueh at 25000
+
+Bonus Draw: Proving Grounds, level 20
+----------------------------------------------------------------------
+*084* Venus Spider
+
+Upgrade from: Yowie at 4000
+
+Chest in Gromtull Desert:
+This chest is by the oasis.
+
+Can be obtained in the bonus draw for level 6 of the Proving Grounds.
+[Thanks zeldafannow]
+----------------------------------------------------------------------
+*085* Vampire
+
+Upgrade from: Succubus at 20000
+
+Upgrade from: Incubus at 20000
+
+Bonus Draw: Proving Grounds, level 18
+
+Chest in Grenfoel Cathedral:
+This chest is in the secret room open by turning the four statues and
+walking up to the point of the wall where they've turned to face.
+----------------------------------------------------------------------
+*086* Sphinx
+
+Upgrade from: Manticore at 16000
+
+Bonus Draw: Royal Tower, upper
+
+Chest in Royal Tower, Middle:
+This chest is in a secret area in the second room off the corridor
+past the deck point. Open the door to this room and go to the third
+room, magic circle power a chariobot or talos and head for the
+breakable wall, there is just enough time to reach the wall before the
+charge wears off.
+----------------------------------------------------------------------
+*087* Mermaid
+
+Upgrade from: Vodianoi at 9000
+
+Bonus Draw: Proving Grounds, level 15
+----------------------------------------------------------------------
+*088* Puppet Master
+
+Bonus Draw: Isamat Urbur
+
+Bonus Draw: Proving Grounds, level 18
+
+Upgrade from: Anarchy Owl at 13000
+
+Chest in Royal Tower, lower:
+Fly across the pool to get to this chest.
+----------------------------------------------------------------------
+*089* Plague Rat
+
+Bonus Draw: Proving Grounds, level 11
+
+Upgrade from: Porcupig at 10000
+
+Chest in Grenfoel Cathedral:
+This chest is in the secret room open by turning the four statues
+and walking up to the point of the wall where they've turned to face.
+----------------------------------------------------------------------
+*090* Undine
+
+Chest in Runestone Caverns, upper chambers:
+This chest is north of the sluice gate.
+----------------------------------------------------------------------
+*091* Whip Worm
+
+Bonus Draw: Proving Grounds, level 12
+
+Receive from Jarvi for 70 red fairies
+----------------------------------------------------------------------
+*092* Trickster
+
+Bonus Draw: Proving Grounds, level 5
+
+Upgrade from: Carbuncle at 13000
+----------------------------------------------------------------------
+*093* Demon Skeleton
+
+Upgrade from: Undead Knight at 20000
+
+Bonus Draw: Proving Grounds, level 16
+----------------------------------------------------------------------
+*094* Caterpoker
+
+Bonus Draw: Fossil Boneyard
+
+Chest in Fossil Boneyard:
+This chest is in the depression you can jump down to from the right
+side of the two way jump.
+
+Upgrade from: Venus Spider at 3000
+----------------------------------------------------------------------
+*095* Beelzabub
+
+Upgrade from: Larval Fly at 10000
+
+Bonus Draw: Royal Tower, middle
+----------------------------------------------------------------------
+*096* Mind Flayer
+
+Upgrade from: Flayer Spawn at 20000
+
+Fill the fountain in Horgozh town.
+
+Bonus Draw: Proving Grounds, level 17
+
+Buy at Card Shop: 3600 GP (3rd Kadishu and cathedral selection or
+after main story)
+----------------------------------------------------------------------
+*097* Ice Golem
+
+Upgrade from: Sand Golem at 20000
+
+Bonus Draw: Proving Grounds, level 16 [thanks zeldafannow]
+----------------------------------------------------------------------
+*098* Cyclops
+
+Bonus Draw: Proving Grounds, level 5
+
+Upgrade from: Evil Eye at 10000
+----------------------------------------------------------------------
+*099* Black Dragon
+
+Bonus Draw: Krasheen Mountains
+
+Capture during boss fight at Krasheen Mountain
+
+Capture on level 19 of the proving grounds
+
+Bonus Draw: Proving Grounds, level 19
+----------------------------------------------------------------------
+*100* Steel Skeleton
+
+Bonus Draw: Bhashea Castle
+
+Bonus Draw: Proving Grounds, level 20
+
+Upgrade from: Demon Skeleton at 25000
+----------------------------------------------------------------------
+*101* Chaos Knight
+
+Bonus Draw: Proving Grounds, level 18
+
+Upgrade from: Ghost Armor at 11000
+----------------------------------------------------------------------
+*102* Decoy Pillar
+
+Chest in Savran:
+This chest is down the stairs from first bridge section.
+
+Upgrade from: Gargoyle at 15000
+
+Chest in Royal Tower, lower:
+After taking the lift to the area with the exit, jump up to the left
+just after the lift to get to this chest.
+----------------------------------------------------------------------
+*103* Elephant King
+
+Bonus Draw: Proving Grounds, level 8
+
+Upgrade from: Elephant at 27000
+----------------------------------------------------------------------
+*104* God of Destruction
+
+Get from Royal Vault in the Plains of Rowahl.
+----------------------------------------------------------------------
+*105* Doppleganger
+
+Automatic for defeating Katia at the end of Sacred Battle Arena 2.
+----------------------------------------------------------------------
+*106* Earth Elemental
+
+Upgrade from: Gnome at 25000
+
+Can be obtained from a bonus draw in the Proving Grounds. [Thanks
+zeldafannow]
+----------------------------------------------------------------------
+*107* Water Elemental
+
+Upgrade from: Undine at 25000
+
+Bonus Draw: Proving Grounds, level 16
+
+Chest in Obenoix Gorge:
+This chest is to the right of the entrance.
+----------------------------------------------------------------------
+*108* Fire Elemental
+
+Upgrade from: Salamander at 25000
+
+Chest in Temple of Sharacia:
+This chest is on the platform on top of the third staircase. [Thanks
+zeldafannow]
+
+Can be obtained from a bonus draw in the Proving Grounds level 4.
+[Thanks zeldafannow]
+----------------------------------------------------------------------
+*109* Wood Elemental
+
+Upgrade from: Dryad at 25000
+
+Can be obtained from a bonus draw in the Proving Grounds. [Thanks
+zeldafannow]
+----------------------------------------------------------------------
+*110* Aggressor GL2
+
+Bonus Draw: Kendarie Fortress
+
+Buy at Card Shop: 180 GP (2nd Kadishu selection or after main story)
+
+Chest in Kedarie Fortress:
+This chest is in the second search light room.
+----------------------------------------------------------------------
+*111* Succubus
+
+Upgrade from: Great Demon at 7000
+
+Chest in Isamat Urbur:
+This chest is in eastern room off the circular corridor.
+----------------------------------------------------------------------
+*112* Incubus
+
+Upgrade from: Great Demon at 7000
+
+Chest in Isamat Urbur:
+This chest is in eastern room off the circular corridor.
+----------------------------------------------------------------------
+*113* Valkyrie
+
+Bonus Draw: Proving Grounds, level 4
+
+Side with the Valkyrie in the temple of Sharacia.
+
+Capture of level 4 of proving grounds
+----------------------------------------------------------------------
+*114* Napalm Beast
+
+Upgrade from: Carbuncle at 18000
+
+Buy at Card Shop: 900 GP (Cathedral selection or after main story)
+----------------------------------------------------------------------
+*115* Green Dragon
+
+Upgrade from: Baby Dragon at 10000
+
+Chest in Isamat Urbur:
+This chest is in eastern room off the circular corridor.
+----------------------------------------------------------------------
+*116* Wyvern
+
+Bonus Draw: Royal Tower, upper
+
+Chest in Royal Tower, upper:
+This chest is at the entrance.
+----------------------------------------------------------------------
+*117* Sprite
+Upgrade from: Fairy at 8000
+
+Buy at Card Shop: 480 GP (Cathedral selection or after main story)
+
+Chest in Royal Tower, lower:
+This chest is the before lift during the escape.
+----------------------------------------------------------------------
+*118* Leprechaun
+
+Complete the first round of garbage collection in Kadishu.
+----------------------------------------------------------------------
+*119* Charadrius
+
+Bonus Draw: Proving Grounds, level 9
+
+Buy at Card Shop: 430 GP (Cathedral selection or after main story)
+
+Chest in Krasheen Mountains:
+This chest is on the ledge near deck point and the birdman statue.
+----------------------------------------------------------------------
+*120* Yowie
+
+Bonus Draw: Runestone Caverns, lower
+
+Chest in Runestone Caverns, lower chambers:
+With water level set high at the sluice gate in the upper chambers,
+walk across the crates in the room where you see the second cutscene
+to reach this chest.
+
+----------------------------------------------------------------------
+*121* Apsaras
+
+Bonus Draw: Proving Grounds, level 15
+
+Upgrade from: Witchlette at 20000
+----------------------------------------------------------------------
+*122* Death
+
+Upgrade from: Wraith at 6000
+
+Buy at Card Shop: 540 GP (3rd Kadishu selection or after main story)
+
+Chest in Kedarie Fortress:
+This chest is behind the green door near the reservoir.
+
+Chest in Bhashea Castle:
+This chest is on the stairs in the eastern tower.
+----------------------------------------------------------------------
+*123* Porcupig
+
+Bonus Draw: Bhashea High Road
+
+Chest in Bhashea High Road:
+This chest is in the bandit camp at the beginning on the level.
+----------------------------------------------------------------------
+*124* Golden Porcupig
+
+Upgrade from: Porcupig at 5000
+
+Bonus Draw: Proving Grounds, level 17
+
+Chest in Bhashea High Road:
+Fly or jump across river where you did the card toss to reach this
+chest. [Thanks to zeldafannow for using jumping as an alternative to
+get to this chest.]
+----------------------------------------------------------------------
+*125* Mandra Dancer
+
+Upgrade from: Mandragora at 12000
+----------------------------------------------------------------------
+*126* Super Pumper
+
+Upgrade from: Rubber Froggy at 20000
+
+Can be obtained from a bonus draw in the Proving Grounds. [Thanks
+zeldafannow]
+----------------------------------------------------------------------
+*127* Lucky Lion
+
+Chest in Savran:
+Go down the stairs from the first bridge section and fly across to the
+island with the cage. Activate the switch to lower the cage and open
+the chest. If you already got the above hobgoblin card you'll need to
+start a new game and bet the Lucky Lion across in vs. mode.
+----------------------------------------------------------------------
+*128* Vodianoi
+
+Bonus Draw: Obenoix Gorge
+
+Upgrade from: Rubber Froggy at 5000
+----------------------------------------------------------------------
+*129* Uroboros
+
+Upgrade from: Amber Dragon at 35000
+----------------------------------------------------------------------
+*130* Yin Yang
+
+Bonus Draw: Proving Grounds, level 17
+
+Upgrade from: Anarchy Owl at 20000
+----------------------------------------------------------------------
+*131* Dao
+
+Bonus Draw: Proving Grounds, level 8
+
+Upgrade from: Gnome at 12000
+
+Chest in Plains of Rowahl:
+This chest is under some wreckage. It is freed by activating the
+catapult that is pointing at it. Warning: Activating the other
+catapult will prevent access to this chest.
+----------------------------------------------------------------------
+*132* Manticore
+
+Bonus Draw: Plains of Rowahl
+
+Upgrade from: Chimera at 10000
+----------------------------------------------------------------------
+*133* March Hare
+
+Bonus Draw: Proving Grounds, level 13
+
+Capture in level 13 of proving grounds
+----------------------------------------------------------------------
+*134* Marid
+
+Chest in Savran:
+Use the Hell Hound to jump onto the ledge to the left of the entrance
+to reach this chest.
+
+Upgrade from: Undine at 12000
+
+Bonus Draw: Proving Grounds, level 16
+----------------------------------------------------------------------
+*135* Elf
+
+Bonus Draw: Ruldo Forest
+
+Chest in Ruldo Forest:
+Jump from the magic circle by the cultist to reach this chest.
+----------------------------------------------------------------------
+*136* Elf Lord
+
+Upgrade from: Elf at 22000
+
+Bonus Draw: Proving Grounds, level 10
+----------------------------------------------------------------------
+*137* Dark Elf
+
+Upgrade from: Elf at 15000
+----------------------------------------------------------------------
+*138* Global Bust
+
+Receive from Jarvi for 80 Red Fairies
+
+Bonus Draw: Proving Grounds, level 6
+----------------------------------------------------------------------
+*139* Garuda
+
+Upgrade from: Birdman at 20000
+
+Bonus Draw: Proving Grounds, level 12 [thanks zeldfannow]
+----------------------------------------------------------------------
+*140* Popgun Charlie
+
+Upgrade from: Fairy at 4000
+
+chest in Horgozh town:
+This chest is in the southwest corner of northern section.
+----------------------------------------------------------------------
+*141* Acid Cloud
+
+Bonus Draw: Proving Grounds, level 9
+
+Capture in level 9 of proving grounds
+
+----------------------------------------------------------------------
+*142* Baby Dragon
+
+Bonus Draw: Proving Grounds, level 14
+
+Bonus Draw: Fossil Boneyard
+
+Upgrade from: Dragonoid at 5000
+
+Buy at Card Shop: 120 GP (Cathedral selection or after main story)
+----------------------------------------------------------------------
+*143* Brine Dragon
+
+Upgrade from: Baby Dragon at 10000
+
+Bonus Draw: Proving Grounds, level 14
+----------------------------------------------------------------------
+*144* CircaSaurus
+
+Receive from Jarvi for 100 Red Fairies
+
+Bonus Draw: Proving Grounds, level 9
+
+Capture of level 9 of proving grounds
+----------------------------------------------------------------------
+*145* Stone Golem
+
+Bonus Draw: Proving Grounds, level 6
+
+Given by Sol in Runestone Caverns, Upper Chambers
+
+Upgrade from: Sand Golem at 9000
+
+Bonus Draw: Runestone Caverns, upper
+----------------------------------------------------------------------
+*146* Gizmolizer
+
+Chest in Alanjeh Castle:
+This chest is behind the fence from entrance.
+----------------------------------------------------------------------
+*147* MechLance 5L
+
+Bonus Draw: Alanjeh castle
+
+Buy at Card Shop: 150 GP (3rd Kadishu selection or after main story)
+----------------------------------------------------------------------
+*148* Fireworks
+
+Give Earth Moray, Water Moray and Fire Moray to card combiner
+----------------------------------------------------------------------
+*149* Sekmet
+
+Upgrade from: Banshee at 27000
+
+Automatic reward for defeating Thalnos in the arena past the door at
+the end of the main hall of Sacred Battle Arena 2
+----------------------------------------------------------------------
+*150* Undead Knight
+
+Bonus Draw: Proving Grounds, level 3
+
+Upgrade from: Skeleton at 3000
+----------------------------------------------------------------------
+*151* Panther Mage
+
+Upgrade from: Witchlette at 17000
+
+Bonus Draw: Proving Grounds, level 10 [thanks zeldafannow]
+----------------------------------------------------------------------
+*152* Lamassu
+
+Bonus Draw: Proving Grounds, level 7
+
+Chest in Bhashea Castle:
+Use a Hell Hound to jump from the magic circle to west of the entrance
+to reach this chest.
+----------------------------------------------------------------------
+*153* LazerBug 39K
+
+Bonus Draw: Sacred Battle Arena 2
+
+Bonus Draw: Horgozh Town
+
+Capture in Royal Tower, lower
+----------------------------------------------------------------------
+*154* Myconid
+
+Bonus Draw: Ruldo Forest
+
+Upgrade from: Mandragora at 4000
+----------------------------------------------------------------------
+*155* Spartoi
+
+Upgrade from: Red Dragon at 8000
+
+Upgrade from: Green Drag at 8000
+
+Upgrade from: Brine at 8000
+
+Upgrade from: Amber at 8000
+
+Chest in Royal Tower, upper:
+Take second detour through the center area and leave through the far
+door to find this chest.
+----------------------------------------------------------------------
+*156* Phantom Ship
+
+Automatic reward for defeating the Thanatos in Obenoix Gorge.
+----------------------------------------------------------------------
+*157* Raflesia
+
+Upgrade from: Man Trap at 13000
+
+Bonus Draw: Proving Grounds, level 11
+
+Chest in Ruldo Forest:
+This chest is in the area where you fight the three cockatrices.
+----------------------------------------------------------------------
+*158* Daidarapochi
+
+Upgrade from: Sasquatch at 15000
+
+Chest in Bhashea Castle:
+This chest is at the end of the passage with walls that can by broken
+with a magic circle powered Stone Golem on the east side of the map.
+----------------------------------------------------------------------
+*159* Gemini
+
+Upgrade from: Popgun Charlie at 34000
+
+Automatic reward for defeating Gemini in the Fire Arena of Sacred
+Battle Arena 1
+----------------------------------------------------------------------
+*160* Amber Dragon
+
+Bonus Draw: Fossil Boneyard
+
+Upgrade from: Baby Dragon at 10000
+
+Chest in Fossil Boneyard:
+Fly across river on the right of the path to the exit to reach this
+chest.
+----------------------------------------------------------------------
+*161* Demon Lord
+
+Upgrade from: Great Demon at 25000
+----------------------------------------------------------------------
+*162* Witchlette
+
+Chest in Runestone Caverns, upper chambers:
+Fly to Brine Dragon's area to reach this chest.
+----------------------------------------------------------------------
+*163* AcidBot
+
+Chest in Alanjeh Castle:
+This chest is behind the blue circle gate.
+----------------------------------------------------------------------
+*164* Chameleus
+
+Bonus Draw: Proving Grounds, level 11
+
+Upgrade from: CircaSaurus at 20000
+
+Chest in Obenoix Gorge:
+This chest is by the third column.
+----------------------------------------------------------------------
+*165* Devil Plant
+
+Upgrade from: Man Trap at 26000
+
+Chest in Plains of Rowahl:
+This chest is in corner behind the hill from the entrance.
+----------------------------------------------------------------------
+*166* Centaur
+
+Give Archer Tree and Unicorn to card combiner.
+----------------------------------------------------------------------
+*167* Dark Treant
+
+Upgrade from: Treant at 7000
+
+Chest in Alanjeh Castle:
+This chest is behind the blue circle gate.
+----------------------------------------------------------------------
+*168* Coal Treant
+
+Bonus Draw: Horgozh Town
+
+Upgrade from: Treant at 7000
+
+Chest in Horgozh Town:
+The chest is behind the wall to the left of the entrance.
+----------------------------------------------------------------------
+*169* Sleeping Giant
+
+Upgrade from: Storm Hagan at 18000
+----------------------------------------------------------------------
+*170* Gravity Pillar
+
+Bonus Draw: Proving Grounds, level 6
+
+Upgrade from: Decoy Pillar at 20000
+
+Chest in Grenfoel Cathedral:
+This chest is in the left wing of the cathedral by the organ.
+----------------------------------------------------------------------
+*171* Storm Hagan
+
+Bonus Draw: Bhashea High Road
+
+Upgrade from: Orc at 6000
+----------------------------------------------------------------------
+*172* Rock Hagan
+
+Upgrade from: Orc at 6000
+
+Chest in Kadishu:
+This chest is by wall to the right of the entrance.
+----------------------------------------------------------------------
+*173* Bum Hagan
+
+Upgrade from: Orc at 6000
+
+Chest in Gromtull Desert:
+Fly to island in the oasis to reach this chest.
+----------------------------------------------------------------------
+*174* Octobush
+
+Bonus Draw: Proving Grounds, level 13
+
+Bonus Draw: Proving Grounds, level 17
+
+Upgrade from: Vampire Bush at 27000
+----------------------------------------------------------------------
+*175* Chariobot
+
+Bonus Draw: Royal Tower, lower
+
+Capture during timed mission at Alanjeh Castle.
+----------------------------------------------------------------------
+*176* Dark Sprite
+
+Upgrade from: Fairy at 8000
+----------------------------------------------------------------------
+*177* Gargoyle
+
+Bonus Draw: Temple of Sharacia
+
+Bonus Draw: Krasheen Mountains
+
+Upgrade from: Popgun Charlie at 4000
+----------------------------------------------------------------------
+*178* MechaPult
+
+Bonus Draw: Kendarie Fortress
+
+Buy at Card Shop: 480 GP (3rd Kadishu selection or after main story)
+
+Chest in Kedarie Fortress:
+This chest is in the third search light room.
+----------------------------------------------------------------------
+*179* Aggressor DX5
+
+Bonus Draw: Royal Tower, middle
+
+Capture in Royal Tower, middle
+----------------------------------------------------------------------
+*180* Matador
+
+Bonus Draw: Proving Grounds, level 3
+
+Upgrade from: Berserker at 22000
+----------------------------------------------------------------------
+*181* Phooka
+
+Upgrade from: Sprite at 12000
+----------------------------------------------------------------------
+*182* Devata
+
+Bonus Draw: Isamat Urbur
+
+Upgrade from: CircaSaurus at 10000
+
+Chest in Savran:
+Solve drawbridge puzzle to get to this chest. Place stationary helpers
+or independents on the circle down the stairs to the right and on the
+circle in front of the drawbridges. Cross the bridge and place
+stationary cards on both circles on the far side. Go back across
+the bridge and recall one (or both of the first cards) and place a
+card on the circle at the bottom of the left stairs. Go across the
+bridge to the chest.
+
+----------------------------------------------------------------------
+*183* Barometz
+
+Bonus Draw: Alanjeh castle
+
+Capture during timed mission at Alanjeh Castle.
+----------------------------------------------------------------------
+*184* Cerberus
+
+Upgrade from: Hellhound at 20000
+
+Buy at Card Shop: 1500 GP (Cathedral selection or after main story)
+
+Chest in Temple of Sharacia:
+Fly from left side of entrance area to get to an island with this
+chest.
+
+----------------------------------------------------------------------
+*185* Thanatos
+
+Bonus Draw: Obenoix Gorge
+
+Upgrade from: Death at 27000
+
+Chest in Obenoix Gorge:
+Transform into a Stone Golem on the magic circle and head away
+from the ship to break ice encasing this chest.
+----------------------------------------------------------------------
+*186* Nueh
+
+Upgrade from: Chimera at 21000
+
+Automatic reward for defeating Neuh in the Wood Arena of Sacred Battle
+Arena 1
+----------------------------------------------------------------------
+*187* Horus
+
+Upgrade from: Dark Raven at 12000
+----------------------------------------------------------------------
+*188* Acid Dragon
+
+Bonus Draw: Proving Grounds, level 14
+
+Bonus Draw: Proving Grounds, level 18
+
+Bonus Draw: Royal Tower, upper
+
+Upgrade from: Green Dragon at 10000
+
+Chest in Krasheen Mountains:
+This chest is on a ledge to the right of the black dragon.
+----------------------------------------------------------------------
+*189* Rubber Froggy
+
+Upgrade from: Water Reaper at 6000
+----------------------------------------------------------------------
+*190* Boom Monkey
+
+Bonus Draw: Proving Grounds, level 17
+
+Chest in Alanjeh Castle:
+Fly across river from exit gate to reach this chest.
+----------------------------------------------------------------------
+*191* UberBomberBot
+
+Chest in Kedarie Fortress:
+Fly across the reservoir to reach this chest.
+----------------------------------------------------------------------
+*192* Gorgon
+
+Bonus Draw: Krasheen Mountains
+
+Upgrade from: Vodianoi at 5000
+
+Buy at Card Shop: 810 GP (3rd Kadishu selection or after main story)
+
+Chest in Runestone Caverns, upper chambers:
+Destroy ice pillar in eastern map with the Stone Golem after
+activating magic circles in Ruldo Forest to get to this chest.
+
+Chest in Bhashea Castle:
+This chest is on top of the western tower.
+----------------------------------------------------------------------
+*193* Pixie
+
+Chest in Gromtull Desert:
+This chest is in the mummy cave near the oil pool.
+----------------------------------------------------------------------
+*194* Baba Yaga
+
+Upgrade from: Witchlette at 14000
+
+Chest in Runestone Caverns, upper chambers:
+Fly to Brine Dragon's area to reach this chest.
+----------------------------------------------------------------------
+*195* Berserk Master
+
+Upgrade from: Berserker at 34000
+
+Bonus Draw: Level 1 [thanks zeldafannow]
+----------------------------------------------------------------------
+*196* Rabandos
+
+Automatic reward for defeating Rabandos in the first neutral arena in
+Sacred Battle Arena 2
+----------------------------------------------------------------------
+*197* Hellhound
+
+Upgrade from: Lycanthrope at 7000
+
+Chest in Fossil Boneyard: starting area
+This chest is in the starting area.
+
+Chest in Fossil Boneyard:
+This chest is by the magic circle where you there are two ways to
+jump.
+
+Chest in Fossil Boneyard:
+This chest is by the deck point on the left side of the two way jump.
+
+Chest in Temple of Sharacia:
+This chest is to the right of the top of the first staircase.
+----------------------------------------------------------------------
+*198* Tumble Chick
+
+Receive from Jarvi at his house in Kadishu as a reward for Rescuing
+him from the Gromtull Desert
+----------------------------------------------------------------------
+*199* Mad Reverser
+
+Bonus Draw: Proving Grounds, level 9
+
+Upgrade from: Trickster at 13000
+----------------------------------------------------------------------
+*200* Sleipnir
+
+Upgrade from: Night Mare at 42000
+----------------------------------------------------------------------
+*201* Claws-R-Us
+
+Bonus Draw: Alanjeh Castle
+
+Capture in Alanjeh Castle
+----------------------------------------------------------------------
+*202* TriBlaster
+
+Bonus Draw: Royal Tower, lower
+
+Capture in Horgozh town
+----------------------------------------------------------------------
+*203* Anarchy Owl
+
+Bonus Draw: Proving Grounds, level 9
+
+Upgrade from: CircaSaurus at 7500
+----------------------------------------------------------------------
+*204* Pegasus
+
+Give Horus and Unicorn to card combiner
+----------------------------------------------------------------------
+*205* Phoenix
+
+Bonus Draw: Temple of Sharacia
+
+Upgrade from: Dark Raven at 25000
+----------------------------------------------------------------------
+*206* Ashura
+
+Bonus Draw: Proving Grounds, level 4
+
+Upgrade from: Jade Giant at 50000
+
+Side with Ashura in the temple of Sharacia
+----------------------------------------------------------------------
+*207* Talos
+
+Give Ghost Armor and Stone Head to Card combiner
+----------------------------------------------------------------------
+*208* Crystal Magic
+
+Receive from Jarvi for 90 red fairies
+----------------------------------------------------------------------
+*209* Psycho Dice
+
+Receive from Jarvi for 50 red fairies.
+----------------------------------------------------------------------
+*210* Blue Mold
+
+Bonus Draw: Proving Grounds, level 7
+
+Upgrade from: Myconid at 9000
+----------------------------------------------------------------------
+*211* Jade Giant
+
+chest in Savran:
+This chest is down the stairs from first bridge section.
+
+Upgrade from: Berserker at 10000
+----------------------------------------------------------------------
+*212* Fafnir
+
+Upgrade from: Red Dragon at 35000
+
+Bonus Draw: Proving Grounds, level 19
+----------------------------------------------------------------------
+*213* Beaker
+
+Bonus Draw Nobleman's Residence
+
+Capture in Nobleman Residence
+----------------------------------------------------------------------
+*214* Pazuzu
+
+Capture on Level 13 of the Proving Grounds
+----------------------------------------------------------------------
+*215* SuperScrubber
+
+Complete second round of trash collection in Kadishu
+----------------------------------------------------------------------
+*216* AstroBot
+
+Automatic reward for defeating the AstroBot in the first mech arena of
+Sacred Battle Arena 2
+----------------------------------------------------------------------
+*217* Vouivre
+
+Bonus Draw: Proving Grounds, level 7
+
+Capture on level 7 of proving grounds
+----------------------------------------------------------------------
+*218* Fire Moray
+
+Bonus Draw: Proving Grounds, level 3
+
+Receive from Jarvi for 30 red fairies
+----------------------------------------------------------------------
+*219* Water Moray
+
+Bonus Draw: Proving Grounds, level 15
+
+Chest in Bhashea High Road:
+Fly to the tower near the broken bridge to reach this chest.
+----------------------------------------------------------------------
+*220* Earth Moray
+
+Bonus Draw: Proving Grounds, level 7
+
+Chest in Krasheen Mountains:
+Fly behind the rock pillar on the left fork of the broken bridge to
+reach this chest.
+----------------------------------------------------------------------
+*221* Ryuhi
+
+Upgrade from: Green Dragon at 35000
+
+Bonus Draw: Proving Grounds, level 19
+----------------------------------------------------------------------
+*222* Demon Swordsman
+
+Automatic reward for defeating the Demon Swordsman in Bhashea Castle
+
+Can be caught.
+----------------------------------------------------------------------
+*223* Ice Skeleton
+
+Automatic reward for defeating Helena in the second Neutral Arena of
+Sacred Battle Arena 2
+----------------------------------------------------------------------
+*224* Sacred Umpire
+
+Automatic reward for defeating Leod in the second Mech arena of Sacred
+Battle Arena 2
+----------------------------------------------------------------------
+*225* Emperor
+
+Bonus Draw: Proving Grounds, level 20
+
+Capture on level 20 of the Proving Grounds:
+The Emperor has 400 hit points. One strategy to capture it is to use
+8 z-powered banshee hits and 2 capture cards to catch it.
+----------------------------------------------------------------------
+*226* Capture Card
+Capture Cards can be purchased from the Rogue behind the statue near
+the fountain in Kadishu. The price of the cards starts at 1000 for
+the first capture card. The price for subsequent cards increases with
+one exception as follows:
+2nd-2000
+3rd-3000
+4th-5000
+5th-7000
+6th-10000
+7th-15000
+8th-1000 (sale)
+9th-20000
+10th-30000
+all other capture cards 50000.
+----------------------------------------------------------------------
+
+**********************************************************************
+V.    ITEM LOCATION LIST
+**********************************************************************
+Red Key:
+Obtain this item by Defeating the soldier in the Red Arena in Kendarie
+Fortress. See the boss section for strategies on defeating the
+Kendarie Card Masters.
+
+Blue Key:
+Obtain this item by defeating the soldier in the Blue Arena at the top
+of the stairway in Kendarie Fortress. See the boss section for
+strategies on defeating the Kendarie Card Masters.
+
+Green Key:
+Obtain this item by defeating soldier in the Green Arena behind red
+door just before the first stairway in Kendarie Fortress. See the
+boss section for strategies on defeating the Kendarie Card Masters.
+
+Fossil Head:
+This item is in the Fossil Boneyard under a breakable rock near on
+the plateau reached by jumping right from the two way jump.
+
+Fossil Torso:
+This item is in the Fossil Boneyard under a breakable rock in the
+corner area that you can jump up into near the depression.
+
+Fossil Tail:
+This item is in the Fossil Boneyard under a breakable rock near the
+deck point on the plateau reached by jumping left from the two way
+jump.
+
+
+Fossil Rt Wing:
+This item is in the Fossil Boneyard under a breakable rock in the
+area where you fight the Amber Dragon.
+
+Fossil Lt Wing:
+This item is in the Fossil Boneyard under a breakable rock to the
+left after jumping out of the depression.
+
+Fossil Rt Arm:
+This item is in the Fossil Boneyard under a breakable rock to right
+of a gap leading to the magic circle that allow you to jump to two
+different areas.
+
+Fossil Lt Arm:
+This item is in the Fossil Boneyard under a breakable rock reached
+by flying across the river to the left of the path to the exit.
+
+Fossil Rt Leg:
+This item is in the Fossil Boneyard under breakable rock nearest
+the magic circle in starting area.
+
+Fossil Lt Leg:
+This item is in the Fossil Boneyard under a breakable rock in the
+depression reached by jumping down after the right side plateau
+from the two way jump.
+
+Bottle:
+This item is in pack at oasis in Gromtull Desert.
+
+Black Liquid:
+Once you have the bottle examine the oil patch in the Gromtull
+desert to get this item.
+
+Mysterious Key:
+Get from Gurd in Sacred Battle Arena 1 after defeating the
+cultist in the arena behind Gurd.
+
+Blade of Skill:
+Get this item by throwing a card (independent or helper) at the
+pedestal on the dividing wall of a room off the western corridor.
+
+Blade of Power:
+Get this item by defeating the Steel Skeleton in the northwest
+corner
+
+Blade of Wisdom:
+Get this item by solving the tile puzzle in the northeast corner by
+changing all of the tiles to white.
+
+Blade of Time:
+Get this item by setting the clock to 6:00 in the northern corridor
+and then examine the clock face in the central room.
+
+Jewel of Alanjeh:
+Talk to the guard at the entrance to Grenfoel Cathedral and he'll
+give you the jewel.
+
+Eno Runestone:
+Defeat the cultist in Ruldo Forest to get this runestone. You can
+find the cultist by either break the log with a magic circle
+transformed Stone Golem or talos, or taking the narrow path around
+to the area past the fallen logs. See the boss section for
+strategies on defeating the Ruldo Forest Cultist.
+
+Oht Runestone:
+Defeat the cultist in Fossil Boneyard to get this runestone. You can
+find the cultist by jumping off the magic circle with a high jumping
+transformation to the left of the first baby dragon cave. See the
+boss section for  strategies on defeating the Fossil Boneyard
+Cultist.
+
+Elise Runestone:
+Defeat the cultist in the Plains of Rowahl to get this runestone.
+Go through the gate and to the left to find the cultist. See the
+boss section for strategies on defeating the Castle Cultist.
+
+Olf Runestone:
+Defeat the cultist in Sacred Battle Arena 2 to get this runestone.
+The cultist is in the arena behind Gurd. See the boss section for
+strategies on defeating the Battle Arena Cultist
+
+Ebin Runestone:
+Defeat the cultist in Gromtull Desert to get this runestone.
+Use a jumping (high) transformation card to jump up behind the
+sandworm to find the cultist. See the boss section for strategies
+on defeating the Desert Cultist.
+
+Keil Runestone:
+Defeat the cultist in Nobleman's Residence to get this runestone.
+Once you have the Mysterious Key, go through locked door to the right
+of the entrance. See the boss section for  strategies on defeating
+the Nobleman Cultist.
+
+Nebeth Runestone:
+Defeat the cultist in Isamat Urbur to get this runestone.
+The cultist is in the western room off the circular corridor.
+See the boss section for strategies on defeating the Isamat Urbur
+Forest Cultist.
+
+Stone of Sealing:
+Place the seven runestone on the pedistals in the center room of
+Isamat Urbur and pick up the stone in the now open northern room.
+
+Castle Gate Key:
+Defeat the soldier in the camp on the Plains of Rowahl to get the key.
+See the boss section for Kendarie Card Master.
+
+Key to Fountain:
+This key is in the pockets of a corpse by the statue in the northeast
+corner of Horgozh town.
+
+
+
+
+**********************************************************************
+VI.   COMBO LIST
+**********************************************************************
+Some the combo's are told to you be the Red fairy you find throughout
+the game. The rest are acquired using the combo. You can acquire a
+combo a red fairy would tell early by using it. zeldafannow sent me a
+list of 22 combos the red fairies tell you about, I cross referenced
+with the list of unlocked combo on my most recent playthrough where I
+had used no combo and found 2 additional combo. I've noted these
+combo as Red fairy combos.
+
+To use a combo:
+1. Put all of the cards for the combo into your hand.
+2. Hold the z button and select the cards in the combo to z-effect
+   them. The border of the cards will turn red when all the combo
+   cards have been z-effected. Do not z-effect any non combo cards.
+3. Release the z button
+4. Select any of the combo cards to use the combo.
+
+
+
+Triple Hagan: (Red fairy combo)
+Rock Hagan, Bum Hagan, and Storm Hagan
+
+Ultimate Pasta:
+Red Dragon, Brine Dragon, Green Dragon, Amber Dragon
+
+Lizard War: (Red fairy combo)
+Red Lizard, Venom Lizard, Lizardman, Basilisk
+
+Rotary Death: (Red fairy combo)
+Carbuncle, Decoy Pillar
+
+Rocky Forecast:
+Stone Head x 3
+
+Sir Spear-A-Lot: (Red fairy combo)
+Ghost Armor, Chaos Knight
+
+Temper Tantrum: (Red fairy combo)
+Fire Golem, Ice Golem
+
+Goblin Guts: (Red fairy combo)
+Hobgoblin, Goblin Lord
+
+Lethal Orbit: (Red fairy combo)
+Carbuncle, Juggernaut, Whip Worm
+
+Crystal Rage: (Red fairy combo)
+Dragon Knight x 2, Crystal Rose
+
+Mandragora Mixer:
+Mandragora, Mandra Dancer, King Mandragora
+
+Rust and Roll!: (Red fairy combo)
+Acid Dragon, Pixie
+
+EconoMagic: (Red fairy combo)
+Panther Mage, Tiger Mage
+
+Just Visiting:
+Doppelganger x 2
+
+Djinn and Bear It:
+Efreet, Dao, Marid
+
+Triple Kamikaze:
+Flying Ray, Dark Raven x 2
+
+One Way Ticket: (Red fairy combo)
+Valkyrie, Thanatos
+
+The Master's Four:
+Fenril, Behemoth, Demon Fox, Ice Golem
+
+The Big Save:
+White Tiger, Golden Phoenix, Great Turtle, Blue Dragon
+
+Brutal Nightmare: (Red fairy combo)
+Succubus, Incubus
+
+Phantom Bulldozer: (Red fairy combo)
+Wraith, Lich, Sekmet
+
+Living Large:
+Phoenix, Golden Phoenix
+
+Elemental Victory: (Red fairy combo)
+Dryad, Gnome, Salamander, Undine
+
+Skullapalooza: (Red fairy combo)
+Ice Skeleton, Demon Skeleton, Steel Skeleton, and Skeleton
+
+Stone Cold Sniper: (Red fairy combo)
+Stone Golem, Archer Tree x 2
+
+Mega Tremor:
+Elephant, Elephant King
+
+Time Out!:
+Running Bird, Gold Butterfly
+
+Hell Hole:
+Gravity Pillar, Doppelganger
+
+Spiritual Force:
+Earth Elemental, Fire Elemental, Water Elemental, and Wood Elemental
+
+Air Raid: (Red fairy combo)
+Treant, and Dark Raven x 2
+
+Tech Support!: (Red fairy combo)
+Acid Cloud, Gold Butterfly
+
+Song of Hades:
+Mermaid, Siren
+
+Hearing Aid: (Red fairy combo)
+Sphinx, Mummy x 2
+
+Uber Vampire Root: (Red fairy combo)
+Vampire Bush x 2
+
+Mo Better Moray:
+Fire Moray, Water Moray, and Earth Moray
+
+Prayer of the Wise: (Red fairy combo)
+Sea Monk, Mind Flayer
+
+Hawging the Action: (Red fairy combo)
+Orc x 4
+
+Stone All Around: (Red fairy combo)
+Cockatrice x 2
+
+Tender Mercy: (Red fairy combo)
+Fairy, Rheebus
+
+Green Guardian:
+Elf, Elf Lord, Dark Elf
+
+**********************************************************************
+VII.   BOSSES &amp; TIPS
+**********************************************************************
+
+---------
+|Bhashea:|
+---------
+
+Hell hound:
+----------
+Z-Effect a dragon knight and use it as the Hell hound lands.
+
+alkaline batterit provides this alternate strategy: Get four lizardmen in 
+your hand powered with Z + (assigned button)  and then fire away!
+
+Gives access to Bhashea high road
+
+Storm Hagan x2:
+--------------
+Z-Effect a fire weapon card e.g. red lizard and attack them both and
+then finish them with any card.
+
+Gives access to Kadishu
+
+Kendarie Knights:
+----------------
+Let sol kill them all.
+
+Gives access to Kendarie fortress
+
+Storm Hagan, Man Trap, and chaos knight:
+---------------------------------------
+
+Tai Moody contributed this strategy for the Chaos Knight:
+
+"dont use any summons and just cast independent creatures. keep attack 
+cards with quick use in your hand at all times. if the card you played is 
+strong it will be able to hit the knight when you are'nt. if the creature 
+dies then cast another. the knight will not be able to attack at all if 
+you consistently do this! suggestions on creatures: demon skeleton, the 
+lance thing (i cant remember its name. it just looks like a ball with 
+legs and a lance out the top), and one of the helper creatures that runs 
+around you attacking enemys. with this time your attacks so that it is 
+always being hit."
+(MysticWeirdo's notes: the lance thing may be the MechaLance, use fire 
+type cards on the Storm Hagan and Man Trap)
+
+
+Gives access to Bhashea Castle
+
+Demon Swordsman:
+---------------
+*Tips needed*
+
+Gives Demon Swordsman Card
+
+Kendarie Card Masters:
+---------------------
+*Tips needed*
+
+Gives Red, Blue, and Green key and also access to
+Kendarie, Runestone Caverns
+
+Nobleman Cultist:
+----------------
+this cultist only uses weak cards so counter with strong weapons.
+
+Gives a cultist runestone
+
+Isamat Urbur Cultist:
+--------------------
+this one uses strong cards so counter with strong weapon cards and
+a decoy pillar
+
+Gives a cultist runestone
+
+Desert Cultist:
+--------------
+this one uses Sand Worms, Dragon Knights, Tumble Chicks,
+and Carbuncles so counter with Dragon Knights and Hell hounds.
+
+Gives a cultist runestone
+
+-----------
+|Kendarie:|
+-----------
+
+God of Harmony:
+--------------
+
+place a Mechapult near the entrance and the exit. remember to avoid
+the purple bubbles
+
+Gives access to Ruldo Forest
+
+Cockatrice x3:
+-------------
+use fire weapon cards such as red lizard and flayer spawn.
+
+Gives access to Sacred Battle Arena I
+
+Ruldo Forest Cultist:
+--------------------
+*tips needed*
+
+Gives a cultist runestone
+
+Fossil Boneyard Cultist:
+-----------------------
+*tips needed*
+
+Gives a cultist runestone
+
+Battle Arena Cultist:
+--------------------
+*tips needed*
+
+Gives a cultist runestone and mysterious key
+
+Kendarie Card Master:
+--------------------
+*tips needed*
+
+Gives access to Sacred Battle arena II
+
+Amber Dragon:
+------------
+*tips needed*
+
+Gives access to Bridge of Savran/Savran bridge
+
+Zombie Dragon:
+-------------
+This strategy courtesy of Tai Moody:
+"use one and only one (amazing about this) brine dragon, sonic tail, 
+attack and you will kill it... its amazing... i might be wrong but im not 
+certain about it. i have 2 brine dragons in my deck at all time so.... 
+maybe "
+
+Gives a Chest with a Zombie Dragon Card
+
+Chimera:
+-------
+*tips needed*
+
+Gives access to Alanjeh, Horgozh town
+
+Helena:
+------
+*tips needed*
+
+Gives half access to Thalnos room (Need both halves)
+
+Leod VIII:
+---------
+*tips needed*
+
+Gives half access to Thalnos room (Need both halves)
+
+Thalnos the Enchanter:
+---------------------
+alkaline batterit provides this strategy: When he appears, run up to him, 
+(really fast) and use doppelganger. It will kill him on the spot.
+
+
+Gives access to Katia's Chamber
+
+Katia:
+-----
+use double Rhebus before battle.
+
+alkaline batterit provides this strategy:
+Use the vampire. Right away.
+
+Zakattack provides this alternate strategy: Lure her whip worm or her 
+skeleton into her doppelganger to kill them both instantly. 
+Unfortunately, the doppelganger wont kill her directly but her monsters 
+will still die from it.
+
+Gives the Doppelganger Card
+
+----------
+|Alanjeh:|
+----------
+
+Lazerbug 39K, Triblaster x2:
+---------------------------
+*tips needed*
+
+Gives access to Plains of Rowahl (Name??)
+
+Kendarie Card Master:
+--------------------
+*tips needed*
+
+Gives Castle Gate key
+
+Castle Cultist:
+--------------
+*tips needed*
+
+Gives a cultist runestone
+
+Lazerbug 39K x2:
+---------------
+A single Z-powered Red Dragon Earth Breaker takes them out
+
+Gives access to All Levels Again, Gives access to lower tower Part 2
+
+Sasquatch x1:
+------------
+*tips needed*
+
+Gives access to the Boss below
+
+Sasquatch x2:
+-------------
+*tips needed*
+
+Gives access to the Boss below
+
+Thantanos:
+---------
+*tips needed*
+
+Gives Phantom Ship, Removes the Phantom Ship from the dock
+
+Behemoth:
+--------
+*tips needed*
+
+Removes a bit of the shield
+
+Ice Golem:
+---------
+*tips needed*
+
+Removes a bit of the shield
+
+Demon Fox:
+---------
+*tips needed*
+
+Removes a bit of the shield
+
+Beelzabub:
+---------
+*tips needed*
+
+Removes a bit of the shield
+
+Fenril:
+------
+*tips needed*
+
+Removes a bit of the shield
+
+Leod VIII:
+---------
+*tips needed*
+
+Gives access to Upper Tower
+
+Body of the God:
+---------------
+Place a Decoy Pillar right behind its back and then a Mechapult a
+little to the right or left of it.
+
+
+Tai Moody provides alternate strategy:
+"use this strategy ONLY if you have something that can pick up gems or 
+are a high level OR have 8 stars in fire element. you will need 2 fafnirs 
+or a fafnir an elephant and a type of attacking card. oh yeah and for the 
+fafnir and elephant card deck use a superscrubber to collect gems from 
+the tentacles after using the attack cards. if you use the 2 fafnir combo 
+then just run up and use a fafnir after the other. one attack will take 
+it to 1/3 health and the second will kill it. for the elephant and fafnir 
+deck  use the fafnir, back up, use the elephants dual restore to get back 
+the fafnir, get magic jewels if you need them, and then use the fafnir 
+again. rather easy way to kill it. oh and if you have 8 fire stat and at 
+least 32 jewels then just use a blue fairy one or 2 times until you get 
+fafnir back so you can use it a final time. "
+
+alkaline batterit provides this alternate strategy:  Use skullapalooza. 
+The card usage will stay at zero, and if you are good enough, you will 
+suffer no damage, one kill, and three stars.
+
+Gives Credits
+
+-------
+|Wyht:|
+-------
+
+Black Dragon:
+------------
+
+Gabman v2 provided this strategy: Z-Effect a Demon Fox and a Capture 
+Card.  Use the Fiery Slaughter when he's right in front of you and hit 
+him with the Capture Card.
+
+Gives access to Grenfoel Cathedral
+
+Ashura OR Valkyrie:
+------------------
+God of Destruction's final judgment one him/her and finish with any
+weapon
+
+Gives Ashura OR Valkyrie card depending on who you fought
+
+------------------
+|Proving Grounds:|
+------------------
+
+Fire golem x2:
+-------------
+Use a a z-effected Brine Dragons Sonic Tail attack to one hit KO
+them.
+
+Vouvire x4:
+----------
+A single Z-powered Red Dragon Earth Breaker takes them all out
+
+Kraken &amp; Nueh:
+-------------
+For the Kraken, use the God of Destruction's Final Judgment followed by 
+any attack. A Z-effected Red Dragon Earth Breaker followed by a Banshee 
+will take care of Neuh.
+
+White tiger, Blue Dragon, Golden Phoenix, and Great Turtle:
+----------------------------------------------------------
+
+This stragegy courtesy of kirbob:
+
+"I have a strategy for fighting the 4 bosses of the Proving Grounds 
+floor 20 (Great Turtle, White Tiger, Golden Phoenix, and Blue Dragon). 
+Have a deck with at least 4 capture cards, a God of Destruction card, 
+and maybe some Sea Monks or Mind Flayers (in case you fail). Then 
+start the battle, get very close to one of them, use the God of 
+Destruction card and then use a capture card. This may take a few 
+tries to hit them with the God of Destruction, so then you use your 
+Sea Monks and Mind Flayers. Doing this, you will easily beat the 4 
+monsters and gain there cards in the process. "
+
+This strategy courtesy of Jon Tyler
+ "I have a slightly different strategy than the one outlined for taking 
+down the Sacred Beasts in the "lock" chamber of level 20 of proving 
+grounds (the one that traps you with all four beasts). What you need: 
+G.o.D. x1, Doppledanger x2, Decoy Piller x1, any quick weapon or area 
+summon. Walk to the edge of the doorway into the chamber (it's the second 
+one after the first area with the beasts you can run by) from the Hallway 
+and toss a Decoy (doesn't matter if it's Z'd or not, but it helps) as far 
+in as possible. Run in. All four beasts spawn. The two medium speed ones, 
+the Blue Dragon and the Golden Phoenix should reach it in no time, and if 
+you're lucky the Great Turtle will catch up quickly. The White Tiger runs 
+around too fast to make it worthwhile. Stand next to the Piller as close 
+as safely possible and Summon G.o.D. You should definately get the Blue 
+Dragon and the Golden Phoenix, and quite possibly the Great Turtle as 
+well. Finish off the two of them with your weapon card. If the great 
+turtle got hit, great. Finish him off as well. If not, wing a 
+Doppledanger at him and let it do the job. 
+Next wing another Doppledanger out and let the White Tiger run into it 
+and die. The only catch is that it's heavy on magic stone usage unless 
+you're a neutral master. It's worked all the time for me."
+
+MysticWeirdo's strategy:
+Lead off with a Berserk Master.  This cause the gods to fight amongst 
+themselves (just don't get to close) and the Golden Phoenix will destroy 
+itself.  There should be one weakened god left by the time the Berserk 
+Master is exhausted.  Use the God of Destruction's Final Judgment and 
+finish it off with any attack.
+
+
+Emperor:
+-------
+8 Z-powered banshee hits and 2 capture cards or 9 banshee hits.
+remember to collect magic stones.
+
+alkaline batterit provides this alternate strategy: Use the vampire, yet 
+again.
+
+_________
+|Finale:|
+---------
+
+Contact us if you have some tips or tactics against Bosses.
+Proving Grounds Bosses are extremely welcome.
+
+**********************************************************************
+VIII.  CHARACTERS
+**********************************************************************
+
+---------------
+|Tara Grimface|
+--------------
+The Best thief in "the scorpions".
+
+--------
+|Victor|
+--------
+The boss of the scorpions.
+-----
+|Sol|
+-----
+A muscular guy with a sword sent out by the queen to protect Adriannu.
+
+-----------------
+|"The Scorpions"|
+-----------------
+A gang of thieves.
+
+-------
+|Jarvi|
+-------
+A fairy collector that is a decendant to the legendary Alexander 
+who was the first to collect 100 red faeries.
+
+Was the second to collect 100 faeries.
+
+-----------
+|Alexander|
+-----------
+The first faery collector to collect 100 faeries.
+
+was a friend of queen katia, the first queen of argwyll.
+
+-----------
+|Leod VIII|
+-----------
+
+------
+|Gurd|
+------
+
+-----------
+|Rashiannu|
+-----------
+
+----------
+|Adriannu|
+----------
+
+------------
+|Dead Queen|
+------------
+
+-----------------------
+|God of Harmony (body)|
+-----------------------
+
+------------
+|Male Nurse|
+------------
+
+--------------
+|Black Dragon|
+--------------
+
+-------------------
+|God of Destuction|
+-------------------
+
+-----------------
+|God of Creation|
+-----------------
+
+-------
+|Katia|
+-------
+
+-----------------------------
+|God of Harmony (Light Wall)|
+-----------------------------
+
+-------------------------
+|God of Harmony (Spirit)|
+-------------------------
+
+--------------
+|The Cultists|
+--------------
+
+---------------------
+|The Demon Swordsman|
+---------------------
+
+-------------------
+|Captain something|
+-------------------
+
+---------------------------
+|The Four Legendary Beasts|
+---------------------------
+
+-------------
+|The Emperor|
+-------------
+
+--------
+|Helena|
+--------
+
+-----------------------
+|Thalnos the Enchanter|
+-----------------------
+
+**********************************************************************
+IX.  LEGAL
+**********************************************************************
+This document is Copyright 2004, 2005 MysticWeirdo a.k.a Warren 
+Grieder and zeldafannow a.k.a mats andersson
+All trademarks and copyrights contained in this document are owned by
+their respective trademark and copyright holders.
+
+Permission to host this document is given to the following:
+GameFAQs
+IGN
+Neoseeker
+
+Sites that DO NOT have permission and never will:
+fuska.nu
+cheats.de
+CheatCC.com
+Cheatindex.com
+supercheats.de
+
+This file may be not be reproduced under any circumstances except for 
+personal, private use. It may not be placed on any web site or 
+otherwise distributed publicly without advance written permission, 
+except GameFaqs, IGN or Neoseeker. Use of this guide on any other web 
+site or as a part of any public display is strictly prohibited, and a 
+violation of copyright.
+
+
+**********************************************************************
+X.  Requests
+**********************************************************************
+
+Cards in proving grounds draw which we need levels for:
+Jack-O-Lantern
+Wood Elemental
+Super Pumper
+
+Question marks needs to be removed in the proving grounds.
+
+tips for bosses needed.
+
+**********************************************************************
+XI. Contact Information
+**********************************************************************
+For suggestions and/or corrections for this guide please email:
+{mystic.weirdo [at] gmail.com for MysticWeirdo or if you can't reach 
+me; zeldafannow.faq.contact.mail [at] gmail.com for zeldafannow} 
+with the name of the section that you want to say something about.  
+
+The most recent version of this guide will be on www.gamefaqs.com.
+Please check there before contacting us with additions/corrections.
+
+Any of the missing cards in the proving grounds bonus draws are
+especially welcome.
+
+**********************************************************************
+XII.   Credits
+**********************************************************************
+Thanks go to the following:
+Activision and FromSoftware for making this great game.
+
+GameFAQs for hosting this FAQ.
+IGN for hosting this FAQ.
+
+kirbob for sending us a strategy for the four god battle in the 
+Proving Grounds.
+
+Jon Tyler for sending an alternate strategy for the four god battle in
+the Proving Grounds.
+
+Jame Hargrove for providing the level for the Earth Elemental bonus
+draw.
+
+KopakaNuva40 for confirming the Basilisk in level 2 proving grounds
+bonus draw.
+
+Gabman v2 for proving a strategy for the Black Dragon.
+
+Becky Adams for pointing out an error in the the card shop list.
+
+alkaline batterit for the tips for several bosses.
+
+Zakattack for the tip and Demon Swordsman capture info.
+
+Thank to ShanePryde13 for pointing out that list of ways to obtain the
+hydra was missing the dragonoid upgrade.
+
+osrevad for doing the ascii shown below for our guide:
+       ________        ________          ________  _  __________________
+       \_    _/     ,-'  ____  `-.     ,'  _____ `' ||    ___    ___    |
+         |  |     ,'  ,-'    `-.  `.  /   /     `.  ||  .'   |  |   `.  |
+         |  |    /   /          \   \ |   \       \_||_/     |  |     \_|
+         |  |   |   |            |   |\    `-._              |  |
+         |  |   |   |            |   | `-._    `-.           |  |
+         |  |    \   \          /   /      `-.    `.         |  |
+         |  |     `. ,'/.____,-'  ,'   _      `.    \        |  |
+         |  |      ,' /________,-'    | \       \   |        |  |
+        _|  |___,-'  /                |  `._____/   /       _|  |_
+       /____________/                 |___________,'       /______\
+       ___  ________    _    ____ _______     ____   ___      __   _____
+       \ / / /\ /\  \  | | ,'____|\  ___ \  ,'____`. \  \    /  | / ___ |
+       | |/ / | || \ \ | |/ /  __ | |   \ |/ /    \ \| \ \  / / || (___\|
+       |   /  | || |\ \| || | |_ || |   | || |    | || |\ \/ /| | \___ \
+       | |\ \ | || | \ \ |\ \__/ || |___/ |\ \____/ /| | \  / | ||\___) |
+       |_| \ \/_\/_\  \__| `.__,_|/______/  `.____,' /_|  \/  |_\|_____/
+            \ \            ________________________
+             \/            \____________     _____/
+                                  ___   \   /
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |   |
+                                 |   |  |___|
+                            _____/   \____________
+                           /______________________\
+
+<MysticWeirdo>
+Everyone who posted help back in June 2003 both question and answers
+from which I was able to complete my the card catalog on my first
+play through, I'm afraid I've forgotten most of your names. The one I
+remember are carlash, IceCreamAssassin, JAWBREAKERS, and GCNszmm
+
+Mary570 for saving me a lot of typing by providing a spreadsheet
+that had the upgrade from information.
+
+Last but not least I'd like to thank my coauthor zeldafannow
+write the section on capturable cards by level, as well as all the
+correction/suggestions for the guide, and for sending me the list of
+red fairy combos, and filling in many of the gaps in the
+proving bonus draw list.
+<end MysticWeirdo>
+
+**********************************************************************
+**********************************************************************

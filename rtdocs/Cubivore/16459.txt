@@ -1,0 +1,1898 @@
+                           .   .......,.............         Nintendo GameCube
+                :i;;;r;;;iiiiiiiiiiiii::iiiii:::,...,i;SX:
+         .,i;rr;iii:::::::::::::::::::::,,,..  ,,;r7X777X;   Doubutsu  Banchou
+    .i;rr;ii::,,,,,,,,,,,,,,,,,,,,,,,,.. ..:;rXX77rr;;;rXr
+ ,;;i:,,......,,,,,,,,,,,:,,:::::::::,i;7XXX7rr;;;;;;;;;77    (Animal Leader)
+ r7;;;;;;;;;;;;iiiiiii;ii;i;;;;;iiiiii:7rr;;;;;;;;;;;;;;77
+ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii,rr;;;;;;;;;;;;;;;rX    FAQ/Walkthrough
+ ,i;iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii,rr;;;;;;;;;;;;;;;rS,
+   ,.:iiiiiiiiiiiiiiiiiiiiiiiiiiiiiii:.;;;;;;;;;;;;;;;;;rX:     Version 1.00
+ :a@. :iiiiiiiiiiiiiiiiiiiiiiiiiii:       :;;;;;;;;;;;;;rX:
+    M  iiiiiiiiiiiiiiiiiiiiiiiiiii  MMMMMZ ;;;;;;;;;;;;;rXi      04/02/2002
+  aMMW iiiiiiiiiiiiiiiiiiiiiiiiiii MMB  MM ;;;;;;;;;;;r;7X;
+   MM  iiiiiiiiiiiiiiiiiiiiiiiiiii  MMMMM2 ;;;;;;;;;;;r;r7r    by Jeff "CJayC"
+      ..,,,,...,,,,:::::::::::::::,    .  :;;;;;;;;r;;;;7Xr        Veasey
+   XSr7r7rri X ,;;;iiiiii    :::::::,.  i;;;;;;;;;rr;rr7XXX
+   i2;;rrrr,iMB r7777777r MM :777777777;;;;;i;;;r;;i:,:;XX7
+   ,aX7;;;r BMM :r;;;;;r: MM@ ;;;;;;;i7ri;rrrr;;i,   @M.XXr
+   .2rri;;r aMM:.r;;;;;r rMMM ;;;;;;i;Xrir;;;i,   2MMB rrSr:
+    7,       MM           MMM ,,,.,::ii:      :8MMMM  ;7rXr,rr;i.
+    MMMMMMMMBMM;ZSSS7rr:,  M           ,7MM2MMMMMM  :rrrrr7...:ir7Xri.
+           WWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM7 .;rr;;r7SS2SX;i,..:irri
+         MMBZZaaa222222SX8Z8B0B00088888880BWMMX  irrrr;r7X77XXXXS2aSX7iiXX
+      iMMW000BBBBWWWWBBB0088ZZ88B0B@@WWWWWMM2  ;rrrr;rS8ZZ88Z800000BBW@@87
+     ,MMMMMBBBaSX;i:X7rXXXSS2088008888@@@M7XM:rrrrrr7a2;
+        .iXWMMMMMMMMMMMMMMMMMMMMM@@MM@BWMWMM:.rrr;rX8X.
+      .;                      :;;X22aaaa;i  ,;rrrraZ;
+       7S;iiiiii::i:::,,..                irrr;;S0X.
+       :227r;;;iiiiiii:iiiiiiiiiiiiiii;rrr7r;;X8Zi
+        iS00000ZZa2SSXr7;rr;iiii;;;;;i;i;rr;7Z8r
+              ,ir7S2a8800BB0BWB00BZ2ZZZ000000S
+                                 .,iiiii:::,
+
+Doubutsu Banchou is copyright 2002 Saru Brunei (Marigul) and Nintendo.
+
+This guide is copyright 2002 Jeff Veasey.  It was written _exclusively_ for
+GameFAQs, http://www.gamefaqs.com.  No other non-private use is permitted.
+
+*******************************************************************************
+
+Table of Contents:
+
+I.   Introduction and Version History
+II.  Controls and Gameplay
+III. Walkthrough
+     A.  Lap 1: Buta
+     B.  Lap 2: Kuma
+     C.  Lap 3: Tori
+     D.  Lap 4: Bancho
+     E.  Returning to Lap 1: Buta
+     F.  Returning to Lap 2: Kuma
+     G.  Returning to Lap 3: Tori
+     H.  Returning to Lap 2 Again: Kuma
+     I.  The Epilogue
+IV.  Hentai List
+V.   Administrivia
+
+*******************************************************************************
+
+I.   Introduction
+
+hentai (noun, Japanese)
+  1) pervert, perversion
+  2) metamorphosis
+
+As you might expect from a Nintendo game, we'll be dealing with the _second_
+definition.
+
+Doubutsu Banchou is a game along the lines of Seventh Cross on the Dreamcast,
+where the goal is to continually evolve into new and better forms in order to
+become the Banchou, or leader, of the animal kingdom.  It won't be easy.
+
+There are over 150 different Hentai, or forms, that your creature can become
+over the course of the game.  Each has its own strengths and weaknesses, and
+this guide will hopefully show how to obtain all of them, as well as progress
+through the game's four "Laps" and eventually win.
+
+This guide is based on the Japanese version of the game (no other languages
+have yet been announced) yet written completely in English, as it is designed
+for the non-Japanese literate.  In some cases, I will avoid using Romaji and
+just stick to translations, or in some cases, interpretations.  I have no
+doubt that I've gotten a lot of the names wrong; I know some of the names
+are actually translatable (especially the Shiny Red series), but I'm happy
+with this version as it is and see no pressing need to fix up anything unless
+it actually comes to the US.
+
+Version 1.00 (04/02/2002)
+  Created over the course of four long days of play.  Methods for obtaining
+all 150 listed in a walkthrough, along with pretty much any extra information
+about the game I can think of.  Should be the final version unless I've missed
+something huge.
+
+*******************************************************************************
+
+II.  Controls and Gameplay
+
+===Controls===
+
+Left Analog Stick:  Move your creature
+
+Left Trigger: Target an enemy creature
+     + A Button:  While targeting, tackle or eat
+
+D-Pad Left/Right: Change form to another Red-marked Hentai
+
+Start Button: Pause
+
+D-Pad Up: Radar toggle (only available after certain conditions are met)
+
+A Button: Jump
+
+B Button: Guard
+
+X Button: Back
+
+R Button: Dash (only available after certain conditions are met)
+
+Y Button: Taunt
+
+Right Analog Stick: Move camera
+
+Z Button: Defecate (Drop a panel)
+
+
+While Chomping a Downed Creature:
+  Left Analog Stick Down (one to multiple times):  Tear off panels
+  B Button: Chomp and release creature
+  X Button + Left Stick Down: Tear off a single panel only
+
+While Downed:
+  Left Analog stick + A Button (multiple times):  Recover
+
+While Paused:
+  Z Button:  Use Genki Dama (restore health)
+
+
+===Menu Translations===
+
+Level Select Menu:
+  Z Button: Show Hentai Chart
+  X Button: Show 100/150 Hentai messages (only after completing that many)
+
+Pause Menu:
+  Hentai Chart
+  Status
+  Rules
+  Save and Exit Level (only after beating final Lap)
+
+===Creatures of the World===
+
+There are five kinds of moving creatures in Doubutsu Banchou:
+
+Animals (literally, "Meat Creatures"):  Have a solid head and one or more
+  colored panels.
+
+Grass Creatures:  Green and leafy, have a head made out of panels and one or
+  more colored panels.  Grant health when eaten, rarely if ever attack.
+
+Mushi:  Made of two small leafy panels.  Grant health when eaten, sometimes
+  attack for low damage.
+
+Namamushi:  Made of two small silver panels, one with a Nama (symbol).  Must be
+  eaten to clear foggy areas.
+
+Heart Mushi:  Made of two small silver panels, covered with hearts.  Grants
+  three Hearts when eaten.
+
+===Items===
+
+There are also several items to pick up over the course of the game:
+
+Dead Grass, always brown, gives a quick health boost when eaten.
+
+Hearts are all over the place.  Collecting 100 gives you another creature to
+choose from the next time you breed.
+
+Shino Boxes, with a horn on the sides, give you a single Shino Point, which
+in turn give you horns (higher offense).
+
+Kobu Boxes, with a tail on the sides, give you a single Bero Point, which in
+turn gives you a tail (faster speed).
+
+Kizu Boxes, with a scar on the sides, give you a single Kizu Point, which in
+turn gives you a scar (higher defense).
+
+Question Boxes, with a question mark, explain how to play the game.  In
+Japanese.
+
+Genki Dama, yellow with an airplane on the side, can be used while the game
+is paused (by pressing the Z button) to fully restore your healh at any
+time.  Save these for later.
+
+===Classes and Colors===
+
+There are 150 different creatures, or Hentai, available in the game for you
+to attack, eat, and transform into.  The 150 creatures are made up of a mixture
+of 1 to 6 panels, five colors, and three panel types that can be combined in
+five ways.
+
+--Panels:
+
+Both the animals and yourself can have anywhere from one to six panels.  When
+a normal animal loses at least one panel, it is dead.  When your creature loses
+all of its panels, it dies and the game is over.
+
+Your creature gains new panels from breeding with females.
+
+--Colors:
+
+There are five different colors of panels in the game:
+
+Yellow creatures have both the strongest attack and defense powers, but are
+the slowest of them all, and have no real strong points.
+
+Red creatures are granted the gift of high jumps and are fairly fast, but
+have the lowest attack power.
+
+Blue creatures are the snipers, with very long tackle range, good attack power,
+and good speed.  Dark and shiny blue creatures will often move with the head
+sideways, making control a little difficult but enabling easy side-attacks.
+
+Purple creatures back up amazingly well, and advanced ones actually move
+with the head facing backwards, making for some very interesting play styles.
+
+Ash creatures are all-around good creatures with the highest health and by far
+the fastest speed.
+
+--Panel Types and Combinations:
+
+There are three types of panels:
+
+ Pale, which have only a faint hint of color and are the weakest of the three.
+
+ Dark, which have a strong color and pattern on them.
+
+ Shiny, which are, well, shiny.
+
+These three types can be combined in five ways:
+
+ All Pale, which are the weakest type of a creature.
+
+ Pale/Dark, which are slightly stronger.
+
+ All Dark, which are very strong and highly characteristic of the color.
+
+ Mixed, a mix of shiny panels, with elements of all its colors.
+
+ All Shiny, which are the strongest and most characteristic of a color.
+
+===Evolving===
+
+In order to evolve into new creatures, you need to eat other creatures.  When
+you eat the panels off of a creature, the color of that panel goes into your
+panels, and once you have the right combination, you will evolve into a new
+creature, or Hentai.
+
+For example, if you have two panels and eat a pale yellow single-panel
+creature, your first panel will become pale yellow.  If you eat a second one,
+your second panel takes the color of the first (pale yellow) and the first
+panel absorbs the one you just ate.  Two pale yellow panels (yy-yy) will turn
+you into a Shikkaebo (026, yy-yy).
+
+If you then eat a dark yellow creature, you'll have one dark and one pale
+yellow panel and become a Boaeri (031, Yy-yy).  Finally, if you eat another
+dark yellow creature, you'll become a Kyaripaa (036, Yy-Yy).
+
+The panels are always filled from left to right.  You can drop a panel at
+any time by holding the Z button.  Clear panels are not moved to the right
+when you eat new creatures, so you're better able to select the panels you
+eat.  The order of the panels is not important, only the combination of them.
+
+For example, if your two panel creature is a Hougan (041, YY-RR) with the
+yellow panels first and you eat a single-panel shiny blue creature, you'll
+become a Tebura (043, BB-YY).  However, if instead you drop your yellow panel
+and eat the shiny blue, you'll become a Deyanen (042, RR-BB).
+
+Once you get three panels, you'll have the ability to eat two panels at once
+from other creatures.  Once you get five, you can eat three at once.  You can
+choose to eat only one at a time by holding the X button while tugging on a
+creature, but if your creature has three or more panels more than the other
+creature when you go in for the kill, you'll automatically consume all of that
+creature's panels.
+
+There are some strange rules concerning the mixed creatures.  If you eat
+two Pale/Dark creatures in a row, you'll get one group of Pale panels, and one
+group of Dark.  If you eat a Mixed Shiny creature, while you're holding the L
+trigger, the targeting circle will change colors, allowing you to select the
+first panel you tear from that creature.  It doesn't always work properly,
+though, but you can always tell what color you're about to eat by seeing what
+your creature has in his mouth, and then discard it with the B button if you
+don't want that one.
+
+While you are a single panel creature, a few extra rules apply.  Eating a Pale
+creature makes you Pale, Dark makes you Dark, a single or double Pale/Dark
+creature makes you Pale/Dark, Shiny makes you Shiny, and a single or double
+Mixed Shiny makes you Mixed Shiny.  Once you have two panels, the mixed rules
+no longer apply.
+
+Silver creatures will not give you any panel color changes, but eating a
+silver panel will always fully restore your health.
+
+If you are knocked down (0 health), an attacking creature can rip off one
+of your panels.  Should this happen, you'll devolve into the next lower-paneled
+creature until you can eat any other creature.  You can also temporarily lose
+Nama this way, and you must eat the creature that stole it to get it back.
+If you lose all of your panels, you die, and the game is over.
+
+And finally, you should never attack a creature with two or more panels than
+you have.  You'll bounce off of them, and be unable to attack for several
+seconds.
+
+===Powering Up===
+
+There are five additional points you can gain through the game that also help
+power up your creature:
+
+Haro Points: Gained from eating animals.  Grants more Haro (health).
+
+Shino Points: Gained from Training Dummies and Shino boxes.  Grant horns
+(attack power)
+  15 points: Level 2
+  55 points: Level 3
+  75 points: Level 4
+ 100 points: Level Max
+
+Bero Points: Gained from Tugging Dummies.  Grants tongue (tugging power)
+  15 points: Level 2
+  40 points: Level 3
+  70 points: Level Max
+
+Kobu Points: Gained from Treadmills and Kobu boxes.  Grants tail (speed).
+  40 points: Level 2
+  70 points: Level Max
+
+Kizu Points: Gained from Bowls and Kizu boxes.  Grants Scar (defense).
+  15 points: Level 2
+  40 points: Level 3
+  70 points: Level Max
+
+===Nama===
+
+As you progress through the game, you'll eventually run into a boss.  As you
+attack and defeat these bosses, you'll take the symbols, or Nama, from their
+panels, and be granted additonal powers.  You can only breed once every panel
+you have has a Nama on it, so getting these are essential to completing the
+game.
+
+The Nama you will find are:
+
+Paw Nama:  Dash enabled (R Trigger).
+
+Claw Nama:  Move while targeting.
+
+Bone Nama:  Blocks become effective (attacks while blocking cause a tiny
+            percentage of damage)
+
+Nose Nama:  Camouflage (Stand still to blend in with the surroundings)
+
+Eye Nama:  Change radar view (D-Pad up to change)
+
+Mars Nama:  End lap (Lap will instantly end once you get it)
+
+*******************************************************************************
+
+III. Walkthrough
+
+Doubutsu Banchou has four "Laps", or travels through a series of areas as a
+certain base creature.  When first playing the game, you progress through each
+of the first three Laps in order.  After the third Lap, the game will end if
+you do not yet have 100 Hentai, a.k.a. transformations.
+
+At this point, your saved game has a level select option, at which point you
+can go back and try the first three Laps until you reach 100 Hentai, at which
+point you'll be automatically transported to the final Lap to face the final
+Boss of the game.
+
+The walkthrough below shows just one way to get all 150 Hentai in the game;
+others are possible (and perhaps easier), but the method below worked for me,
+and should work for you.
+
+*******************************************************************************
+
+     A.  Lap 1: Buta (Pig)
+
+---Area 1: Nakukyuu
+
+After being "born" as a Banchou (000), you'll be dropped in a small nest, and
+you'll be ready to take on the world.  Sort of.  This first area is pretty much
+one-way through a single path, so there's not much to do but follow it.
+
+Eat the grass in your way to gain some health, then eat all of the Mushi you
+desire and continue until you run into the Training Dummy.  Tackle it until it
+breaks, then move on and grab all the hearts on the path.  You'll next come
+across three small Tugging Dummies, which should be easy to grab and shred.
+
+Keep on down the path, and you'll run into your first enemy, a Jakki (001,yy).
+Kill, then eat, and you'll have your very first Hentai.  Next up, a Henkeki
+(002, rr), an Ijekuto (004, pp), and finally, a Mafuryaa (006, yx) will all
+be in your way before you can reach the exit.  Once you've gotten them all,
+you can leave the area at your leisure.  You may as well, as there's nothing
+else to do there.
+
+---Area 2: Shirachaketa
+
+Keep moving along until you find the "fog" area (pink, and can't be moved
+across), then hang a right and chomp on the Namamushi to open a path.  Move
+through the newly opened path and grab the Genki Dama box there, followed by
+the Shino Box.  Once you reach the crate, tackle it to release the two
+Namamushi, which you can eat to clear some more fog.  There's also a Question
+Box there, but the instructions are of course in Japanese. :)
+
+Heading into the newly cleared area, you'll find your first two-panel animal,
+a Marakasu (028, bb-bb).  Eating it will transform you into a Mokugyu (003,bb),
+which is less powerful than your current form, so it might be a good idea to
+avoid it for the time being.  You'll find a Shino Box in the tall grass near
+the end of the cleared area, along with two Namamushi.  Eat them to clear the
+way to the exit, where you'll find your first boss and two Gobugari (005,aa).
+Try to clear out the boss first, as your current Hentai is the more powerful
+of what's available.
+
+Once you've defeated and eaten the Boss, then go back and eat the Marakasu and
+the Gobugari to fill out your Hentai list.  Don't worry about the still-foggy
+areas; you can't clear them now, and you'll notice on your map that they aren't
+even part of this area.  Once you're ready, leave the area.
+
+---Area 3: Erubo
+
+There's nothing else you can do in this area until you head into the Tunnel of
+Love, where you'll breed for the first time.  You'll likely only have one
+option to choose from at this point, a Shikkaebo (026, yy-yy).  After leaving,
+two Namamushi will be hiding behind the tunnel, which you can eat to clear up
+the fog for the rest of the level.  A Kobu Box will be immediately beyond the
+tunnel, and from there, you've got the level to explore at will.
+
+In the south part of the level, you'll find your first healing spring, which
+is also stocked with hearts, Shino boxes, and Grass Creatures.  Another Kobu
+Box is just north of the spring.  In the east, you'll find a Bowl, rolling
+around in which increases Kibu Points.
+
+Throughout the rest of the level, there are five groups of animals, each
+"guarding" a Namamushi.  Eating all five Namamushi will open up the last small
+foggy area, clearing the way to the boss.
+
+Center: Gobugari (005, aa), Riizento (030, aa-aa)
+Southwest: Mokugyu (003, bb), Marakasu (028, bb-bb)
+Southeast: 2 Henkeki (002, rr)
+Northeast: Ijekuto (004, pp), Saisei (029, pp-pp)
+Northwest: 2 Boaeri (031, Yy-yy)
+
+It's recommended that you save the 2 Boaeri for last, as eating them will leave
+you with the most powerful Hentai in this area, a Boaeri yourself.
+
+Once you're ready for the boss, make your way north to find him, a Koteki.
+He'll have two silver Marakasu (028, bb-bb) with him, so make sure you use a
+divide-and-conquer strategy where possible on him.  Once you have the Bone
+Nama, you can move on to the next area.
+
+---Area 4: Mubobo
+
+The final Area of this lap, before or after entering the Tunnel of Love, smash
+the crate for a Genki Dama, grab the hearts (including the Motemushi), the
+Tugging Dummy, and finally the Namamushi.
+
+Once the fog is lifted (and you've got three panels), it's time to move on.
+Down the narrow (and only) path you can travel, you'll run into a bunch of
+Mushi, a Jakki (001, yy), a Mafuryaa (006, yx), a Kizu box, and some Grass
+Creatures.  Finally, as you clear the fog path, you'll spot the area Boss,
+a Kibaa, his companions, 3 Bainda (060, Aa-aa-mm), and 3 Namamushi.
+
+If you choose to clear the fog by going after the Namamushi, you'll have
+access to the menagerie you passed earlier, along with a Healing Spring.  In
+the menagerie area, you'll find these groups:
+  Tatoru (056, Yy-yy-xx)
+  2 Morotebata (052, rr-rr-rr), Tebata (027, rr-rr)
+  3 Koteki (053, bb-bb-bb)
+  2 Makimodoshi (054, pp-pp-pp), Saisei (029, pp-pp)
+  2 Heinami (055, aa-aa-aa), Riizento (030, aa-aa)
+
+Assuming you ate the Jakki and Mafuryaa on your way, the best strategy here is
+to kill the Tatoru to become one, then take on the boss's companions to become
+a Bainda. At that point, wound the boss (take him down to 0 health), and if you
+want the extra Hentai, go take out the other groups to fill your list up as
+much as possible before taking out the boss with any form you desire.  Don't
+forget about the Slot Box hidden in the Crate in the northeast, should you
+want to try something different.
+
+A good strategy here is to only kill two of the Bainda, then go get your extra
+Hentai finishing with the Koteki, then kill the last Bainda to become one
+again.  Neat trick, no?
+
+After defeating the boss, the stage will automatically end, and you'll be
+eaten by a giant female.  Don't you hate it when that happens?
+
+---Area 5: Kojiiro
+
+Well, you're in the afterlife.  It's rather a dull place, but you do get a
+sneak preview of the kinds of creatures you'll be facing in the next go-round.
+Simply walk up to each group to talk to them, which will in turn reveal the
+next path you can take.  Repeat until you reach the final area, and hop on
+the Magic Platform to leave.
+
+Buta Lap Hentai: 19
+
+yy rr bb pp aa  yx rx bx px ax  Yy Rr Bb Pp Aa  YX RX BX PX AX  YY RR BB PP AA
+
+26 27 28 29 30  31 32 33 34 35  36 37 38 39 40  41 42 43 44 45  46 47 48 49 50
+01 02 03 04 05  06 07 08 09 10  11 12 13 14 15  16 17 18 19 20  21 22 23 24 25
+76 77 78 79 80  81 82 83 84 85  86 87 88 89 90  91 92 93 94 95  96 97 98 99 00
+** ** ** ** **  ** 57 58 59 **  61 62 63 64 65  66 67 68 69 70  71 72 73 74 75
+** ** ** ** **  ** 32 33 34 35  36 37 38 39 40  41 42 43 44 45  46 47 48 49 50
+** ** ** ** **  ** 07 08 09 10  11 12 13 14 15  16 17 18 19 20  21 22 23 24 25
+
+*******************************************************************************
+
+     B.  Lap 2: Kuma (Bear)
+
+---Area 1: Nakukyuu
+
+You're a Kuma now.  You have to start from scratch, but getting going is a bit
+easier now.  Nothing much to do but move forward, grabbing hearts and boxes as
+you go.  You'll come across the first four creatures in your Hentai list
+(Jakki, Henkeki, Mokugyu, Ijekuto), and a bowl for scar-creating, so use it.
+Hentai numbers 5 and 6 (Gobugari and Mafuryaa) are next on your path, nothing
+you haven't already seen.
+
+Then, finally, you find some new prey.  A Pankei (009, px), an Onbeki
+(013, Bb), and a Disuku (011, Yy) allow you to eat and gain three new Hentai.
+Pick your favorite for last, then move on.  A Healing Spring lies in your path,
+and then you'll find the boss, a silver Jin (040) and two silver Jii (010).
+Defeat the boss to get the Paw Namu to exit the level.
+
+On your way out, however, don't miss the secret area just south of the exit!
+Go through the wall to discover a Shishunki (014, Pp) and a Genki Dama.
+
+---Area 2: Madashiro
+
+Nothing to do here but grab some hearts and play the mating game.  Once you're
+on the other site of the Tunnel of Love, you'll spot a Jakki (001, yy),
+Shikkaebo (026, yy-yy), and a Marakasu (028, bb-bb).  Ignore them, and move on
+to find the three Namamushi hanging out with a Riizento (030, aa-aa), Saisei
+(029, pp-pp), and a Ijekuto (004, pp).  Grabbing the third Namamushi opens up
+the a lot more of the area for you, so go explore and grab everything that's
+there for you (including a GD).  The remaining foggy area is just a red herring
+(it's not on the map), so go ahead and head into the next section.
+
+You'll immediately be greeted by a menagerie:
+  2 Sumishibo (012, Rr)
+  2 Tebbodama (032, Rr-rr)
+  Seshigane (037, Rr-Rr)
+  2 Udemakera (033, Bb-bb)
+  Boaeri (031, Yy-yy)
+  Tatoru (056, Yy-yy-xx)
+  Bourupen (062, Rr-Rr-Rr)
+
+In the middle of the level is a Health Spring, with a couple of Grass Creatures
+and some animals for you:
+  Pankei (009, px)
+  2 Panshi (034, Pp-pp)
+
+Also in this area is a Treadmill for you to work out on, so don't miss it.
+
+A Namamushi is hiding in an inlet in the foggy area, so grab him to clear it.
+This will unveil some more anrgy animals for you:
+  3 Kakko (038, Bb-Bb)
+  3 So (063, Bb-Bb-Bb)
+
+Moving towards the exit will reveal the Boss, a Jinba and his two Jins, all
+silver.  There's also a Slot Box in that area, if you want to roll the dice.
+
+Now, it's time to start grabbing some new Hentai.
+
+Eat a Tebbodama, then a Sumishibo to become a Seshigane (037), then eat the
+other Tebbodama (032) to turn into one.  Munch both Udemakera (033) to become
+one, eat a Pankei (009) and a Panshi (034) to be a Panshi, and finally, eat two
+Kakko (038) to become one of them.  That's all the evolving you can do at this
+level, so then go beat up the boss and grab the Claw Nama from him.  As a
+Kakko, you attack from the side, not the front, which is a big advantage in
+boss battles once you get used to it.
+
+Once you have the Claw, head to the Tunnel of Love to get your third panel,
+then go back to get some more Hentai.  Another boss will appear, but it's
+likely your current form isn't the best for handling him anyway.
+
+You should also notice a few new creatures: a Bourupen (062, Rr-Rr-Rr),
+and a Hashideeto (064, Pp-Pp-Pp).
+
+Go back to the first area and eat the Saisei there.  Come back, and eat the
+Panshi to become a Maekake (059, Pp-pp-xx).  If your first panel is (likely)
+a pale purple, hit Z to get rid of it, then eat the Hashideeto (064, Pp-Pp-Pp)
+to become one.  From there, eat two of the reds however you'd like to become a
+Bourupen (062, Rr-Rr-Rr).  Finally, go back to the first area and chew on a
+Marakasu, then come back and eat one So (063, Bb-Bb-Bb) to become a Hijimakura
+(058, Bb-bb-xx), and a second to become a So.
+
+As a So, you're in the best shape to take on the area Boss and his friends
+The boss is a Magejinba (90, Aa-Aa-Aa-Aa), but his two friends are regular
+Jinba (65, Aa-Aa-Aa), so you can eat both to become one.  Finishing the boss
+should be a breeze as either form, so once you've done it, just move on to the
+exit.
+
+In this final area, you'll get a lovely view of some six-panel fiends, but
+they can't get you, so don't worry.  There's nothing to do here but snap up
+the poor little Heart Mushi then leave.
+
+---Area 3: Ashimete
+
+In this first, large area, you've got two five-panel mini-bosses running
+around.  As they have five and you have three, you can't touch them, so don't
+bother.  You can, however, take this time to scope out the area and take note
+of the four sections here.
+
+The first grassy section is populated by Grass Creatures, there for the
+picking if you get a little hungry.  Across the river is a Tunnel of Love,
+with the following munchies:
+  2 Mokugyu (003, bb)
+  Disuku (011, Yy)
+  Kyaripaa (036, Yy-Yy)
+  Marakasu (028, bb-bb)
+
+In the swamp area, you'll find a Training Dummy, another mini-boss and:
+  2 Tebata (027, rr-rr)
+  Tebbodama (032, Rr-rr)
+
+And finally, there's a small plain area with a single Shikkaebo (026, yy-yy),
+and a Magic Circle.
+
+Before you go to the Tunnel, there's two extra three-panel Hentai to pick up.
+Eat a Tebata and a Tebbodama to become a Reigan (057, Rr-rr-xx), then go and
+eat the Disuku and the Kyaripaa to become a Direira (061, Yy-Yy-Yy).  All done
+with the possible three-panel Hentai, so go  get yourself a little lovin'.
+You've earned it.  I chose the Uma (076, yy-yy-yy-yy) for my starter Hentai,
+but I'm not including it in the Hentai list yet (as there's an alternate way
+to get it in this level).
+
+Once you've got four panels, it's time to head to the bonus area.  Before you
+go, eat the two Mokugyu and the Marakasu to become an Onsei (078, bb-bb-bb-bb),
+then eat the last Tebata, then head to the Magic Platform and take it for a
+ride.
+
+---Bonus: Yabuhebii
+With seven minutes to use, you can run around and grab some new Hentai.
+In this level, you'll find a creature in many of the grass patches:
+
+             ---------------------             r12: Sumishibo (012, Rr)
+       ------         EXT         ------       r37: Seshigane (037, Rr-Rr)
+    ---         a60                     ---    r62: Bourupen (062, Rr-Rr-Rr)
+   |    p59                    p64         |
+   |         p64                           |   y51: Sutando (051, yy-yy-yy)
+ ---    b63        mus                     --- y61: Direira (061, Yy-Yy-Yy)
+|            p54                        a60   |
+|    y61                  p54                 |p54: Makimodoshi (054, pp-pp-pp)
+|b63               HLS                        |p64: Hashideeto (064, Pp-Pp-Pp)
+|                                    r12   r37|p59: Maekake (059, Pp-pp-xx)
+|    y61     b58      XXX                     |
+|a60               XXXXXXXXX  mus             |b63: So (063, Bb-Bb-Bb)
+|                     XXX               r62   |b58: Hijimakura (058, Bb-bb-xx)
+ --- hrt                                   --- b53: Koteki (053, bb-bb-bb)
+   |         b53      mus     y51          |
+   |                                       |   a60: Bainda (060, Aa-aa-xx)
+    ---                           y51   ---
+       ------                        ---       mus: Mushi
+             ------------------------          hrt: Heart Mushi
+
+So, here's how you can add a whole pile of Hentai to your collection:
+  Tebata (from main level) + Seshigane = Derinja (082, Rr-rr-xx-xx)
+  + Bourupen = Ruuda (087, Rr-Rr-Rr-Rr)
+
+  Sutando + Sutando =  Uma (076, yy-yy-yy-yy)
+  + Direira = Tatokkuri (081, Yy-yy-xx-xx)
+  + Direira = Jikosha (086, Yy-Yy-Yy-Yy)
+
+  Koteki/Hijimakura + So = Dakimakura (083, Bb-bb-xx-xx)
+  + So = Kagikakko (088, Bb-Bb-Bb-Bb)
+
+  Makimodoshi + Makimodoshi = Boozu (079, pp-pp-pp-pp)
+  + Hashideeto = Hakama (084, Pp-pp-xx-xx)
+  + Hashideeto = Deeto (089, Pp-Pp-Pp-Pp)
+
+Yes, it is possible to get all of the above in the time permitted.  I've
+gotten them all with two minutes to spare, so it's a matter of learning the
+locations and coming up with a plan to hit them all as quickly as possible.
+
+Once you're out of time (or leave the area manually), you'll head back to
+the area you were in...
+
+---Area 3: Ashimete
+
+Killing time.  Once you've taken out both mini-bosses, the exit is open, so
+move on out.
+
+In the next area, you can grab the two Riizento (30, aa-aa) to become a
+Saibakku (80, aa-aa-aa-aa), then the Hotekisu (35, Aa-aa) to get the Kabaa
+(85, Aa-aa-xx-xx).  Across the stream, you'll find a whole herd of Grass
+Creatures, a Tugging Dummy, a ton of Heart Mushi, and another mini-boss.  Eat
+away until there's nothing left (except maybe the Grass Creatures, save them
+if you get hurt later).  There's also a Slot Box in the corner of that area,
+so get it if you want to press your luck.
+
+Once you get the mini-boss, the foggy area clears to reveal a desert.  This
+happy little desert area is chock-full of mini-bosses, but only one has a
+Nama.  Once you kill and eat that one, the door to the next area will finally
+be opened for you, and you can leave this happy land.
+
+---Area 4: Urutimu
+
+This is some seriously unfriendly territory.  Your new hiding ability will
+help you a little, but for the most part, you'll want to try and grab one
+extra Hentai before breeding.
+
+In the corner directly out from the Training Dummy entrance are two
+Ribouruba (107, Rr-rr-xx-xx-xx).  Eat one, get rid of the dark color, eat the
+second, get rid of the dark, then go the corner with the Training Dummy
+Entrance and eat the Danki (102, rr-rr-rr-rr-rr) to get the Bankokki
+(77, rr-rr-rr-rr).  Finally, it's time for some sexual healing...
+
+After entering the Tunnel of Love and getting your fifth panel, you can
+grab a few more Hentai before going after the boss and his buddies who are
+constantly circling.
+
+In the corner next to the Dummy are two Wadome (101, yy-yy-yy-yy-yy) that you
+can eat to become one yourself, and a Daijiko (111, Yy-Yy-Yy-Yy-Yy) that you
+can munch to get a Dekaeri (106, Yy-yy-xx-xx-xx).
+
+In the "empty" corner are two Baisoku (104, pp-pp-pp-pp-pp) that you can grab
+to become one.  From there, return to the Dummy corner and eat one Ruurem
+(114, Pp-Pp-Pp-Pp-Pp) to become a Mawashi (109, Pp-pp-xx-xx-xx) and the second
+in the facing corner to become a Ruurem.
+
+Back in the empty corner are two Nanaonsa (103, bb-bb-bb-bb-bb) that you can
+eat to become one, and two Nyurokaku (113, Bb-Bb-Bb-Bb-Bb) that can be eaten
+to become a Nebukuro (108, Bb-bb-xx-xx-xx) and then a Nyurokaku.
+
+Finally, in the facing corner, there are four Obikabaa (110, Aa-aa-xx-xx-xx),
+and eating two of them will make you one.
+
+Now you're ready for the boss and his buddies.  The level ends when you eat
+the boss's Nama, so be sure and take out the two Shishijinba (140,
+Bb-Bb-Bb-Bb-Bb-Bb) before going after him so you can transform to a Karajinba
+(115, Bb-Bb-Bb-Bb-Bb) for the final battle.
+
+Once you eat the Male Nama, the level ends, and another giant female...well,
+you know the rest.
+
+---Area 5: Kojiiro
+
+You're dead again.  Same as before, just wander and talk to the animals until
+you reach the Magic Platform so you can be reincarnated once again...
+
+Kuma Lap Hentai: 60
+
+yy rr bb pp aa  yx rx bx px ax  Yy Rr Bb Pp Aa  YX RX BX PX AX  YY RR BB PP AA
+
+26 27 28 29 30  31 32 33 34 35  36 37 38 39 40  41 42 43 44 45  46 47 48 49 50
+** 02 ** ** 05  ** 07 ** ** **  11 12 ** ** **  16 17 18 19 20  21 22 23 24 25
+** ** ** ** **  ** ** ** ** **  ** ** ** ** 90  91 92 93 94 95  96 97 98 99 00
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  66 67 68 69 70  71 72 73 74 75
+** ** ** ** **  ** ** ** ** 35  36 ** ** 39 40  41 42 43 44 45  46 47 48 49 50
+** ** ** ** **  ** 07 08 ** 10  ** 12 ** ** 15  16 17 18 19 20  21 22 23 24 25
+
+*******************************************************************************
+
+     C.  Lap 3: Tori (Chicken)
+
+---Area 1: Nakukyuu
+
+As a young Tori, you now have the extra added benefit of tasting like chicken.
+
+As you move on from your next area, you'll run into a nice little group of
+tasty prey near a Tugging Dummy.
+  Pankei (009, px)
+  Mokugyu (003, bb)
+  Onbeki (013, Bb)
+  Ijekuto (004, pp)
+  Mafuryaa (006, yx)
+  Jakki (001, yy)
+
+Nothing you haven't seen there already.  Moving on, around a healing pool
+and the entrance to a Training Dummy you'll spot:
+  2 Jin (040, Aa-Aa)
+  Gobugari (005, aa)
+  Henkeki (002, rr)
+
+Moving further on, you'll find a pond containing a two-panel boss and two
+Kyuuho (016, YX) as his friends, along with the entrance to a Tunnel of Love.
+
+Along the wall with the tunnel heading towards the exit are:
+  Tebbodama (032, Rr-rr)
+  Seshigane (037, Rr-Rr)
+  2 Jin (040, Aa-Aa)
+  Kakko (038, Bb-Bb)
+
+The healing spring in the center has twp more Jin (040, Aa-Aa) and a Hotekisu
+(035, Aa-aa).
+
+Finally, almost directly across from the Tunnel is a hidden area with yet
+another three Jin and a Tojimata (021, YY).
+
+First of all, let's grab a few single-panel Hentai while we're here.  The
+Tebbodama will give you Mizudeppo (007, rx), and the Seshigane will make you
+go Sumishibo (012, Rr).  The Hotekisu will give you Panchi (010, ax), and any
+of the Jin will boost you to Jii (030, Aa).  From there, you can take out the
+Kyuuho and a Tojimata to evolve in to them and get your first two shiny Hentai.
+Taking on the boss as a Tojimata is fairly simple as well.
+
+Once you have the boss's Paw Nama, there's nothing else to do but to to the
+Tunnel.  Upon your return, there will be a new boss, but before you go after
+him, you've got a couple of extra Hentai to grab.  Eat the Gobugari and any Jin
+to become a Hotekisu (035, Aa-aa), and then grab another Jin to become one.
+
+The new boss's two companions are Souji (044, PP-AA), so eat both of them to
+become one, then take out the boss, who should give you no trouble.  There's
+nothing more to do here, so head on out...
+
+And yes, if you've been following the guide up to this point, you'll now have
+69 Hentai.  Sorry for all the search engines that are going to pick up on that
+bit...
+
+---Area 2: Midoriro
+
+No choice but to breed here...
+
+Over the next three small lands of this area, don't eat anyone.  You'll want
+to come back when it's all over and rack up some hard-to-get Hentai before
+it's all over.
+
+As you exit the tunnel and head down the path, you'll encounter...
+  Ijekuto (004, pp)
+  Gobugari (005, aa)
+  Zoukin (024, PX)
+  2 Mokugyu (003, bb)
+  2 Sagashimono (018, BX)
+  Riizento (030, aa-aa)
+  Isourou (020, AX)
+  Jakki (001, yy)
+
+And, inside the crate is a Maido (017, RX).
+
+Once you're done, move on to the next area, as you can't do anything about the
+fog here yet.
+
+In the next area, there are some nice big five-panel beasts running around.
+You can't touch them, but they'll attack you all the time, so the key here is
+to be quick and careful.  Don't forget about the Bowl in the corner.
+
+In this area, you'll encounter several groups:
+ Red:
+  Deyanen (042, RR-BB)
+  Sumishibo (012, Rr)
+  Tebbodama (032, Rr-rr)
+ Yellow:
+  Mafuryaa (006, yx)
+  Boaeri (031, Yy-yy)
+ Blue:
+  Udemakera (033, Bb-bb)
+  Sagashimono (018, BX)
+  Onbeki (013, Bb)
+ Ash:
+  Panchi (010, ax)
+  Hotekisu (035, Aa-aa)
+ Purple:
+  Pankei (009, px)
+  Panshi (034, Pp-pp)
+  Koukin (019, PX)
+  Souji (044, PP-AA)
+
+Once you've had all you can stand, take the exit out.
+
+In this third area, you'll immediately hit another group of creatures:
+  Maido (017, RX)
+  Seshigane (032, Rr-rr)
+  Hougan (041, YY-RR)
+  Disuku (011, Yy)
+  Deyanen (042, RR-BB)
+
+Once you take out the two Namamushi hiding, you'll open up the first foggy
+area.  Go work out on the treadmill to get some running practice first, and
+then go exploring.  In one corner now you'll find a healing ponf with a Kakko
+(038, Bb-Bb) and an Onbeki (013, Bb), and below the other corner are a Hankouki
+(039, Pp-Pp) and a Pankei (009, px). Don't miss the secret area here with a
+GD and some hearts.  Further into the corner, you'll find an exercise in
+futility.
+
+Several six-panel beasts, nine Namamushi.  You need the Namamushi to get past
+this area.  Good luck.  Just keep attacking and dodging the best you can.  One
+of the Namamushi will be hiding in the treadmill area, so don't be discouraged
+if you can't find the last one.
+
+Once the last of the fog is clear, you'll find a Tebura (043, BB-YY) waiting
+there.  Move on to the next area when you're ready.
+
+The next area is actually the first area, on the other side of the fog.  Eat
+the Seven Namamushi, and the way is clear for you to exit the level.  But
+first, it's Hentai time.
+
+The five three-panel mix Hentai are easily available by moving through these
+three small areas.
+
+In part one, grab the Zoukin (024, PX), then go to part three and get the
+Tebura (043, BB-YY) to become a Kabinmochi (068, BB-YY-PP).  Between parts 2
+and 3, grab the two Deyanen (042, RR-BB) to become a Tanomasse (067, RR-BB-XX).
+Make sure you eat the first with the red flasing and the second with the blue,
+so you'll be RR-BB-BB.  Get rid of the first panel, then go to area 1 and eat a
+Sagashimono (018, BX) to become a Hita (073, BB-BB-BB).  If you miss your
+timing and you end up with another mix, just eat both Sagashimono after
+dropping off the red panel.
+
+Next, you have to be a bit more careful.  In part 1 and eat the Maido (017,
+RX) hidden in the crate.  Next, head to part 3 and eat the Hougan to become a
+Danberu (066, YY-RR-XX).  If you end up as RR-YY-RR, drop your first panel
+before going to part 1 and eating the Isourou to become a Ikkodate (070,
+AA-YY-RR).  Then, head to part 2, and grab the Souji to become a Houki
+(069, PP-AA-XX).
+
+Five mixed plus one shiny, not too bad.  Once you're all done, head for the
+exit.  There's a Slot Box next to it if you missed anything.
+
+---Area 3: Karibano
+
+As you enter this next area, you'll immediately see a Hougan (041, YY-RR), a
+Tebura (043, BB-YY), and a Souji(044, PP-AA).
+
+In between the two training areas on the map are four Magajinba (090,
+Aa-Aa-Aa-Aa).  The areas contain a Tugging Dummy and a Training Dummy.  Near
+the exit are three more Magajinba, and further along that wall is a Bowl.
+
+Around the Tunnel of Love in the center you'll find a whole bunch of creatures,
+including the Boss who carries the Bone Nama:
+  2 Bota (093, BB-YY-PP-XX)
+  Kagikakko (088, Bb-Bb-Bb-Bb)
+  2 Magajinba  (090, Aa-Aa-Aa-Aa)
+  2 Rubarashi (119, PP-AA-XX-XX-XX)
+  Bourupen (062, Rr-Rr-Rr)
+  Rurisen (117, RR-BB-XX-XX-XX)
+  Tanomasse (092, RR-BB-XX-XX)
+  Ruuda (087, Rr-Rr-Rr-Rr)
+  Danberu (066, YY-RR-XX)
+  Matawari (091, YY-RR-XX-XX)
+
+The secret here is to figure out how to get the boss while surviving all of the
+other creatures in the area.  The real secret, of course, is that there's a
+healing pond just a few feet away.  Once you get the boss, go ahead and breed,
+as there's no easy Hentai here...
+
+Now that you have four panels, you'll spot the next boss, but it's time to get
+busy.  First, go ahead and kill as many Magajinba as you can.  You'll become
+one in the process, and it'll definitely make you feel better once you're all
+done.
+
+First, go eat the two Rubarashi to become a Burashi (094, PP-AA-XX-XX).  Then,
+munch the Danberu and the Matawari to become a Matawari (091, YY-RR-XX-XX).
+Finally, kill the Rurisen and Tanomasse to become a Shibakude (092,
+RR-BB-XX-XX).  There's probably a way to become a Bota here, but I can't
+figure it out yet.
+
+Once you've cleared away the fluff and have a good Hentai to work with, go for
+the boss.  He's got a long-range attack, so stay close and strike often. Once
+he's out of the way, there's nothing more to do, so go ahead and head to the
+exit.
+
+---Area 4: Irokoi Beach
+
+Gotta make some love... but look behind you before you do for a GD.
+
+Once you emerge with five panels, you'll be greeted by a welcoming party.  In
+fact, all along the beach are tons of 1, 2, and 3-panel creatures.
+Unfortunately, by the time you get a bead on what you want to eat, they'll
+all start running off into the ocean.  You do, however, have a lovely Magic
+Circle waiting for you to hop on and take a ride...
+
+---Bonus: Shingoju
+
+You have 10 minutes to gather as much Hentai as you can.  Luckily, you've got
+a head start.
+
+There are five groups of animals in this land, grouped by color:
+ Yellow:
+  2 Wadome (101, yy-yy-yy-yy-yy)
+  2 Daijiko (111, Yy-Yy-Yy-Yy-Yy)
+  Serumata (121, YY-YY-YY-YY-YY)
+ Red:
+  2 Danki (102, rr-rr-rr-rr-rr)
+  2 Tatamishika (112, Rr-Rr-Rr-Rr-Rr)
+  Orugan (122, RR-RR-RR-RR-RR)
+ Blue:
+  2 Nanaonsa (103, bb-bb-bb-bb-bb)
+  2 Nyurokaku (113, Bb-Bb-Bb-Bb-Bb)
+  Danro (123, BB-BB-BB-BB-BB)
+ Purple:
+  2 Baisoku (104, pp-pp-pp-pp-pp)
+  2 Ruurem (114, Pp-Pp-Pp-Pp-Pp)
+  Kurodogeza (124, PP-PP-PP-PP-PP)
+ Ash:
+  2 Jira (105, aa-aa-aa-aa-aa)
+  2 Karajinba (115, Aa-Aa-Aa-Aa-Aa)
+  Gonke (125, AA-AA-AA-AA-AA)
+
+As you can see, it should be very easy to fill out the first of the fifteen
+5-panel hentai, as well as getting a couple of mixes as well.  To fill out the
+chart, go eat:
+  Danki + Danki = Danki (102, rr-rr-rr-rr-rr)
+  + Tatamishika = Ribouruba (107, Rr-rr-xx-xx-xx)
+  + Tatamishika = Tatamishika (112, Rr-Rr-Rr-Rr-Rr)
+
+  Jira + Jira = Jira (105, aa-aa-aa-aa-aa)
+
+  Daijiko + Daijiko = Daijiko (111, Yy-Yy-Yy-Yy-Yy)
+
+  Danro + Orugan = Rurisen (117, RR-BB-XX-XX-XX)
+  + Serumata = Baaberu (116, YY-RR-XX-XX-XX)
+
+  Gonke + Kurodogeza = Rubarashi (119, PP-AA-XX-XX-XX)
+
+That's all you can do here, so go ahead and take the circle if you're bored.
+
+---Area 4: Irokoi Beach
+
+Now, as you come back, you'll notice that in the first group of animals
+waiting for you is a Dogeza (074, PP-PP-PP).  Assuming you left the bonus area
+as a Rubarashi, eat him, and you'll become a Kurodogeza (124, PP-PP-PP-PP-PP).
+
+Nothing left to do here, so head on out...
+
+---Area 5: Safari
+
+This is the final area of the Lap (you can always tell, because there's no
+exit).  Immediately after you arrive, a boss will show off to you.  Kill him,
+and take his Eye Nama.   There are lots of little silver heads around should
+you get injured, but it's unlikely.
+
+After getting the last Nama, you can explore a little before breeding if you
+want.  There's a Treadmill, and the safari has several large areas with a whole
+menagerie of animals to eat:
+ Lake:
+  2 (135, Aa-aa-xx-xx-xx-xx)
+  (140, Aa-Aa-Aa-Aa-Aa-Aa)
+  (130, aa-aa-aa-aa-aa-aa)
+  2 Silver (140, Aa-Aa-Aa-Aa-Aa-Aa)
+ Desert:
+  Rifuto (126, yy-yy-yy-yy-yy-yy)
+  (132, Rr-rr-xx-xx-xx-xx)
+  (134, Pp-pp-xx-xx-xx-xx)
+  (128, bb-bb-bb-bb-bb-bb)
+  (137, Rr-Rr-Rr-Rr-Rr-Rr)
+  (136, Yy-Yy-Yy-Yy-Yy-Yy)
+  (138, Bb-Bb-Bb-Bb-Bb-Bb)
+  Doharem (139, Pp-Pp-Pp-Pp-Pp-Pp)
+ Mountain
+  (132, Rr-rr-xx-xx-xx-xx)
+  (136, Yy-Yy-Yy-Yy-Yy-Yy)
+  (138, Bb-Bb-Bb-Bb-Bb-Bb)
+  (134, Pp-pp-xx-xx-xx-xx)
+  (127, rr-rr-rr-rr-rr-rr)
+  (128, bb-bb-bb-bb-bb-bb)
+  Rifuto (126, yy-yy-yy-yy-yy-yy)
+  (129, pp-pp-pp-pp-pp-pp)
+
+Once you're bored of exploring, go breed, and prepare for some serious Hentai.
+(Heh.)
+
+I chose to take the Magic Platform first, as the timed area is much harder to
+get things done on than the untimed Safari.
+
+Now, on to the bonus area.
+
+---Bonus: Nuribashi
+
+10 minutes.  Ready, set, eat!
+
+Several areas, each blocked off with rocks that disappear once you eat all
+of the creatures of that color.  Neat trick.  The map below isn't perfect,
+but should get you started.
+
+        ..E..
+        .....
+          |   \
+        ..... _ .....                              1: Heart
+        ..17.   ..A..                              2: 3Rr, 3Bb
+..... /           |   \                            3: 3Yy, 3Bb
+.....           .....    ..................        4: 3Yy
+.14..           ..15. __ ......16..........        5: Shino Box
+..... \           |      ..................        6: Grass
+  |     .....   .....                  |   \       7: 2 Heart Mushi
+  |     ..12.   ..... __               |     ..... 8: Heart
+  |           \ .....   \              |     ..13. 9: 1Aa, 3Rr
+.............   ..10.     ................ /   |   10: 2 * 1Aa
+......9......   .....     ................   ..... 11: Heart, Grass Creatures
+.............   .....     .......11.......   ..... 12: Grass
+  |       |       |       ................   ..P.. 13: 3Pp
+..... _ ..... _ .....     ................ _ ..... 14: 4 Heart, 1Aa
+.....   ..8..   .....      /   |             ..... 15: Heart
+..R..     |     ..B..  .....   |           /       16: 2 * 1Aa
+..... _ ..... _ .....  .18.. ..... _ .....         17: Nothing
+.....   ..5..   .....        ..6..   ..7..         18: 3Pp
+             \       \      /       /              S: Start
+               .....  ....._ .....                 E: Exit Platform
+               ..2.. _..3..  ..4..
+                 |   /      /                      B: Blue Area
+               ..... _.....                        P: Purple Area
+               ..Y..  ..1..                        Y: Yellow Area
+                        |                          R: Red Area
+                      .....                        A: Ash Area
+                      ..S..
+
+In the closed off areas, you'll find:
+ Blue:
+  2 Sagashimono (018, BX)
+  2 Tebura (043, BB-YY)
+  Hikkosha (143, BB-YY-PP-XX-XX-XX)
+ Yellow:
+  2 Kyuuho (016, YY)
+  2 Hougan (041, YY-RR)
+  Sunacchi (141, YY-RR-XX-XX-XX-XX)
+ Red:
+  2 Maido (017, RR)
+  2 Deyanen (042, RR-BB)
+  Oitoite (142, RR-BB-XX-XX-XX-XX)
+ Ash:
+  4 Wasoruum (045, AA-YY)
+  Ikkodate (70, AA-YY-RR)
+  Zenekon (145, AA-YY-RR-BB-PP-XX)
+ Purple:
+  Koukin (019, PX)
+  Rubarashi (119, PP-AA-XX-XX-XX)
+  Suiipa (144, PP-AA-XX-XX-XX-XX)
+
+Now, you don't have nearly enough time to get all the possible Hentai here,
+so we'll go for one good set this round, then worry about coming back later.
+
+First, go to areas 13 and 18 and eat the Hashideetos (064, Pp-Pp-Pp) there to
+become a Doharem (139, Pp-Pp-Pp-Pp-Pp-Pp).  This will also open up area P.  Eat
+the Rubarashi (Purple glow), then the Suiipa (Purple glow) to become a
+Oodegesa (149, PP-PP-PP-PP-PP-PP).
+
+Next, we'll take out the two Bourupen (062, Rr-Rr-Rr) to unlock the red area,
+from areas 9 and 2.  While in 2, eat the So (063, Bb-Bb-Bb) there and then in
+area 3 to unlock Blue. Next, eat the two Direira (061, Yy-Yy-Yy) in areas 3
+and 4 to unlock the Yellow area. This will also net you three new Hentai,
+Sukurappu (136, Yy-Yy-Yy-Yy-Yy-Yy), Manriki (137, Rr-Rr-Rr-Rr-Rr-Rr), and
+Shimeshime (138, Bb-Bb-Bb-Bb-Bb-Bb).
+
+In the yellow area, eat the Sunacchi (Yellow glow), then a Hougan (Yellow
+glow), ditch the red panel, then eat the two Kyuuho to become a Ganimata
+(146, YY-YY-YY-YY-YY-YY).
+
+Head to the red area and eat the Oitoite (Red glow) to become a Sunacchi
+(141, YY-RR-XX-XX-XX-XX).  Eat the Deyanen (Red glow), lose the blue panel,
+then eat the two Maido to become a Piano (147, RR-RR-RR-RR-RR).  Eat the
+Deyanen (Red glow) to become a Oitoite (142, RR-BB-XX-XX-XX-XX).
+
+Head to the blue area, and assuming you got the blue panel first on that
+Deyanen, eat the Hikkosha on a blue glow to get YY-BB-BB-BB-RR-RR.  Ditch
+the yellow, and eat a Tebura on a blue glow, ditch the yellow, then eat the
+two Sagashimono to become a Senpuuki (148, BB-BB-BB-BB-BB-BB).  That's likely
+all you'll have time for, but it's not a bad day's work, is it?  This also
+brings you up to 99 Hentai.  Time to head back...
+
+---Area 5: Safari
+
+Back on Safari, you'll notice the area boss in the lake now.  Forget him
+for the moment, and head to the desert and plains for some yummy Hentai.
+
+Eat the desert Rifuto (126, yy-yy-yy-yy-yy-yy) and the mountain one to become
+one.  Eat a Sukurappu to become a Erizabesu (131, Yy-yy-xx-xx-xx-xx), and a
+second one if you to become a Sukurappu for the next part of the hunt.
+
+For the reds, eat two the Magunamu (132, Rr-rr-xx-xx-xx-xx) until you get the
+to become one and get the first three panels pale red.  When you do, go eat
+the Daidanki (127, rr-rr-rr-rr-rr-rr) to become one.
+
+Same trick with the purple here.  Eat the two Furamuwashi (134,
+Pp-pp-xx-xx-xx-xx) to become one with the first three panels light, then
+munch the Dobaisoku (129, pp-pp-pp-pp-pp-pp) to evolve into one.
+
+Next, it's the blues, but there's no challenge here.  Light blue, light blue,
+dark blue, dark blue, and you'll have two new Hentai, Tanbarin (128,
+bb-bb-bb-bb-bb-bb) and Danbouru (133, Bb-bb-xx-xx-xx-xx), and be ready for the
+next battle with a Shimeshime (138, Bb-Bb-Bb-Bb-Bb-Bb).
+
+Now, on to the lake.  Eat a Dobokaba (135, Aa-aa-xx-xx-xx-xx), then the second
+one to become one, then run away.  If you got 3 dark then 3 light, you're good
+but if it's reversed, get rid of the light panels.  Eat the Shishijinba
+(140, Aa-Aa-Aa-Aa-Aa-Aa) to become one, and that's the last evolving you'll
+do this game, with 108 Hentai in your first trip.
+
+The boss should be a piece of cake, ending this Lap on a strong note.
+
+Tori Lap Hentai: 108
+
+yy rr bb pp aa  yx rx bx px ax  Yy Rr Bb Pp Aa  YX RX BX PX AX  YY RR BB PP AA
+
+** ** ** ** 30  ** ** ** ** **  ** ** ** ** **  ** ** 43 44 45  ** ** ** ** 50
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** 18 ** 20  21 22 23 ** 25
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** 93 ** 95  96 97 98 99 00
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **  71 72 ** 74 75
+** ** ** ** **  ** ** ** ** **  36 ** ** 39 **  41 42 43 ** 45  46 47 48 49 50
+** ** ** ** **  ** ** 08 ** **  ** ** ** ** **  ** 17 18 19 20  ** 22 23 24 25
+
+
+*******************************************************************************
+
+     G.  Lap 4: Bancho
+
+---Area 1: Bosudarrake
+
+In the first Boss Area, you'll face 15 silver creatures.  Many, if not all, of
+them are copies of bosses you've already fought, so they shouldn't provide too
+much challenge for you.  You begin this area as your highest-numbered Hentai
+(if you were following the walkthrough above, #149, Oodegesa).
+
+Once they're all gone, you'll move to the final boss area.
+
+---Area 2: Yakugoju
+
+First thing to do, if you like the transformation you've got, drop all the
+colors you have.  There are five creatures here:
+   Ganimata (146, YY-YY-YY-YY-YY-YY)
+   Piano (147, RR-RR-RR-RR-RR-RR)
+   Senpuuki (148, BB-BB-BB-BB-BB-BB)
+   Oodegesa (149, PP-PP-PP-PP-PP-PP)
+and the final boss.  Take out the four colored creatures first, then the boss.
+No real new strategies, although the boss will take you forever to kill, so
+here's hoping you saved up all those Genki Dama's.
+
+When the boss gets down to one panel, he pulls out all the tricks; a spin that
+makes him invulnerable (and leaves you dizzy if you hit him), the long-range
+attack, and more.  Just keep at it, time your attacks, and you'll be the
+leader before you know it.  Watch the ending (which you can't skip), save
+afterwards, and prepare to start looking for those other Hentai.
+
+*******************************************************************************
+
+     E.  Returning to Lap 1: Buta
+
+Once you can come back to previous stages, you can take a second trip through
+the first lap to pick up any Hentai you missed.  Additionally, Magic Platforms
+that were inactive on your first pass are now activated.
+
+You may also notice that if you've beaten the game, your creature now looks
+quite different.
+
+---Area 1: Nakukyuu
+
+Not a lot extra to see or do here, except maybe that Magic Platform which can
+take you to Kokurokoji, the first bonus area.  You should also pick up the
+new Zoukin (019, PX) before you go.
+
+---Bonus: Kokurokoji
+
+It's a maze!  Augh!
+
+###
+#E#
+# ###########################
+#                           #
+# ###   ########### ####### #
+# #  B2           # #     # #
+# # ##### # ###   # ### # # #
+# #     # #         #   #   #   A1: (20, AX)
+# # #R2 # #     #####   # # #   A2: (50, AA-AA)
+#   #   # #     #   #   # # #   B1: (18, BX)
+#   ### # ####### # # ### # #   B2: (48, BB-BB)
+#         #   #   #   #   # #   P1: (19, PX)
+# # #######   # ####### ### #   P2: (49, PP-PP)
+# # #     B1      #       # #   R2: (47, RR-RR)
+# # # ###   ##### # ##### # #
+# # #   #   #   #   #     # #
+# # # A1#####   # ###   # # #
+# # #   #   #A2 #   #   # # #
+# # ##### # #   # # ### # # #
+# #   #   #     # #     # # #
+# ### # ########### ##### # #
+#   #   #         #       # #
+# # #   #   # ### # # ### # #
+# # #   #   #   #   #   #   #
+# # # P2# ###   # ###   ### #
+# # #   #   #   #   #     # #
+# # ##### # # ##### ##### # #
+# #       #               # #
+# ### ############### ##### #
+#                           #
+########################### #
+                          #S#
+                          ###
+
+Now that you know where everything is, you should be able to pick up seven
+more single-panel Hentai without a hitch:
+  Sagashimono (018, BX)
+  Isourou (020, AX)
+  Pikkoro (022, RR)
+  Uchiwa (023, BB)
+  Kirishi (024, PP)
+  Ikku (025, AA)
+
+And that should be your five minutes right there.
+
+---Area 1: Nakukyuu
+
+Nothing else new, move on.
+
+---Area 2: Shirachaketa
+
+Nothing new here, except an extra two Jin (40, Aa-aa) with the boss.  Piffle.
+
+---Area 3: Erubo
+
+Gotta breed, and then there's a new Magic Platform waiting for you...
+
+---Bonus: Buduukan
+
+Now, this is a nice little level.  In each of the four corners is a 1-panel
+shiny (which color should be very obvious once you see it), up top, two-panel
+solid shinies.  You have five minutes to pull off seven Hentai.  Can you do it?
+
+Did I mention all the Magajinba that are in the way that you can't attack
+because they have four panels?
+
+For the counting, there's:
+  Tojimata (21, YY)
+  Pikkoro (22, RR)
+  Uchiwa (23, BB)
+  Kirishi (24, PP)
+  Yokomata (046, YY-YY)
+  Furuuto (047, RR-RR)
+  Ryuuchiwa (048, BB-BB)
+  Chakuseki (049, PP-PP)
+  2 Sanku (075, AA-AA-AA)
+
+And here's how to do it (Yes, it's possible to get Hougan and Kokku, but
+there's not enough time or extra panels to chomp.):
+
+  Chakuseki (049, PP-PP) + Kirishi (24, PP) = Chakuseki (049, PP-PP)
+  Furuuto (047, RR-RR) + Pikkoro (22, RR) = Furuuto (047, RR-RR)
+  + Ryuuchiwa (048, BB-BB) =   Deyanen (42, RR-BB)
+  + Uchiwa (23, BB) = Ryuuchiwa (048, BB-BB)
+  + Yokomata (046, YY-YY) = Tebura (43, BB-YY)
+  + Tojimata (21, YY) = Yokomata (046, YY-YY)
+  + Sanku (075, AA-AA-AA) = Wasoruum (45, AA-YY)
+
+Fun, isn't it?  Good luck.  Those five minutes will fly by.
+
+---Area 3: Erubo
+
+Once you've back, you know the drill, except there are a couple of Kabaa
+(085, Aa-aa-xx-xx) running around just to annoy you.  Bleah.  Get the
+Namamushi, get the boss, and move on.
+
+---Area 4: Mubobo
+
+First, start clearing the fog.
+
+Before you breed, go grab the Mafuryaa and the Disuku on the path to turn into
+a Kyaripaa (036, Yy-Yy).
+
+Go breed, then clear the rest of the fog.
+
+The level is same-old, same-old, with a couple of new creatures on the path:
+  Hougan (041, YY-RR)
+  Disuku (011, Yy)
+
+Once the fog is clear, you'll also find new:
+  Hijimakura (058, Bb-bb-xx)
+  Tebura (043, BB-YY)
+  Matawari (091, YY-RR-XX-XX)
+
+Nothing else here for you, so go ahead and grab the boss to finish this
+highly productive lap.
+
+Buta Second Lap Hentai: 123
+
+yy rr bb pp aa  yx rx bx px ax  Yy Rr Bb Pp Aa  YX RX BX PX AX  YY RR BB PP AA
+
+** ** ** ** 30  ** ** ** ** **  ** ** ** ** **  ** ** 43 44 45  ** ** ** ** 50
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** 18 ** 20  21 22 23 ** 25
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** 93 ** 95  96 97 98 99 00
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **  71 72 ** 74 75
+** ** ** ** **  ** ** ** ** **  ** ** ** 39 **  41 ** ** ** **  ** ** ** ** 50
+** ** ** ** **  ** ** 08 ** **  ** ** ** ** **  ** 17 ** ** **  ** ** ** ** **
+
+*******************************************************************************
+
+     F.  Returning to Lap 2: Kuma
+
+---Area 1: Nakukyuu
+
+One extra creature, a Tojimata (021, YY), and two Jin (040, Aa-Aa) helping out
+the boss.  No big deal.
+
+This time around, get into the hidden area and kill the Makuraresu (008, bx).
+It's to the "west" (with the exit as north) of where you encounter the
+first group of creatures along the North wall.
+
+Eat the boss, move on.
+
+---Area 2: Madashiro
+
+Nothing new in the first area.
+
+In the second area, you'll find two Pikkoro (022, RR), a Hougan (041, YY-RR),
+a Danberu (066, YY-RR-XX), and the boss has two Jinba (065, Aa-Aa-Aa) with
+him.  Finally, you can pick up one missing Hentai here.  Eat the Pankei
+(009, px), then a Panshi (034, Pp-pp) to pick up Hankouki (039, Pp-Pp).
+
+Kill the boss, breed, and then go hunting.  Eat either the Hougan or the
+Danberu while glowing yellow, then eat both Pikkoro to become a Baiorin
+(072, RR-RR-RR).  From there, kill the boss, and move on.  Third area is clear.
+
+---Area 3: Ashimete
+
+Two extra Maido (017, RX) and Kyuuho (015, YX) here, nothing else worth
+mentioning.  Now, this time around, we're going to go into the bonus area
+before we breed.
+
+---Bonus: Yabuhebii
+
+Watch out for the many-tiled creatures roaming.  They'll annoy you.
+
+Many of the creatures here have been replaced by their shiny counterparts.
+Instead of re-mapping the area, I'll give directions, using the exit as
+"north".
+
+Just to the west of the exit, south of center on the west wall and north of
+center on the west wall (where the Bainda were) are three Ikkodate (70,
+AA-YY-RR).  Eat all three, striking when they flash _red_ so you'll grab a
+ash square, then eat only one panel (hold X while chewing).  Doing so
+successfully, you'll become a Sanku (075, AA-AA-AA).
+
+A little south and west of the exit are two Dogeza (074, PP-PP-PP) in two
+nearby grass patches.  Eat both to become one.
+
+Finally, along the west wall you'll find two Uchimata (071, YY-YY-YY).  Eat
+them both to become one, and finish up all of the three-panel Hentai.
+
+---Area 3: Ashimete
+
+Nothing much to do here, so go breed and eat the mini-bosses.
+
+In the next area, there's a Jiage (120, AA-YY-RR-BB-PP), but no new Hentai
+possible here, so go ahead and take out the out the mini-bosses and leave.
+
+---Area 4: Urutimu
+
+Now, there are some new baddies here, a Hikkosha (143, BB-YY-PP-XX-XX-XX), a
+Suiipa (144, PP-AA-XX-XX-XX-XX), and a Sunacchi (141, YY-RR-XX-XX-XX-XX).
+Plus, there's a Magic Platform where there wasn't before.
+
+---Bonus: Ryukugoju
+
+This 10-minute bonus area is almost identical to Shingoju, with the addition
+of one extra shiny creature.  So, let's get some Hentai!
+
+(Yes, it's weird for me saying that as it is you reading it.)
+
+Eat each of two shiny together to get five new Hentai:
+  Sotomato (096, YY-YY-YY-YY)
+  Kiiboudo (097, RR-RR-RR-RR)
+  Kotashi (098, BB-BB-BB-BB)
+  Yamadogeze (099, PP-PP-PP-PP)
+  Yunku (100, AA-AA-AA-AA)
+
+That should take up your 10 minutes, at which you can head back.
+
+---Area 4: Urutimu
+
+Nothing to do but head to the tunnel.  Once you're out, there's one more Hentai
+you can grab.  Eat the Hikkosha while purple to get BB-BB-PP.  Drop the first
+blue, then eat the Sunacchi while yellow to become a Dorobou (118,
+BB-YY-PP-XX-XX).  From there, just take out the boss to end it all.  Literally.
+
+Kuma Second Lap Hentai: 135
+
+yy rr bb pp aa  yx rx bx px ax  Yy Rr Bb Pp Aa  YX RX BX PX AX  YY RR BB PP AA
+
+** ** ** ** 30  ** ** ** ** **  ** ** ** ** **  ** ** 43 44 45  ** ** ** ** 50
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** 20  21 22 23 ** 25
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** 93 ** 95  ** ** ** ** **
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  41 ** ** ** **  ** ** ** ** 50
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** 17 ** ** **  ** ** ** ** **
+
+*******************************************************************************
+
+     G.  Returning to Lap 3: Tori
+
+
+---Area 1: Nakukyuu
+
+What are you, a chicken?
+
+A few new creatures roam your home:
+  Tebura (043, BB-YY)
+  Wasoruum (045, AA-YY)
+  Hita (073, BB-BB-BB)
+  Deyanen (042, RR-BB)
+  Baiorin (072, RR-RR-RR)
+  Dogeza (074, PP-PP-PP)
+
+Before doing anything else, go kill the Deyanen (042, RR-BB), and eat his red
+panel to become a Maido (017, RX).
+
+You can't do anything else good with just the one panel, so go ahead and hit
+the boss and then breed.  Once you have two panels, there's two Hentai you
+can get.  Tojimata to get its one yellow panel, then eat the Baiorin to
+become a Hougan (041, YY-RR).  Eat both Souji (044, PP-AA) with the boss to
+become one (purple, then ash), then go eat the ash panel off of the Wasoruum
+to become a Kokku (045, AA-AA).
+
+Then, smash the boss to a pulp and move on.
+
+---Area 2: Midoriro
+
+Breed.
+
+We have all 25 three-panel Hentai, so there's absolutely nothing extra of note
+here.  Move on as fast as possible.
+
+---Area 3: Karibano
+
+Boss, then Breed.
+
+We're missing two four-panel Hentai.  The nice little two-panel beasts near
+the front are gone, by the way.  You'll find an extra Orugan (122,
+RR-RR-RR-RR-RR), a Kurodogeza (124, PP-PP-PP-PP-PP), and a Danro (123,
+BB-BB-BB-BB-BB) around.
+
+Eat a Rubarashi while ash to get PP-AA.  Ditch the purple.  Eat one panel off
+of the Orugan to be RR-AA.  Next, eat one panel off a Danberu while it's
+yellow.  Finally, munch a panel of Danro, or a blue panel of a Bota to
+become a Teitaku (095, AA-YY-RR-BB).  You should be BB-YY-RR-AA, so then eat
+two panels from the Kurodogeza to become a Bota and finish off the four-panel
+Hentai.
+
+---Area 4: Irokoi Beach
+
+We need five more five-panel Hentai, but they're not going to be easy.
+On the beach, before they run off, eat the following four creatures, in
+order:
+  Furuuto (047, RR-RR) - beach near Tunnel
+  Zoukin (019, PX) - upper area
+  Isourou (020, AX) - upper area
+  Tebura  (043, BB-YY) - beach near exit
+Ta-dah, you're a Jiage (120, AA-YY-RR-BB-PP).
+
+Not much time to do anything else before they all run off...  The bonus area
+holds nothing you need, so you may as well leave.
+
+---Area 5: Safari
+
+Go ahead and kill the first boss, then take a look around.  Things have
+changed, with several new creatures:
+  Sunacchi (141, YY-RR-XX-XX-XX-XX)
+  Oitoite (142, RR-BB-XX-XX-XX-XX)
+  Hikkosha (143, BB-YY-PP-XX-XX-XX)
+  Suiipa (144, PP-AA-XX-XX-XX-XX)
+  3 Zenekon (145, AA-YY-RR-BB-PP-XX)
+
+Still, there's a better place to get those five-panel creatures, so go ahead
+and head to the tunnel.  Once you're back, it's time to get the last of the
+six panels.
+
+Now, it's Magic Platform time.
+
+---Bonus: Nuribashi
+
+As a fast creature (like a Shishijinba) ,it's possible to run through and open
+up all five areas in about four minutes.  Do it.
+
+First, go to the Ash one.  Once it's open, eat:
+  Ikkodate (070, AA-YY-RR), ditch yellow and red
+  Wasoruum (045, AA-YY), ditch the yellow
+  Wasoruum (045, AA-YY), ditch the yellow
+  Wasoruum (045, AA-YY), ditch the yellow
+  Wasoruum (045, AA-YY), ditch the yellow
+  Zenekon (145, AA-YY-RR-BB-PP-XX), one ash panel
+
+And you're a Rokku (150, AA-AA-AA-AA-AA).  Woohoo!
+
+Next, go the the purple zone, and eat the Koukin to become a Suiipa (144,
+PP-AA-XX-XX-XX-XX).
+
+Go to the yellow zone, grab a Hougan (041, YY-RR), then the blue zone for a
+Tebura (043, BB-YY) to become a Zenekon (145, AA-YY-RR-BB-PP-XX).
+
+Back to the Purple zone, chomp a Suippa while it's purple to get three purple
+panels, then back to yellow to munch the Kyuuho (016, YY) to finally get the
+Hikkosha (143, BB-YY-PP-XX-XX-XX).
+
+Nothing else to do here, so head on back.
+
+---Area 5: Safari
+
+One last six-panel creature to get, and it'll be messy.
+
+Take out one or both of the Dobokaba (135, Aa-aa-xx-xx-xx-xx) so your first
+three panels are light ash.  Then, get the Ourubakku (130, aa-aa-aa-aa-aa-aa)
+to become one.
+
+Finally, smash the boss.
+
+Tori Second Lap Hentai: 146
+
+yy rr bb pp aa  yx rx bx px ax  Yy Rr Bb Pp Aa  YX RX BX PX AX  YY RR BB PP AA
+
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **  21 22 23 ** 25
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **
+** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **  ** ** ** ** **
+
+*******************************************************************************
+
+     H.  Returning to Lap 2 Again: Kuma
+
+We missed four Hentai on our last go-round, and they can all be very easily
+found in Kuma.  Just play through the level until you reach Area 4...
+
+---Area 4: Urutimu
+
+Before doinng anything else, breed to get five panels.  Then, the fun begins...
+
+---Bonus: Ryukugoju
+
+You know the drill.  Eat two same-colored shiny (except purple) four times to
+get:
+  Serumata (121, YY-YY-YY-YY-YY)
+  Orugan (122, RR-RR-RR-RR-RR)
+  Danro (123, BB-BB-BB-BB-BB)
+  Gonke (125, AA-AA-AA-AA-AA)
+
+At 150 Hentai, the game will automatically end, and you'll be treated to a
+congratulatory message, then a new version of the closing credits showing a
+good selection of creatures.  Don't forget to save your game after the
+credits are complete...
+
+*******************************************************************************
+
+     I.  The Epilogue
+
+Once you've saved a 150-Hentai game, re-select it to see a new option
+replacing the first three laps, "Peace".
+
+You can swap between any six-panel Hentai by moving the D-Pad left and right,
+explore the area, and generally play around.  You might also happen to
+notice the big yellow Doshin watching over you.  Hmmm... :)
+
+
+*******************************************************************************
+
+IV.  Hentai List
+
+Num Name        Panels            Hlth Att Def Dash Jump Tckl Back  Area
+-----------------------------------------------------------------------------
+000 Banchou                         8    ?   ?   ?    ?    ?    ?   N/A
+
+001 Jakki       yy                 10    2   1   E    E    E    D   Buta-1
+002 Henkeki     rr                  9    1   1   E    D    E    E   Buta-1
+003 Mokugyu     bb                  9    1   0   E    E    D    E   Buta-2
+004 Ijekuto     pp                 10    2   0   E    E    E    B   Buta-1
+005 Gobugari    aa                 11    2   1   C    E    E    E   Buta-2
+
+006 Mafuryaa    yx                 18    3   1   E    E    E    E   Buta-1
+007 Mizudeppo   rx                 16    3   1   E    C    E    E   Tori-1
+008 Makuraresu  bx                 15    3   1   E    E    C    D   Kuma-1*
+009 Pankei      px                 17    3   1   E    D    E    B   Kuma-1
+010 Panchi      ax                 19    3   1   C    E    E    E   Tori-1
+
+011 Disuku      Yy                 29    6   3   E    D    E    D   Kuma-1
+012 Sumishibo   Rr                 26    4   3   E    C    E    E   Tori-1
+013 Onbeki      Bb                 24    5   2   E    D    C    D   Kuma-1
+014 Shishunki   Pp                 27    5   2   D    D    E    B   Kuma-1
+015 Jii         Aa                 30    5   3   C    D    D    E   Tori-1
+
+016 Kyuuho      YX                 39    8   5   D    D    E    C   Tori-1
+017 Maido       RX                 35    6   5   D    C    D    D   Tori-1*
+018 Sagashimono BX                 34    7   4   D    D    C    C   Bonus-K*
+019 Zoukin      PX                 37    7   5   D    D    D    B   Buta-1*
+020 Isourou     AX                 41    7   5   C    C    D    C   Bonus-K*
+
+021 Tojimata    YY                 55   11  10   D    C    D    C   Tori-1
+022 Pikkoro     RR                 50    9   9   D    B    D    E   Bonus-K*
+023 Uchiwa      BB                 47   10   8   D    C    B    C   Bonus-K*
+024 Kirishi     PP                 52   10   8   D    C    D    B   Bonus-K*
+025 Ikku        AA                 58   11   9   C    C    D    C   Bonus-K*
+
+026 Shikkaebo   yy-yy              34    7   2   E    E    E    D   Buta-3
+027 Tebata      rr-rr              31    5   2   E    C    E    E   Buta-3
+028 Marakasu    bb-bb              29    6   2   E    E    C    D   Buta-3
+029 Saisei      pp-pp              32    6   2   D    E    E    B   Buta-3
+030 Riizento    aa-aa              36    6   2   C    E    D    D   Buta-3
+
+031 Boaeri      Yy-yy              45    9   4   E    E    E    D   Buta-3
+032 Tebbodama   Rr-rr              40    7   4   D    C    D    D   Kuma-2
+033 Udemakera   Bb-bb              38    8   3   D    D    C    D   Kuma-2
+034 Panshi      Pp-pp              42    8   4   D    D    D    B   Kuma-2
+035 Hotekisu    Aa-aa              47    9   4   C    D    D    D   Tori-1
+
+036 Kyaripaa    Yy-Yy              55   11   8   D    D    D    D   Buta-4*
+037 Seshigane   Rr-Rr              50    9   8   D    B    D    E   Kuma-2
+038 Kakko       Bb-Bb              47   10   6   D    D    B    D   Kuma-2
+039 Hankouki    Pp-Pp              52   10   7   D    C    D    B   Kuma-2*
+040 Jin         Aa-Aa              58   11   7   C    C    C    D   Tori-1
+
+041 Hougan      YY-RR              71   14  14   D    D    D    D   Tori-1*
+042 Deyanen     RR-BB              64   12  14   D    B    D    E   Bonus-B*
+043 Tebura      BB-YY              61   12  12   D    C    B    D   Bonus-B*
+044 Souji       PP-AA              68   13  12   D    C    D    B   Tori-1
+045 Wasoruum    AA-YY              74   14  13   B    C    C    D   Bonus-B*
+
+046 Yokomata    YY-YY             102   21  25   D    C    D    C   Bonus-B*
+047 Furuuto     RR-RR              92   17  24   C    B    D    D   Bonus-B*
+048 Ryuuchiwa   BB-BB              87   18  21   C    B    B    B   Bonus-B*
+049 Chakuseki   PP-PP              97   19  22   C    B    C    B   Bonus-B*
+050 Kokku       AA-AA             107   20  23   B    B    C    B   Tori-1*
+
+051 Sutando     yy-yy-yy           60   12   6   D    E    D    D   Buta-4
+052 Morotebata  rr-rr-rr           55   19   6   D    C    D    E   Buta-4
+053 Koteki      bb-bb-bb           52   11   5   D    E    B    D   Buta-4
+054 Makimodoshi pp-pp-pp           58   11   5   D    D    D    B   Buta-4
+055 Heinami     aa-aa-aa           63   12   6   C    D    D    D   Buta-4
+
+056 Tatoru      Yy-yy-xx           82   17  11   D    D    D    D   Buta-4
+057 Reigan      Rr-rr-xx           74   14  11   D    B    D    D   Kuma-3
+058 Hijimakura  Bb-bb-xx           70   14   9   D    D    B    C   Kuma-2
+059 Maekake     Pp-pp-xx           78   15  10   D    D    D    B   Kuma-2
+060 Bainda      Aa-aa-xx           82   16  10   B    C    C    C   Buta-4
+
+061 Direira     Yy-Yy-Yy          102   21  20   D    C    D    C   Kuma-3
+062 Bourupen    Rr-Rr-Rr           92   17  20   C    B    C    D   Kuma-2
+063 So          Bb-Bb-Bb           87   18  17   C    C    B    C   Kuma-2
+064 Hashideeto  Pp-Pp-Pp           97   19  18   C    C    C    A   Kuma-2
+065 Jinba       Aa-Aa-Aa          107   20  19   B    C    C    C   Kuma-2
+
+066 Danberu     YY-RR-XX          134   28  36   C    C    C    D   Tori-2
+067 Tanomasse   RR-BB-XX          121   23  35   C    B    C    D   Tori-2
+068 Kabinmochi  BB-YY-PP          115   24  30   C    C    A    D   Tori-2
+069 Houki       PP-AA-XX          127   25  31   C    C    C    A   Tori-2
+070 Ikkodate    AA-YY-RR          140   26  33   A    B    C    D   Tori-2
+
+071 Uchimata    YY-YY-YY          176   37  64   C    C    C    C   Bonus-Y*
+072 Baiorin     RR-RR-RR          159   30  61   C    A    C    C   Kuma-2*
+073 Hita        BB-BB-BB          151   31  52   C    B    A    B   Tori-2
+074 Dogeza      PP-PP-PP          168   33  55   C    B    C    C   Bonus-Y*
+075 Sanku       AA-AA-AA          185   35  58   A    B    C    B   Bonus-Y*
+
+076 Uma         yy-yy-yy-yy       107   22  17   D    E    D    C   Bonus-Y
+077 Bankokki    rr-rr-rr-rr        97   18  16   D    C    D    E   Kuma-4
+078 Onsei       bb-bb-bb-bb        92   19  14   C    D    B    C   Kuma-3
+079 Boozu       pp-pp-pp-pp       102   20  14   C    D    C    A   Bonus-Y
+080 Saibakku    aa-aa-aa-aa       112   21  15   B    D    C    C   Kuma-3
+
+081 Tatokkuri   Yy-yy-xx-xx       134   28  29   C    D    C    C   Bonus-Y
+082 Derinja     Rr-rr-xx-xx       121   23  28   C    B    C    D   Bonus-Y
+083 Dakimakura  Bb-bb-xx-xx       115   24  24   C    D    A    C   Bonus-Y
+084 Hakama      Pp-pp-xx-xx       127   25  25   C    C    C    A   Bonus-Y
+085 Kabaa       Aa-aa-xx-xx       140   26  27   B    C    C    C   Kuma-3
+
+086 Jikosha     Yy-Yy-Yy-Yy       166   34  52   C    C    C    C   Bonus-Y
+087 Ruuda       Rr-Rr-Rr-Rr       150   28  50   C    A    C    D   Bonus-Y
+088 Kagikakko   Bb-Bb-Bb-Bb       142   30  43   C    C    A    C   Bonus-Y
+089 Deeto       Pp-Pp-Pp-Pp       158   31  45   C    C    C    A   Bonus-Y
+090 Magajinba   Aa-Aa-Aa-Aa       174   33  47   B    B    C    C   Tori-3
+
+091 Matawari    YY-RR-XX-XX       223   46  91   C    C    C    C   Tori-3
+092 Shibakude   RR-BB-XX-XX       202   38  87   C    A    C    C   Tori-3
+093 Bota        BB-YY-PP-XX       191   40  75   C    C    A    B   Tori-3*
+094 Burashi     PP-AA-XX-XX       213   42  79   C    B    C    A   Tori-3
+095 Teitaku     AA-YY-RR-BB       234   44  83   A    B    B    C   Tori-3*
+
+096 Sotomato    YY-YY-YY-YY       320   67 160   C    B    C    B   Bonus-R*
+097 Kiboudo     RR-RR-RR-RR       289   54 153   B    A    C    C   Bonus-R*
+098 Kotashi     BB-BB-BB-BB       274   51 131   B    B    A    B   Bonus-R*
+099 Yamadogeza  PP-PP-PP-PP       304   60 139   B    B    B    A   Bonus-R*
+100 Yunku       AA-AA-AA-AA       335   64 146   S    B    B    B   Bonus-R*
+
+101 Wadome      yy-yy-yy-yy-yy    170   35  42   C    E    C    C   Kuma-4
+102 Danki       rr-rr-rr-rr-rr    154   29  41   C    B    C    D   Bonus-S
+103 Nanaonsa    bb-bb-bb-bb-bb    146   30  35   C    D    A    C   Kuma-4
+104 Baisoku     pp-pp-pp-pp-pp    162   32  37   C    D    C    A   Kuma-4
+105 Jira        aa-aa-aa-aa-aa    178   34  39   B    D    C    B   Bonus-S
+
+106 Dekaeri     Yy-yy-xx-xx-xx    213   44  74   C    D    C    C   Kuma-4
+107 Riboruba    Rr-rr-xx-xx-xx    192   36  71   C    B    C    C   Bonus-S
+108 Nebukuro    Bb-bb-xx-xx-xx    182   38  61   B    C    A    C   Kuma-4
+109 Mawashi     Pp-pp-xx-xx-xx    202   40  64   C    C    C    A   Kuma-4
+110 Obikaba     Aa-aa-xx-xx-xx    223   42  68   A    C    B    C   Kuma-4
+
+111 Daijiko     Yy-Yy-Yy-Yy-Yy    270   56 130   C    C    C    C   Bonus-S
+112 Tatamishika Rr-Rr-Rr-Rr-Rr    244   46 125   B    A    C    C   Bonus-S
+113 Nyurokaku   Bb-Bb-Bb-Bb-Bb    231   48 107   B    C    A    B   Kuma-4
+114 Ruurem      Pp-Pp-Pp-Pp-Pp    257   51 113   B    C    C    A   Kuma-4
+115 Karajinba   Aa-Aa-Aa-Aa-Aa    283   54 119   A    B    B    C   Kuma-4
+
+116 Baaberu     YY-RR-XX-XX-XX    354   74 228   B    C    B    B   Bonus-S
+117 Rurisen     RR-BB-XX-XX-XX    320   60 219   B    A    B    C   Bonus-S
+118 Dorobou     BB-YY-PP-XX-XX    303   64 188   B    B    A    B   Kuma-4*
+119 Rubarashi   PP-AA-XX-XX-XX    337   67 198   B    B    B    S   Bonus-S
+120 Jiage       AA-YY-RR-BB-PP    371   70 209   A    B    B    C   Tori-4*
+
+121 Serumata    YY-YY-YY-YY-YY    481  100 400   B    B    B    B   Bonus-R!
+122 Orugan      RR-RR-RR-RR-RR    435   82 384   B    S    B    C   Bonus-R!
+123 Danro       BB-BB-BB-BB-BB    412   87 329   B    A    S    A   Bonus-R!
+124 Kurodogeza  PP-PP-PP-PP-PP    458   91 348   B    A    B    S   Tori-4
+125 Gonke       AA-AA-AA-AA-AA    504   96 366   S    A    A    B   Bonus-R!
+
+126 Rifuto      yy-yy-yy-yy-yy-yy 296   62 106   C    D    C    C   Tori-5
+127 Daidanki    rr-rr-rr-rr-rr-rr 268   50 102   B    B    C    C   Tori-5
+128 Tanbarin    bb-bb-bb-bb-bb-bb 253   53  87   C    D    A    C   Tori-5
+129 Danbouru    pp-pp-pp-pp-pp-pp 282   56  92   B    D    C    A   Tori-5
+130 Ourubakku   aa-aa-aa-aa-aa-aa 310   59  97   A    C    B    B   Tori-5*
+
+131 Erizabesu   Yy-yy-xx-xx-xx-xx 365   76 186   C    D    C    C   Tori-5
+132 Magunamu    Rr-rr-xx-xx-xx-xx 330   62 179   B    A    C    C   Tori-5
+133 Donbouru    Bb-bb-xx-xx-xx-xx 313   66 153   B    C    A    B   Tori-5
+134 Furamuwashi Pp-pp-xx-xx-xx-xx 347   69 162   B    C    B    S   Tori-5
+135 Dobokaba    Aa-aa-xx-xx-xx-xx 382   73 170   A    C    B    C   Tori-5
+
+136 Sukurappu   Yy-Yy-Yy-Yy-Yy-Yy 444   93 326   B    C    B    C   Bonus-N
+137 Manriki     Rr-Rr-Rr-Rr-Rr-Rr 401   76 314   B    A    B    C   Bonus-N
+138 Shimeshime  Bb-Bb-Bb-Bb-Bb-Bb 380   80 269   B    C    A    C   Bonus-N
+139 Doharem     Pp-Pp-Pp-Pp-Pp-Pp 422   84 284   B    B    B    S   Bonus-N
+140 Shishijinba Aa-Aa-Aa-Aa-Aa-Aa 465   88 299   A    B    B    C   Tori-5
+
+141 Sunacchi    YY-RR-XX-XX-XX-XX 549  115 571   B    B    B    B   Bonus-N
+142 Oitoite     RR-BB-XX-XX-XX-XX 496   94 549   A    S    B    C   Bonus-N
+143 Hikkosha    BB-YY-PP-XX-XX-XX 470   99 471   B    B    S    B   Bonus-N*
+144 Suiipa      PP-AA-XX-XX-XX-XX 523  104 497   A    B    B    S   Bonus-N*
+145 Zenekon     AA-YY-RR-BB-PP-XX 575  109 523   S    A    A    B   Bonus-N*
+
+146 Ganimata    YY-YY-YY-YY-YY-YY 681  1421000   A    A    B    B   Bonus-N
+147 Piano       RR-RR-RR-RR-RR-RR 616  116 961   A    S    B    B   Bonus-N
+148 Senpuuki    BB-BB-BB-BB-BB-BB 583  123 824   A    A    S    A   Bonus-N
+149 Oodegesa    PP-PP-PP-PP-PP-PP 648  129 870   A    A    B    S   Bonus-N
+150 Rokku       AA-AA-AA-AA-AA-AA 699  136 915   S    S    S    B   Bonus-N*
+
+
+Key:
+  Num: Hentai Number
+  Name: Hentai Name
+  Panels:  Required Panels (not in order)
+      yy: Pale Yellow   Yy: Dark Yellow   YY: Shiny Yellow
+      rr: Pale Red      Rr: Dark Red      RR: Shiny Red
+      bb: Pale Blue     Bb: Dark Blue     BB: Shiny Blue
+      pp: Pale Purple   Pp: Dark Purple   PP: Shiny Purple
+      aa: Pale Ash      Aa: Dark Ash      AA: Shiny Ash
+      xx or XX:  Any combination of previously listed panels
+      cx (where c = y,r,b,p,a): Single-panel Pale/Dark mix
+      CX (where c = Y,R,B,P,A): Single-panel Shiny mix
+  Hlth: Base Health Points
+  Att: Attack Power
+  Def: Defense Power
+  Dash: Dash Speed
+  Jump: Jump Ability
+  Tckl: Tackle Ability
+  Back: Back Ability
+  Area: Area where obtained in walkthrough (* = second pass, ! = third pass)
+
+
+*******************************************************************************
+
+V.   Administrivia
+
+
+Sources:
+
+All information comes from either the game itself, the manual, or my own head,
+with the following exceptions:
+
+Iro picture from Nintendo's DB web site,
+    http://www.nintendo.co.jp/ngc/gdbj/index.html
+
+ASCII Art generated by ASCII Generator, http://go.to/ascgen/
+
+"hentai" definition from the Random House J-E/E-J Dictionary.
+
+Thanks to Celda02 for pointing out the 100-Hentai requirement for the Banchou
+level on the message board.
+
+
+Contacting Me:
+
+If you have any corrections or additions to this guide, please send a note
+to faqs@gamefaqs.com for inclusion in the next revision.  Please do not
+ask if you can display this guide on your own site.
+
+If you need additional gameplay help or advice, I recommend the GameFAQs
+message board for this title:
+  http://cgi.gamefaqs.com/boards/gentopic.asp?board=12179
+
+
+Copyright Notice:
+
+This document is Copyright 2002 Jeff "CJayC" Veasey. It may be not be
+reproduced under any circumstances except for personal, private use. It may not
+be placed on any web site outside of GameFAQs. It may not be distributed
+electronically outside of the GameFAQs web site, and it may not be distributed
+otherwise at all.  Use of this guide on any other web site or as a part of any
+public format is strictly prohibited, and a violation of copyright.
+
+---EOF---

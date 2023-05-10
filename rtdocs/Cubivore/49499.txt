@@ -1,0 +1,2646 @@
+             _.---'''''---..__
+        _.'          .#.      |
+      .'             ._.      |
+   .'               ____      |
+  '              .'     \''--.|
+ .             .         \   / --  --  ----   -- ---  ---  --    ---    -----
+ '            '           \ .  | | | | |    \ | |. .  . ./    \  |    \ |    |
+.            .             \   | | | | | |\ | | | . . . .  /\  . | |\  || .--'
+.            .                 | | | | | |/ / | | . . . . .  . . | |/ . | |__
+.            .                 | | | | |   <  | | . .. .| |  | | |   .  |    |
+.            .             .   | | | | | -. \ | |  .... . .  . . | _ \  | ...|
+.             .           / .  | | | | | | | || |  .  . . .  . . | |\ \ | |
+ .             .         .  .  .  .  . | -'  .| |  .  . \ \__/ / | | |. | ....
+  .             .        .   .  \   /  |    / | |   ..   \    /  | | |. |    |
+   .               .______.'  |  '-'   ----   ---   --     ---   --  --  -----
+     .                        |
+       .                      |    SURVIVAL OF THE FITTEST
+           .                  |
+              '----------'''
+
+:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:..:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.
+CUBIVORE: SURVIVAL OF THE FITTEST - GAMECUBE
+
+Version 1.0 (07/28/2007)
+
+Version History:
+1.0: Basic Guide Complete - (07/28/2007)
+
+.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:..:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.
+
+Legality:
+This Guide is Copyright, 2007, Matthew McIntyre
+
+This guide may not be used on a website or in any public forum
+where it is protected by copyright without the consent of the author.
+
+To contact me: entropiclobo(at)yahoo(dot)ca or chaos(dot)wolf(at)gmail(dot)com
+
+Websites with permission to use this Guide:
+www.GameFAQS.com
+www.neoseeker.com
+faqs.IGN.com
+www.1up.com
+www.honestgamer.com
+
+Game by Saru Brunei/Nintendo/Atlus
+
+******************************************************************************
+*                            Table of Contents                               *
+******************************************************************************
+
+*To jump to a section, hold the Control Key and press F, then type in the
+section number as it appears (ie type CV1)
+
+CV1: Intro
+CV2: Gameplay
+CV3: Colours
+CV4: Power-Ups
+     CV4.1: Bits
+     CV4.2: Bugs
+     CV4.3: Raw Meet
+     CV4.4: Training
+     CV4.5: Other
+CV5: Walkthrough
+     CV5.1: Paw Dunes
+     CV5.2: Bleach White Highlands
+     CV5.3: Frog Bog
+     CV5.4: Mupopo Desert
+     CV5.5: Rainbow Heaven
+     CV5.6: Paw Rainforest
+     CV5.7: Whitestill Highlands
+     CV5.8: Lake Getum
+     CV5.9: Ultimarsh
+     CV5.10: Rainbow Heaven 2
+     CV5.11: Paw Pasture
+     CV5.12: Verdigrass Highlands
+     CV5.13: Killing Plains
+     CV5.14: Venery Beach
+     CV5.15: Wildlife Safari
+     CV5.16: Bosses Galore
+     CV5.17: Sacred Cubivore Clearing
+CV6: After Game
+     CV6.1: Paw Dunes
+     CV6.2: Bleach White Highlands
+     CV6.3: Frog Bog
+     CV6.4: Mupopo Desert
+     CV6.5: Paw Rainforest
+     CV6.6: Whitestill Highlands
+     CV6.7: Lake Getum
+     CV6.8: Ultimarsh
+     CV6.9: Paw Pasture
+     CV6.10: Verdigrass Highlands
+     CV6.11: Killing Plains
+     CV6.12: Venery Beach
+     CV6.13: Wildlife Safari
+     CV6.14: Shangri-La
+CV7: Stats and Charts
+CV8: Unlockables
+CV9: Credits
+
+Cubivore is rated "M" for "Mutation," it contains scenes of carnivorous
+cubes and fountains of rectangular blood. Player discretion is advised.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                                CV1: Intro                                  |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+One thing I admired about this passing generation are those games that really
+try something different, unique, or quirky. Deep within the tides of mundacity
+are gems that reel you in with a novel concept, then keep you there with a
+competent design. That's not to say you need to be unique to be good, but when
+you're funky fresh you're just that - fresh.
+
+Of course, Cubivore isn't a completely novel concept. There's older games like
+EVO, where you gradually build up an animal or Crush, Crumble and Chomp! which
+even then let characters customize a monster from the ground up. Customization
+has been a huge draw for games for a long time, so Cubivore's variety of
+beastly forms is only half the battle. For the full on assault, we need to
+implement the evolving feature in some way, perhaps by eating coloured meat
+from the enemy beasts and changing your shape based on the meats you eat? Works
+for me.
+
+While Cubivore is very straight forward with the tasks it asks of you, the idea
+of the hunt does add to the game. Your quest to mutate and mate until you are
+the lord of the Cubviores echoes the drive of real life - to immortalize
+yourself in those that come after you.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                               CV2: Gameplay                                |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Cubivore is a game of mutation. You attack an enemy, and eat its meat to change
+your form. Your form depends on the colour of meat eaten and of how many limbs
+you have. See the next section for info on Colours.
+
+Basics
+******
+
+Control Stick: Movement
+Camera Stick: Move Camera
+Control Pad: EZ Mutation (see EZ Mutate)
+L: Lock-On
+R: Dash (with Raw Paw)
+A: Pounce/Jump
+B: Block
+Y: Roar
+X: Reverse
+Z: Doo
+Start - Pause
+
+*Lock-On:
+
+Holding the L button locks onto a Cubivore and makes you pounce at that beast
+when you hit A. When you have the Raw-Claw, you can do this while moving.
+Otherwise, you can only do it in reverse or stopped.
+
+*Dash:
+
+When you have the Raw-Paw, you can Dash. Hold R and move to run fast, but you
+will get tired eventually, and won't be able to dash until you catch your
+breath.
+
+*Pounce/Jump:
+
+Pouncing is the main form of attacking. Jumping is just a hop, but becomes a
+pounce when you lock on. Jumping is the main form of dodging in Cubivore, make
+a leap to dodge a pouncing cubivore, then pounce at it yourself.
+
+*Block:
+
+Put up defense to cushion a blow. This is effective against some forms of
+attack, and you may want to try it if dodging a pounce throws the enemy too
+far out of range.
+
+*Roar:
+
+Scares certain enemies. If you scare an enemy enough to knock it over, you can
+take its meat directly.
+
+*Reverse:
+
+Head backwards. Some species have very quick reverse speeds. Reverse will NOT
+fatigue your Cubivore as Dash does. Reverse away from a Cubivore and pounce it
+as it lands in front of you with its pounce. Or use it as a quick escape
+method.
+
+*Doo:
+
+Poop out a colour, the one closest to the left on your little meter. This is
+useful when you want to get rid of a colour (such as eating a PaleDark or
+Clash Beast) that is not useful to you when you're trying to get a form.
+
+*EZ-Mutate:
+
+A form that you can change into at will. You get EZ-Mutate two ways. One is by
+mating, whatever form you pick you can change into at will. The other is by
+number of mutations.
+
+Reach a specific number and that mutation becomes useable at will. You can an
+EZ Mutate at mutations number 20, 50, 80, and 100. 20 and 100 seem to be the
+big ones.
+
+*Training:
+
+You can train in this game your Horns, bonus to attack power, Scar, bonus to
+Defense Power, Hump, bonus to the benefit you get from healing items, and your
+Tongue, your ability to Eat N' Run. You can also train stomach by eating other
+beasts, and this is your HP.
+
+*Start Menu:
+
+Start Menu lets you review rules, check your status, and check your bestiary:
+the collection of all beasts you have ever mutated into.
+
+Mating
+******
+
+Mating occurs everytime you get a new piece of Raw-Meat. With your new meat,
+you can enter the mating grounds and mate with some females.
+
+Depending on the colour of your cubivore, and the number of lovebits, you get
+an assortment of colours. The females are coloured Yellow to Grey in groups of
+Pale, PaleDark, Dark, Clash, and Rage. The more mutations you get, the more
+females you attract.
+
+If you go in with, say a pale grey meat and have access to the pale grey
+female, she seems to have a higher chance of producing a child.
+
+If you get 100 lovebits, EVERY female will give birth. Mated forms should be
+picked on functionality and availability.
+
+Combat
+******
+
+Just the techniques you will use...
+
+*Re-Bite:
+
+Tap the control stick 2 or 3 times to bite into a grabbed piece of meat. This
+makes it more difficult for an enemy to escape.
+
+*Double/Triple Gobble:
+
+When you grow a fang, then another fang you can gobble 2, then 3 pieces of
+meat at once.
+
+*Diet Plan:
+
+When you can double or triple gobble, you can use diet plan to take only one
+piece of meat instead of 2 or 3. Extremely useful.
+
+Hold X and DO NOT re-bite. You should use Diet Plan to get only one piece of
+meat. If the species is 3 or less when you can triple, or 2 or less when you
+can double, you cannot use diet-plan.
+
+*Eat N' Run:
+
+With Tongue points you can do this. Get directly behind a running enemy, and
+run and pounce. You should eat their meats without the usual knock-out. This
+is difficult to learn and doesn't appear to work on many strong forms of
+cubivores.
+
+*Lost Limbs:
+
+If you lose a limb, eat a Herbibeast or colour meat to regrow it. If you lose
+raw-meat, eat the organism that ate it on you.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                               CV3: Colours                                 |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The bestiary in Cubivore is fleshed out by degrees of colour and different
+colours possessing different traits.
+
+Pale: Pale meat is the weakest, faintest meat.
+PaleDark: A paledark is between pale and dark, and is a combination of pale and
+          dark meat.
+Dark: Dark meat is a meat stronger than Pale.
+Clash: Clash beasts have a specific combination of Rage meats, they're stronger
+       than dark though generally weaker than Rage.
+Rage: Pure rage meat of a colour, generally the top of the category in stats.
+
+Even though a Rage beast may outstrip a Clash beast in stats, there's a
+difference in abilities. For instance, the Clash Blue and Rage Blue categories.
+The sideways movement of Rage Blue may be disorienting to some, so Clash blue
+is easier to handle. Or Clash Red vs Rage Red. Clash Red is much more like Dark
+Blue in attack pattern, kind of a mix between Blue and Red traits. Rage Red is,
+however, a powerful version of what you've maybe come to expect.
+
+Greyodons generally take priority for EZ mutations in this walkthrough - this
+is ONLY a suggestion. If you have an easier time with, say, Purpials then go
+that route as well. While Greyodons are enormously powerful, especially the
+Rage variety, they may not always have the abilities you seek.
+
+                             ----Yellowbrate----
+                                 -----------
+
+Yellowbrates are generally slow beasts with high defense and decent attack and
+other stats. Their awkward body shapes and movement may make them a bit tricky
+at first, but they're generally a pretty decent clade.
+
+Yellowbrates excel at blocking, but you should never bring a  yellowbrate right
+into the fray. It is generally not quick enough to respond to multiple enemies
+nor can most of them escape other enemies. A pack of greyodons will tear you to
+pieces unless you take them out one at a time.
+
+The upper forms of Yellowbrate fix the speed problem to at least workable
+levels. If you get surrounded, and can't run away, block and run.
+
+-==Creating Clash==-
+   --------------
+
+Clash 1-Limb - Rage Yellow from a 1-Limb Clash Yellowbrate.
+Clash 2-Limb and higher - Any combination of Rage Red and Yellow (one each at
+                          least).
+
+*Pale:
+Pale Yellowbrates are generally the weakest all around beasts. They may be a
+little more physically impressive than Pale Redapeds, but their movement is a
+grave impairment.
+
+*Paledark:
+Paledark is about the best you can do with Yellowbrates early in the game.
+They walk straight and stand a fighting chance.
+
+*Dark:
+Dark sort of walk on diagonals. Practice around with them before using them in
+an actual fight. They do have decent capabilities.
+
+*Clash:
+Clash walk straight and are decent creatures, but Rage is all this and so much
+more.
+
+*Rage:
+Rage have superior defense and great capabilities. If you want a severe
+blocking skill, take Rage Yellow. Besides that, they actually have a bit of
+speed and punch.
+
+
+                               ----Redaped----
+                                   -------
+
+Redapeds are awkward on land, and kind of unwieldily at first, but their jumping
+skill is unmatched. The PaleDark and Rage forms are a lot more stable than the
+others, and quicker. Though while Dark kind of bounces along, they're still
+decent combatants and you should give them a chance.
+
+Redapeds are great at jumping over enemies or attacks. But don't get too cocky
+because they generally can't take a hit.
+
+The trickiest thing about Redapeds is contacting an enemy. They are extremely
+floaty. So you have to learn the distance your form needs to strike from. This
+is important, so that you start your strike slightly before you would with
+another colour. It's kind of hard to hit enemies against walls, but you'll get
+used to it.
+
+-==Creating Clash==-
+   --------------
+
+Clash 1-Limb - Rage Red from a 1-Limb Clash Redaped.
+Clash 2-Limb and higher - combination Rage Red and Rage Blue, at least
+                          one of each.
+
+*Pale:
+Pale Redapeds are generally pretty weak, and not too mobile unless you jump.
+Sort of like Pale Yellow, they're really a shadow of their darker colours.
+
+*PaleDark:
+PaleDark are straight forward walkers. Their jumping is kind of erratic, but
+they're not terribly powerful. They aren't utterly weak though, so you can do
+some fancy evasive tactics. You need to lure enemies away from a group using
+one of these.
+
+*Dark:
+Dark Redapeds kind of walk by hopping - though this will not cause much of a
+problem. I still recommend you lure enemies out of groups but this form is
+starting to get strong enough to compete.
+
+*Clash:
+Clash Redapeds are kind of like Redapeds mixed with Bluocytes. With a B level
+Pounce, they can be decent snipers + evasion artists. It's a tough mix to
+master, as the Clash Reds also sidewind, but could be useful if you wanted a
+stronger sidewinder.
+
+*Rage:
+Rage Reds are the most stable of the Redapeds, possessing high defense and
+decent attack, not to mention easy to control motion. This will probably be the
+red of choice if you don't take to the tricky Clash.
+
+                               ----Bluocytes----
+                                   --------
+
+Bluocytes are a low defense type if Cubivore, many of them possessing a
+sidewinding form of movement. But they're an artisan's cubivore, and can be
+excellent if mastered. Bluocytes have huge pounce ratings, and that makes them
+the snipers of the Cubivore world.
+
+If you can master the awkward, often slow movement, and judge the pouncing
+distances, Bluocytes can take on many comers, especially the amazing Rage
+Bluocytes.
+
+You still need to take individuals out of groups with most Bluocytes. They will
+take a serious pounding if they get caught in the middle of a couple of
+enemies. But if you dodge an enemy's attack, chances are you'll be able to make
+up the distance between it and yourself with a pounce.
+
+-==Creating Clash==-
+   --------------
+
+Clash 1-Limb - Rage Blue from a 1-Limb Clash Bluocytes.
+Clash 2-Limb - Rage Blue, and Rage Yellow.
+Clash 3-Limb and higher - Combination of Rage Blue, Rage Yellow, and Rage
+                          Purple with at least one of each.
+
+
+*Pale:
+These frog cubivores are pretty slow, and light on defense. While they do get a
+decent Pounce rating, they're tough to manage in a brawl.
+
+*PaleDark:
+With the sidewinding snakes, you have to strafe your enemy. The raw claw really
+helps as you can move past, facing the enemy, and pounce. These guys aren't too
+quick though, so use caution.
+
+*Dark:
+Another sidewinding Blue, but better than Paledark. Essentially, use the same
+tactics.
+
+*Clash:
+A decently strong morph, Clash Bluocytes move straight forward. So, if you want
+the distance, without the odd motion, this may be a good beast to check out.
+
+*Rage:
+The 6-Limb Blue Rage is amazing, and the whole group is pretty good. They move
+sideways, but they're actually pretty quick, and have amazing distance with
+decent power. Reverse will make them walk sideways. Rage Blue is my Blue of
+choice, and if you haven't taken to this colour yet, this may turn the tide.
+
+                               ----Purpial----
+                                   -------
+
+Purpial are great beasts, because they're quite mobile. While their attack is
+low, as is defense really, they have decent forward speed and simply amazing
+reverse speed.
+
+This lets you quickly get out of scrapes that would be otherwise foolish for
+other similarly physically lacking forms to attempt. That's not to say Purpials
+are really "weak," but until you hit dark they're great at evasion but less so
+at dealing damage.
+
+You really need to use reverse in combat with Purpials. This has a huge
+advantage - you will still be facing the enemy if it attacks and you dodge, and
+with the Raw Claw, you can make rapid strikes like this.
+
+-==Creating Clash==-
+   --------------
+
+Clash 1-Limb - Rage Purple from a 1-Limb Clash Purpial.
+Clash 2-Limb and Higher - combination of Rage Purple and Rage Grey with at
+                          least one of each.
+
+*Pale:
+Pale are decent in the beginning of the game, not so much against bosses. They
+are decently quick, having dedicated legs.
+
+*PaleDark:
+PaleDark are desirable because they are similar to pale, but stronger. They
+have the same quick movement, and the same benefits but stronger.
+
+*Dark:
+Purpials are really a simple beast for the most part because they're really
+easy to use. If you know how to use Pale and PaleDark, you won't have any
+issues except better performance.
+
+*Clash:
+Again, these are quite similar to what you've experienced before, except
+superior reverse speed.
+
+*Rage:
+Something different! Backwards for a Rage Purpial is its normal forward. That
+is, the head faces backwards. This means you have a constant dash in effect,
+and while not as strong as a Greyodon dash, you won't get fatigued. The forward
+dash isn't _too_ slow, so you can escape danger by backing up if it gets too
+intense. Might be a hard form to learn, because you're reversed.
+
+
+                              ----Greyodon----
+                                  --------
+
+Greyodons are the attacking titans of the Cubivore kingdom, they are the beasts
+with the most severe attack power and the greatest dash speed. If you're new to
+Cubivore, you'll want a few Greyodons as EZ Mutates. And even if you aren't,
+you probably still will.
+
+The high speed dash lets you take control of groups of enemies, dash away and
+dodge attacks or dash up to an enemy that just missed you. Besides this, your
+stomach and physical qualities are very high.
+
+The only drawback to Greyodons is that there really aren't any gimmicks here,
+but then they don't really need them.
+
+-==Creating Clash==-
+   --------------
+
+Clash 1-Limb - Rage Grey from a 1-Limb Clash Greyodon.
+Clash 2-Limb - Rage Grey and Rage Yellow.
+Clash 3-Limb - Rage Grey, Rage Yellow, and Rage Red.
+Clash 4-Limb - Rage Grey, Rage Yellow, Rage Red, and Rage Blue.
+Clash 5-Limb - Rage Grey, Rage Yellow, Rage Red, Rage Blue, and Rage Purple.
+Clash 6-Limb - Rage Grey, Rage Yellow, Rage Red, Rage Blue, and Rage Purple as
+               well as one Rage meat of any colour.
+
+*Pale:
+Pale are quick, and strong compared to other Pales. You'll want to use them
+where you can early in the game, but switch to Paledark ASAP.
+
+*PaleDark:
+Definitely an improvement, and they pass the test for quite some time until the
+late-mid game.
+
+*Dark:
+Always useful if you can't get Rage, Dark Greyodons will become common enemies.
+High strength and speed.
+
+*Clash:
+Clash are powerful, but the complex colour combinations makes them at times a
+little less practical than some people may want to bother with.
+
+*Rage:
+Extremely powerful. If you get the 6-Limb Rage Greyodon as an EZ Mutate, you
+are set.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                              CV4: Power-Ups                                |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The many methods by which you power-up your cubivore.
+
+                                CV4.1: Bits
+                               -------------
+
+*Lovebits:
+
+Collect these bits to increase your potency at the mating grounds. 100 lovebits
+means every female you mate with will give birth.
+
+*Scar Bit, Horn Bit, Hump Bit:
+
+Collect these to gain points to your Scar, Hump, and Horn. Each gives 1 point.
+
+
+                                CV4.2: Bugs
+                               -------------
+
+*Green Vegetabug:
+
+Eat these guys to restore some of your hitpoints.
+
+*Lovebug:
+
+Eat this to increase your lovebits. They are worth 3 lovebits. They will run
+away if you aren't fast.
+
+*Red Vegetabug:
+
+They also heal you, like the green guys, but they will attack you. They only do
+minimal damage, but they can be annoying if you don't deal with them.
+
+*Wildabug:
+
+Eat these to restore wilderness to white areas. A message will show how many
+more you need.
+
+                             CV4.3: Raw Meet
+                            -----------------
+
+*Raw-Bone:
+
+Increases the potency of your blocking skill.
+
+*Raw-Claw:
+
+This lets you lock-on to pounce while you run. Extremely useful.
+
+*Raw-Life:
+
+This lets you mate with the Ulti-Mate Female.
+
+*Raw-Paw:
+
+This lets you dash by holding in R when you move.
+
+*Raw-Peeper:
+
+Your abilities are ingrained. That is, if you get a raw-meat eaten, you keep
+its power.
+
+*Raw-Shnoz:
+
+Stay perfectly still for a few seconds and you will be camouflaged. It fools
+most, but not all enemies.
+
+*Raw-Wilderness:
+
+No effect, it's something to collect in a specific area.
+
+                               CV4.4: Training
+                              -----------------
+
+*Bullfrogstool:
+
+Pounce to grab, then hold X to stretch back. Let go when you are 3 red bars
+away (the red bars at the top). Trains Tongue.
+
+*Rampage Bowl:
+
+Spin around in this bowl to increase your scar points.
+
+*Toadstool:
+
+Only appears once, pounce and pull to train your tongue.
+
+*Treadmill:
+
+Run on this to increase your hump points.
+
+*Wooden Horse:
+
+Pounce at this to increase your horn points.
+
+                               CV4.5: Other
+                              --------------
+
+*Herbibeast:
+
+Eat these guys to restore a large amount of life.
+
+*Rejuvinator:
+
+Use a rejuvinator by pausing and hitting Z. Restores all your life. Use only if
+completely necessary.
+
+*Seed of Fright:
+
+Lets you roar by pressing Y.
+
+*Slot Token:
+
+Your colours shift colour, try to stop them on specific colours to get a
+mutation. Note that you can change COLOUR but not TYPE. Rage meat is always
+rage meat, pale is always pale.
+
+*Snack Grass:
+
+Eat some to restore HP.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                              CV5: Walkthrough                              |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+This walkthrough for Cubivore has a number of considerations. For one, it is
+geared towards getting you more than 100 Mutations before the end of the last
+stage. For another, it's also about maximizing potential in this last area.
+
+While this method works well, you will want to cut some corners for the forms
+you want. I will have you get a powerful Cubivore for your 100th, and an easy
+mutate but as always you can experiment as you please.
+
+It shouldn't take too much alteration to make it fit your playing style.
+Remember, you get EZ mutates at 20, 50, 80, and 100 Mutations and everytime you
+mate so you should focus on either what you _Can't_ get in the next stage or
+what would be most _useful_.
+
+There are many "bits" that increase stats in this game, I will not be
+concentrating on them in this walkthrough. They're in the fields and tall grass
+so they aren't difficult to find. While I WILL direct you to them in general,
+they don't warrant an exhaustive section.
+
+------------------------------------------------------------------------------
+                               CV5.1: Paw Dunes
+------------------------------------------------------------------------------
+
+Your piggy will be born, and it's time to get started. Paw Dunes is a very
+simple, tutorial style stage. You really just have to follow the path through
+the level, though there are some things to look out for.
+
+You can start by eating some of the brownish grass up ahead, Snack Grass. This
+will refill your stomach meter, your hit points.
+
+You can follow along the path here to find a Vegetabug - they need to be
+pounced on. Get close, hold L, and hit A to pounce. This will be used in
+fighting other Cubivores. Keep on the path until you reach the Training Horse,
+which you need to pounce on for a while to increase your horn meter.
+
+Lovebits along the path now, eat them. Collect lovebits for greater success in
+mating - ie get 100 and all the females you mate with will bear young. There
+is more training up ahead, toadstools. They are only found here. Jump at them
+and hold the control stick to increase Tongue points.
+
+Further up the path is a 1-Limb Pale Yellowbrate, a Tirejack. Let's start
+mutating. When you glow, he is going to attack you, get out of the way then
+pounce on him. When his stomach reaches 0, pounce and grab his meat like the
+toadstools. Tear it off and eat it to assume his form.
+
+Do this again to the 1-Limb Pale Red you meet, Hanky. After this there is a
+Pale Purpial to eat, Eject. Eat them up, and experiment with the different
+colour forms.
+
+When you see the creature with dark meat, Scarf, make sure you stay a distance
+away, and dodge him with a little jump when he pounces. This will get you
+prepared for bosses that you will eventually fight. Pounce on him then take his
+meat to become the PaleDark Yellowbrate, Scarf.
+
+Now, there's a door here. Check the hedge walls straight across from the door
+to find a secret passage. there's a PaleDark Purpial in here, kill and snack.
+Take nay lovebits and head on out through the door.
+
+Progress Report-
+5 Mutations:
+**1-Limb Pale Yellow: Tirejack
+**1-Limb PaleDark Yellow: Scarf
+**1-Limb Pale Red: Hanky
+**1-Limb Pale Purple: Eject
+**1-Limb PaleDark Purpial: Stocking
+
+------------------------------------------------------------------------------
+                       CV5.2: Bleach White Highlands
+------------------------------------------------------------------------------
+
+Just head along the path and you will eventually come to a white area. There is
+a little silver bug wandering nearby. This is a Wildabug, eating it will
+restore some of the whited-out Wilderness to its former glory. Snack it up.
+
+There's a rejuvinator, a healing item you can use by pressing Z on the pause
+screen and a horn bit along the path. Head toward the grass box. Pounce it to
+reveal a seed of fright, which lets you let out an intimidating roar.
+
+Follow this up by first eating any lovebits in the grass and then the two
+wildabugs. Another path will be created.
+
+There's a two-limbed Pale Bluocytes here, skip it for now and any bits along the
+way. You won't get enough for an upgrade now anyways. Eat the wildabug you see
+along the way, and make sure you loose the Bluocytes.
+
+When you see the boss, Cubscout Beast, lure one of his greyodon buddies over to
+you. Get closer and closer until one takes notice but the others don't. Slay
+and eat it. Now, as a Greyodon, lure over the other greyodon. Eat him and
+finally lure over the cubscout. Jump out of the way when he pounces - you may
+want to keep him around the wall so you don't have to chase him all over.
+
+The Cubscout boss gives you the Raw Paw, which lets you dash with the R button
+for short distances - an excellent upgrade and one you will come to value.
+
+Now, head back tot he two-limbed Bluocytes, and kill it. eat some of his meat to
+become a 1-Limbed Pale Bluocytes. After this, collect any bits you passed and go
+on to the next area.
+
+Progress Report-
+7 Mutations, 2 New:
+***1-Limbed Pale Greyodon: Buzzcut
+***1-Limbed Pale Bluocytes: Guitar
+
+------------------------------------------------------------------------------
+                               CV5.3: Frog Bog
+------------------------------------------------------------------------------
+
+Frog Bog is where it starts to get a little more serious. The boss is strong
+in comparison to our little Piggy, and it's a bit longer. However, we also get
+to mate - meaning you will have a two limb creature and the chance to get some
+strong mutations.
+
+So, when the stage begins, search around the love door, in the corners in the
+flowers off to the distance and around the back of the hut. Kill the Pale
+Bluocytes (1-limb) here for the experience and then eat the PaleDark Redaped.
+This will turn you into Squirtgun, a 1-limbed PaleDark Redaped.
+
+Now, head into the Mating Grounds, you should be able to attract 3 females by
+now. The form to choose is the Pale Yellowbrate called Pedal. This choice is
+important because you cannot get one in this round, and you'll be getting
+better forms soon anyways.
+
+Head behind the love hut and eat the wildabugs here to make a path of
+wilderness. Head on through the path, make sure to pick up the hump bit and go
+for the Oasis. There are horn and love bits here, collect them up. From the
+Oasis look for the Pale Redapeds. Eat both of them to get a 2-limbed pale red,
+Pennant.
+
+From here, look for a wildabug - it should be nearby. You'll spot a lovebit
+trail - follow it to the bowl. Roll in the bowl to train your scar points. When
+you exit the Training Grounds, take a right to find a wildabug and a bit. Snack
+them and look at the Purpials nearby.
+
+These are two Pale Purpials, kill and eat them to take on a Pale Purpial form
+yourself, the two-limbed Play. Keep casing the perimeter of this area. You
+should see a short cinema about Herbibeasts. But don't linger because there are
+greyodons near the herbibeasts.
+
+Instead, head straight across from where the Purpials were, you will find two
+PaleDark Yellowbrates. Be very careful, and take these on one at a time. When
+you eat them, you should take on the two-limbed PaleDark Yellow form, Bandanna.
+
+Turn and continue down the way. There should be at least two wildabugs, one
+after the Yellowbrates and one nearer to the Bluocytes. The two Bluocytes are
+Pale, which is why we could eat the little guy at the start of the level. Eat
+both of them to become the two-limbed Bluocytes, Maraca.
+
+Head to the Oasis with the Greyodons and Herbibeasts. There are two pale Greys
+here, take out the two-limbed first. Eating both of them will make you a Pale
+2-Limbed Greyodon. After eating them, look around the Oasis for some bits and
+the final wildabugs.
+
+As you approach the boss, take the horn and hump bits, as well as the
+rejuvinator, but leave the snack grass. The Boyscout beast is a three-limbed
+Pale Bluocytes, so it is a frog. His partners are two limbed pale bluocytes.
+
+It is essential that you take out his cronies first. Dodge them and strike,
+they will sink into the bog and retreat. This pattern makes them take longer
+than they should but if you are patient and don't get ganged up on, you should
+be able to hold out. Eat snack grass if you take a hit, and if you have to use
+the Oasis make sure you loose the boss first.
+
+Fight the Boss closer to a wall. It is a Bluocytes so it has a really long
+bounce. This means that you will probably be out of range after dodging him,
+and he will move again before you can get to him. If he hits a wall, you can
+lay into him from a shorter distance. If he is facing the wall, get in three or
+four hits before he turns around, then get to safety.
+
+When you beat him, you'll get the Raw Bone which increases your blocking
+ability. Look around his lair for some bits before exiting through the door.
+
+Progress Report-
+14 Mutations, 7 New:
+
+***2-Limbed Pale Yellowbrate: Pedal (Mating)
+***2-Limbed PaleDark Yellowbrate: Bandanna
+***1-Limbed PaleDark Redaped: Squirtgun
+***2-Limbed Pale Redaped: Pennant
+***2-Limbed Pale Bluocytes: Maraca
+***2-Limbed Pale Purpial: Play
+***2-Limbed Pale Greyodon: Mullet
+
+------------------------------------------------------------------------------
+                             CV5.4: Mupopo Desert
+------------------------------------------------------------------------------
+
+Explore the area collecting love bits and the love bugs, as well as the
+rejuvinator. Then get to the mating grounds. We'll be choosing a 3-Limbed Pale
+Yellowbrate. Yes, this is not a great form, but we will geta  decent beast for
+our 20 mutations. It's best to snack up Cranky in the mating grounds because
+you'd have trouble getting one in this level.
+
+Anyways, after mating kill the Redapeds to the left of the mating grounds and
+eat them, gaining the PaleDark Musket. This for, at least, will be more useful
+than the Yellowbrate.
+
+Take the right path, practice on the training post (for tongue) and then find
+and eat the Wildabug near the bleached area to reveal a path.
+
+Kill the red vegetabugs, they're annoying and can do a little damage to you.
+Look for some horn and scar bits on route. Look around the Yellowbrates for
+some bits but do not kill them yet.
+
+When you see all of the colours of cubivores behind the white area, a boss is
+near. There are three wildabugs near the boss. Run in and out of there
+collecting them but do not kill the boss or any of its cronies. We'll need them
+for our EZ mutate for 20 mutations, and if you kill the boss the stage ends.
+
+So without any foolish risks, get all of the wildabugs and retreat. When you
+come back, go to the Oasis. Look for the pale redapeds first, eat them to
+become a 3-limbed Pale Redaped, Banner.
+
+Now, you should have 17 mutations. Look for the Pale Purpials. Eat enough to
+become a Pale Purpial, Rewind, and then kill the rest for stomach experience.
+
+Now you should have 18 mutations. Find the Pale Greyodons, NOT the ones near
+the boss yet as they are PaleDark. Anyways, eat two to become a Pale Greyodon,
+Dreadlock. Your next mutation will be an EZ mutate, as you now have 19 total.
+Let's make it something workable...
+
+Draw one of the bosses cronies over to you, these are PaleDark Greyodons. With
+the meat you got becoming Dreadlock, you will become a PaleDark when you swill
+some of their dark meat. This will make the 3-Limbed PaleDark Greyodon, Folder,
+will be an EZ mutate.
+
+Great, run from the boss. Find the four Bluocytes. Eat the Pales first to take
+on the Pale form, Bongo. Now eat the PaleDark form for the PaleDark Ottoman.
+
+Now, there's a 3-Limbed PaleDark Yellowbrate around here, eat him and get some
+of the dark meat. Return to the Yellowbrates you passed, eat them, and you
+should take on the PaleDark form Collar.
+
+Let's return to the Oasis. You're a PaleDark right now. There's a path near the
+Oasis that leads to a slot token, which you can try to use to geta  PaleDark
+Purpial or Redaped I suppose. This guide doesn't take slot tokens into account
+on the first run through. That's asking a little much of you to reset if you
+don't get the right colour...
+
+Anyways, after that look around the stage for any bits you may have missed.
+When you're confident you've been thorough, it's time for the boss. Change into
+Folder and take out any of his cronies that may be left for the experience.
+
+The boss is a Greyodon, so he's pretty quick and strong. As always, keep him
+near a wall so you can get a couple of quick hits in on him. You need the
+wall to cut his jump short because you can't pounce while running yet.
+
+Do NOT fight him with the others around him. You may be PaleDark Grey, but that
+simple fact won't save you here.
+
+He has the Raw-Life, which let's you mate with the Ulti-Mate Female. The stage
+will end as soon as you eat this chunk of meat.
+
+Progress Report-
+23 Mutations, 9 New:
+
+***3-Limbed Pale Yellowbrate: Cranky (Mating)
+***3-Limbed PaleDark Yellowbrate: Collar
+***3-Limbed Pale Redaped: Banner
+***3-Limbed PaleDark Redaped: Musket
+***3-Limbed Pale Bluocytes: Bongo
+***3-Limbed PaleDark Bluocytes: Ottoman
+***3-Limbed Pale Purpial: Rewind
+***3-Limbed Pale Greyodon: Dreadlock
+***3-Limbed PaleDark Greyodon: Folder (20th mutation, EZ mutate)
+
+------------------------------------------------------------------------------
+                            CV5.5: Rainbow Heaven
+------------------------------------------------------------------------------
+
+When you get to Rainbow Heaven, simply follow the path that is laid out for you
+and listen to the information the game gives you.
+
+------------------------------------------------------------------------------
+                            CV5.6: Paw Rainforest
+------------------------------------------------------------------------------
+
+Alright, you're reborn as a Grizzly, with 1-limb again. Whatever form you are
+born with is an EZ mutate for when you have 1 limb. From being born, head for
+the log blockade for the love bits and hump bit so you'll grow a bit along the
+way.
+
+Now, head the other way. You'll find some pigs you can eat for Experience, you
+already have all the forms. These pigs won't attack you, so you can pick a form
+you like. Pale Yellow, Red, Blue, and Purple should be here.
+
+There'll be a training bowl, roll in it until it is finished. Follow the horn
+and love bits after this to find a dark Yellowbrate. You'll likely encounter a
+PaleDark Yellow and Pale Grey before reaching the dark yellow. Pick a form,
+then combat the Dark Yellowbrate, eat him to become a Diskbrake.
+
+There will be a Dark Blue 1-limb close by, kill and eat him to become a Hyphen,
+1-limb Dark Blue. From here, locate the Oasis. Nearby is the boss. Lure out his
+buddies one at a time. Dodge and pounce, dodge and pounce. Your Hyphen form has
+terrific range so it shouldn't be too bad.
+
+When you're ready for the Headcoach Beast, combat him the same way. You have a
+very long pounce so if you can get him to pounce at a wall, you'll most likely
+reach him with your pounce. As always, get a few bites on him while his back is
+turned, then run to another wall as he's much faster than you.
+
+Once it's defeated, you get the Raw-Paw again. Look around for any bits you may
+have missed, then move away from the door. There is a secret passage across
+from it, wherein you will find some love bits, a rejuvinator, and a 1-limbed
+dark Purpial, Puberty.
+
+26 Mutations, 3 New:
+
+***1-Limbed Dark Yellowbrate: Diskbrake
+***1-Limbed Dark Bluocytes: Hyphen
+***1-Limbed Dark Purpial: Puberty
+
+------------------------------------------------------------------------------
+                         CV5.7: Whitestill Highlands
+------------------------------------------------------------------------------
+
+You are more or less forced to mate. You will most likely have every form here
+except Beebee, which you can get in this stage anyways. But still, it's
+probably the best form available so take it.
+
+Onto the stage, you can eat all Pale beasts in this area except the Purpials.
+You have all the forms here, but save the Purpials for later. Anyways, get the
+horn bit then head up toward the red area. Eat a wildabug here, then venture as
+far into the wilderness as you can. Get the hump bit, then look for the next
+two wildabugs. Collect the bits and rejuvinator, then enter the door.
+
+Lots of colour here, and there's a method to the madness. Eat the PaleDark
+2-Limbed Red for Dark Meat (make sure you get the dark meat, not pale) and then
+the 1-Limbed Dark Red for the 2-Limbed Dark Red form, Bevel. If you did not get
+Beebee yet, eat the other PaleDark red and make sure you get Pale meat. However
+it is wise to save the PaleDark Red and the 2-Limbed Red for when you gain your
+3-Limbed Grizzly.
+
+Head to the Oasis, eat the PaleDark Purpial for Dark Meat (make sure you get
+dark meat) and then the 2-limbed Dark Purpial for the 2-limbed dark purple form
+Adolescense. Eat the other PaleDark for the other PaleDark form, Pants.
+
+Return to the big group and eat the two Bluocytes to achieve the 2-limbed
+PaleDark form Armrest. Eat the Paledark Yellows, but leave the Reds. Get the
+2-Limbed Dark Yellowbrate Calliper.
+
+Now, head to the training grounds and use the treadmill until it changes
+colour, this trains your hump points.
+
+It's time to fight the CEO Beast. He's a Dark Greyodon, but pretty much the
+same as you've been fighting. You can probably lure him to you without his
+troops. The Calliper form, if you're using it, is awkward so practice with it
+first. As always, try to make him pounce at a wall. When you kill him, you get
+the Raw-Claw, which lets you pounce while running. Extremely useful. Kill his
+cronies immediately, if you haven't already.
+
+Head toward the white patch near the Training Grounds. Eat a wildabug and run.
+A lot of Dark Blues will emerge. Pick two of them off, to assume a 2-Limbed
+Dark blue form - Bracket, for yourself. Now, run for your life and mate.
+
+You probably have all of the available forms, so just take what you find most
+useful. After you grow, kill off the rest of the Dark Blues. This will land you
+the 3-Limbed form, Caret.
+
+Now, head to the Oasis again and eat the Ratchet. Now, eat the 2-Limbed Red for
+the 3-Limbed Dark Red form, Ratchet. Eat the First Date, the Dark Purpial, then
+return to the first screen and eat the pale Purpials for the Paledark form
+Apron, a 3-limbed Purpial.
+
+Now, there's a boss near the remaining white area - the Parental Advisory
+Beast. Lure out his Dark Greyodon cohorts and eat both of them to take on the
+Scentaur form. Now, you can attack the Parental Advisory Beast. Handle him the
+same way as you did the CEO. Dodge and pounce, dodge and pounce. You'll get the
+Raw-Bone again when all is said and done.
+
+Search around now for the slot token and any bits. You can get another form
+from the slot but this is not counted in the guide.
+
+Leave through the bush to enter another area. Eat the lovebits and exit through
+the next door. Eat the lovebugs and bits and leave the stage through the leaf
+door.
+
+37 Mutations, 11 New:
+
+***2-Limbed Dark Yellowbrate: Calliper
+***2-Limbed PaleDark Redaped: Bevel
+***2-Limbed Dark Redaped: Bevel
+***2-Limbed Dark Redaped: Ratchet
+***2-Limbed PaleDark Bluocytes: Armrest
+***2-Limbed Dark Bluocytes: Bracket
+***3-Limbed Dark Bluocytes: Caret
+***2-Limbed PaleDark Purpial: Pants
+***3-Limbed PaleDark Purpial: Apron
+***2-Limbed Dark Redaped: Adolescense
+***3-Limbed Dark Greyodon: Scentaur
+
+------------------------------------------------------------------------------
+                              CV5.8: Lake Getum
+------------------------------------------------------------------------------
+
+You'll notice a boss here right away, the Guardsman Beast. This is a Herbibeast
+but you shouldn't go after him just yet. Head left when you reach the river to
+find a horn bit.
+
+In the field near the Guardsman there should be Dark Yellow and Pale Blue. Eat
+the Dark Yellows to become a 3-Limbed Dark Yellowbrate, Fenderbender, and then
+head into the mating grounds. You will be able to get every form here, so I
+suggest you take any available Greyodons, like Afro. This will help immensely
+in the special stage.
+
+When you exit, kill the Guardsman Beast. Again, he is a herbibeast and you can
+pretty much chase him while nipping at his heels. He'll give you 1/4 of the
+Raw-Shnoz. You can eat the Pale Blues around here for the Tuningfork form.
+Look around for a Lovebit Trail and follow it.
+
+You'll come to a glowing area, eat the 2-Limbed Pale Yellow completely before
+you enter and then jump on the portal to go to the special stage.
+
+******************************************************************************
+                            Snake in the Grassland
+
+The first special stage you will enter is 7 minutes long. There's a definite
+pattern you should follow here. When I say a direction like north, consider the
+flashing red square as magnetic north for the purposes of this guide.
+
+You have to move fast to get all of the Mutations here, which is why a Greyodon
+is so useful. Check the patches of grass to find cubivores.
+
+*Yellowbrates:
+Head east and find the Cranky. Since you already have Pale Yellow Meat, you can
+slay and eat this for the 4-Limbed Pale Yellow Form. Now, head to the west side
+of the area and look for a Fenderbender. Eat it for the PaleDark yellow 4-limb.
+There is another Yellowbrate nearby, another dark. Eat this Fenderbender to
+take on the 4-Limbed dark form. Check tot he northwest of the first
+Fenderbender for the second.
+
+*Bluocytes:
+Next we'll do Blue. Head south and eat the Dark Blue you'll find. Search south
+of it to locate another, taking on the 4-Limbed Dark Blue form, Ditto. Head
+south again and eat the two Bongos, Pale Bluocytes. They are both very close to
+one another and eating them will in sequence give you the 4-Limbed PaleDark
+Blue: Recliner, and the 4-Limbed Pale Blue: Tuning Fork. That is, unless you
+already got it outside.
+
+*Purpial:
+Head to the Oasis in the north then head north to find a Pale Purpial. There
+are two around here so look carefully and quickly. Eat both for the 4-Limbed
+Pale Purpial form, Pause. Now, head north. To the west and east of the portal
+there should be Dark Purpials. Eat them both to get a 4-Limb PaleDark: Kimono,
+and a 4-Limb Dark: Bigdate.
+
+*Redaped:
+Reds are the simplest here. Head east, find the reds, and eat them for the Dark
+4-Limb form, Router.
+
+*Greyodon:
+If you have time, there are Greyodons near the portal. They are PaleDark, and
+if you can get that as your 50th mutation, that would help. But it isn't really
+necessary. You can get the Greys outside of the special stage.
+******************************************************************************
+
+Head to the lake, take both entrances to get all the bits. The Neighbourhood
+Watch Beast is here. Eat him to get the next piece of Shnoz, he's easy to beat
+as he just retreats and blocks. When he is dead, a door will open up, do not
+enter yet.
+
+Search the Lake area for bits, then turn your attention to the Reds. Eat the
+Pales to get the 4-Limb Pale Red form, Halfmast, then eat the PaleDark form to
+get its Dark meat, making you the form Derringer. Train on the Wooden Horse,
+then leave through the door that opened.
+
+Through here, there are Greyodons. Eat the PaleDarks, then the Pales to get
+both forms, Notebook and Afro. Search every bit of snack grass in these fields
+as bits (upgrade and love) rest beside many of them. Search all along the edge
+of the white area, as well.
+
+When you reach the Vigilance Beast, gobble up some Lovebugs. Then train your
+sights on the Vigilance beast. It will not attack you, so just antagonize it
+until it falls. When you eat it, some wilderness will open up.
+
+The Health Inspector Beast is here with a pack of aggressive Herbibeasts. Lure
+them out a few at a time and keep killing them until you find the real boss.
+He'll be easy to kill and eat when you find him, then you will have the full
+Raw-Shnoz. If you stay still for a few seconds, you will camouflage. This is
+extremely useful in the next stage.
+
+You can leave the stage when you have this raw meat.
+
+52 mutations, 15 new:
+
+***3-Limbed Dark Yellowbrate: Fenderbender
+***4-Limbed Pale Yellowbrate: Dolly
+***4-Limbed PaleDark Yellowbrate: Choker
+***4-Limbed Dark Yellowbrate: Wreckage
+***4-Limbed Pale Redaped: Halfmast
+***4-Limbed PaleDark Redaped: Derringer
+***4-Limbed Dark Redaped: Router
+***4-Limbed Pale Bluocytes: Tuningfork
+***4-Limbed PaleDark Bluocytes: Recliner
+***4-Limbed Dark Bluocytes: Ditto
+***4-Limbed Pale Purpial: Pause
+***4-Limbed PaleDark Purpial: Kimono
+***4-Limbed Dark Purpial: Bigdate
+***4-Limbed Pale Greyodon: Afro (Mated Form, though available in the stage)
+***4-Limbed PaleDark Greyodon: Folder
+
+------------------------------------------------------------------------------
+                              CV5.9: Ultimarsh
+------------------------------------------------------------------------------
+
+The boss and cohorts here are the strongest you've encountered yet. Make SURE
+to use the Raw-Shnoz's camouflage ability before you move around. The District
+Attorney and his two 6-Limbed dark Grey partners constantly patrol the stage.
+You'll often need to wait for them to leave an area.
+
+But first, if you hope to even damage them, you'll need 5 limbs. Go mate. You
+should have more than 100 love bits, so take the Dark Yellowbrate. It is the
+only form that is totally unavailable in this stage.
+
+Camouflage, make your way to the door, and train on the Wooden Horse.
+
+Let's mutate before we fight the boss. As I said, camouflage before moving.
+
+Bluocytes:
+When you find the Bluocytes, pick either the Pale or Dark forms, probably the
+Dark. Pick them off one at a time, run and camouflage between each one. You will
+eat the second group after the first, and this will allow you to take on the
+forms 5-Limbed Pale Blue: Triangle, PaleDark: SleepingBag, and Dark: Tilde.
+
+Purpial:
+Eat the two Pale Purpials near the Bluocytes to take on the 5-Limbed Pale form
+Speeddub. Camouflage and sneak around to find a Dark Purpial near the Yellows
+and another near the Paledark reds. Eating both will land you the PaleDark form
+Kimono, then the Dark Form Honeymoon.
+
+Yellowbrate:
+Find them, eat the Dark form, then the two Pales. This should land you with the
+PaleDark form Bowtie, and the Pale form Forklift.
+
+Redaped:
+Eat a PaleDark Redaped, then based on which colours you get, eat another Red.
+With two colours in a row, isolate them and eat the appropriate Red to take on
+that form. If the meats are mixed up, then eat the other PaleDark Red to take
+on the PaleDark form, hopefully getting two meats of the same colour in a row
+with him. AT LEAST get two forms out of this.
+
+Greyodon:
+Get Pale Meat from one of the PaleDarks. Keep trying them until you have pale
+meat in your mouth. As long as you have two Pale meats, isolated, you're good
+to go. There should be a Pale Greyodon nearby. Eat it to take on the Toupee
+pale form. Now, go eat a PaleDark Greyodon. Get Dark Meat, keep latching on
+until you have some in your jaws, this will land you the PaleDark form Binder.
+
+Okay, now comes the hard part, Dark Grey. If you have two Dark Greys in a row
+from the PaleDark form, isolate them (poop any pale grey to the left of them)
+and get ready to rumble. Please note that the Scenturions are extremely
+powerful, and the District Attorney is just a stronger version of them. You need
+to lure one over to you, there is NO question about this. If not, they will
+knock you senseless and steal your raw meat.
+
+You may want to sneak up, camouflaged, hit a Scenturion and run for your life.
+If you get one alone, pound on it until the others come, then run away. Heal,
+camouflage, and repeat. When both are dead and you're a 5-Limbed Dark Greyodon,
+you can search around the stage for any bits you might have missed.
+
+When the time comes to kick the District Attorney's ass, you will want to use
+the same strategy. Camouflage, hit, run, repeat. NEVER draw him to the Oasis.
+When he is killed, you get the Raw-Life, and a chance to mate with the
+Ulti-Mate Female again.
+
+*If the District attorney hits you, run away as he will do over 100 damage,
+more than likely.
+
+66 Mutations, 14 New:
+
+***5-Limbed Pale Yellowbrate: Forklift
+***5-Limbed PaleDark Yellowbrate: Bowtie
+***5-Limbed Dark Yellowbrate: Streetpancake
+--------------
+Two Redapeds:
+***5-Limbed Pale Redaped: Flaggy
+***5-Limbed PaleDark Redaped: Sixshooter
+***5-Limbed Dark Redaped: Jigsaw
+---------------
+***5-Limbed Pale Bluocytes: Triangle
+***5-Limbed PaleDark Bluocytes: Sleepingbag
+***5-Limbed Dark Bluocytes: Tilde
+***5-Limbed Pale Purpial: Speeddub
+***5-Limbed PaleDark Purpial: Kimono
+***5-Limbed Dark Purpial: Honeymoon
+***5-Limbed Pale Greyodon: Toupee
+***5-Limbed PaleDark Greyodon: Binder
+***5-Limbed Dark Greyodon: Scentipede
+
+------------------------------------------------------------------------------
+                            CV5.10: Rainbow Heaven 2
+------------------------------------------------------------------------------
+
+Again, you just have to follow the bridges along to get to the end of Rainbow
+Heaven. This will introduce Rage and Clash beasts to you. These are very strong
+colours.
+
+See either the Colours section or the Stats section for information on making
+Clash forms.
+
+------------------------------------------------------------------------------
+                            CV5.11: Paw Pasture
+------------------------------------------------------------------------------
+
+You're reborn once more as a single-limbed creature. From both sides of your
+nest are passages. Check out each one for love bits, they lead to the same
+place anyways. Your first order of business is to head to the training grounds
+and train your tongue.
+
+There are piggies and grizzlies, they all have forms you've seen before. Eat
+them. Head to the Oasis, and collect the lovebits. Eat one of the Scenters here
+to get a 1-limbed Dark Grey form, Scenty. Now, head around the map to the
+north end of the stage. There's another Oasis up here.
+
+To the west of this Oasis is a secret passage, with 3 scenters and a
+Closeknees. Lure the Scenters out one at a time and eat all three. Then, eat
+the Closeknees, the 1-limbed Rage Yellowbrate. This is the form you will use to
+fight the Shoplifting Cubivore.
+
+The Shoplifter has a roll attack, which you should run from, but a dodge and
+strike strategy works very well here, especially when you are Rage Yellow. You
+will down him within a few hits, eat his Raw Paw and you're good to go.
+
+We're not mating yet, however. Eat one, and only one, of the Clash Yellows
+nearby to get the 1-limbed Footrace form. Then, head to the North Oasis and eat
+the Stapler here, for the 1-limbed PaleDark Grey form, Stickypad. One more for
+now. Find the 2-Limbed Dark Redaped, Bevel, and eat it to get the 1-limbed Dark
+red form, Jigbit.
+
+Time to Mate. Head through the door to the west for a Training horse. Head then
+to the first Oasis, eat the Buzzcut, then the Scenter to get the 2-limbed
+Paledark Greyodon, Stapler.
+
+Explore the whole stage now, and eat every Dark Greyodon around to get the
+2-limbed dark Greyodon, Scenter. Afterwards, eat the other Clash Yellow
+Footrace, and head towards the exit door to fight the Pickpocket Cubivore.
+
+The Pickpocket Cubivore has a spin that will dizzy you, run if this happens as
+it will prevent you from attacking. Anyways, he has two Clash Purpials as his
+partners. With your Rage Yellow meat, you can get a Clash Greyodon out of this.
+Knock out a Purpial and grab its meat, ONLY eat if you get Grey. Rage Grey +
+Rage Yellow = Clash Grey, Studio.
+
+Now, attack the Pickpocket Cubivore, dodge and strike. You should take it out
+pretty quickly as a Studio. Again, if it dizzies you, run away for a bit. It
+holds the Raw Claw, which as you know lets you lock on while moving. Now,
+after it is dead, attack the other Clash Purpial. Take its purple meat, let go
+if it gives you grey. Rage Grey + Rage Purpial = Clash Purpial, Cleaner.
+
+Now, eat any other for experience and search the stage for bits. Then leave.
+
+75 Mutations, 9 New:
+
+***1-Limbed Clash Yellowbrate: Footrace
+***1-Limbed Rage Yellowbrate: Closeknees
+***1-Limbed Dark Redaped: Jigbit
+***2-Limbed Clash Purpial: Cleaner
+***1-Limbed PaleDark Greyodon: Stickypad
+***2-Limbed PaleDark Greyodon: Stapler
+***1-Limbed Dark Greyodon: Scenty
+***2-Limbed Dark Greyodon: Scenter
+***2-Limbed Clash Greyodon: Studio
+
+
+------------------------------------------------------------------------------
+                        CV5.12: Verdigrass Highlands
+------------------------------------------------------------------------------
+
+Grab the Lovebit and mate, take the Dark Purpial form Firstdate. Eat the Pigs
+and Bears but save the Clash Purpial. Knock over the grass container to reveal
+a 1-limbed Clash Red, do not eat it yet.
+
+Enter the next area, I'll call it Section 2, and use the rampage Bowl. There's
+another door here that leads to Section 3 (and Section 3 leads to Section 1).
+We'll complete a full lap of the stage before we start mutating. Head into
+Section 3 and eat the Wildabugs. You'll have to cross the treadmill to find one
+of them. There should be Dark Purpials nearby, but we already took care of that
+mutation with mating. If not, do so. There's a rejuvinator nearby.
+
+Check the Oasis for bits, and run form any Beastructions. There is a room with
+two Beastructions, it is very small and also has eight Wildabugs. Lure at least
+one of the Beastructions out, then eat the wildabugs. While you're eating you
+can avoid damage, but if you get hit - heal. No chances here.
+
+Enter the door, eat all the Wildabugs in the next room, then let's get started.
+There are three Prospectors, two in Section 1 and one in section 2 (it's in
+the corner across the map from the door to Section 3. This combination will
+lead to the 3-limbed Rage Bluocytes, Electricfan.
+
+Alright, eat the Clash Blue in Section 3 and make SURE you get Rage Yellow. Eat
+the Clash Purpial Rag we skipped for Clash Blue: Bellhop. Now, poop out the
+purple and yellow meats. Head to section 2 and eat a Spur for a 3-Limbed Clash
+Redaped: Linedance.
+
+Get the Red alone. Poop any Blue that you can, you need 2 Rage Red in a row.
+Now, go on into Section 3. Eat the Howdy here for a 3-Limbed Rage Redaped:
+Violin. There's a Shotput in Section 3 that you can eat to get a 3-Limbed Clash
+Yellowbrate: Dumbell.
+
+You should have Rage Yellow and Rage Red. Return to section 1 and eat the
+Freeloader for the 3-Limbed Clash Greyodon, Cottage. Rage Yellow + Rage Red +
+Rage Grey = Clash Grey.
+
+Now, finally, eta the Clash Purpial in Section 2 for a 3-limbed Clash Purpial,
+Broom. Search for any bits, then leave.
+
+83 Mutations, 8 New:
+
+***3-Limbed Clash Yellowbrate: Dumbell
+***3-Limbed Clash Redaped: Linedance
+***3-Limbed Rage Redaped: Violin
+***3-Limbed Clash Bluocytes: Bellhop
+***3-Limbed Rage Bluocytes: Electricfan
+***3-Limbed Dark Purpial: Firstdate (From mating)
+***3-Limbed Clash Purpial: Broom
+***3-Limbed Clash Greyodon: Cottage
+
+------------------------------------------------------------------------------
+                            CV5.13: Killing Plains
+------------------------------------------------------------------------------
+
+See the information on Diet Plan, we won't be using it right away. Eat the
+Clash Yellow to get your Clash Grey form again. Find the Purse Snatcher boss
+right from the start. He's strong and there's a lot around him, but a hit and
+run tactic will suffice. When it goes up high, extending its legs, you can't
+hurt it. It drops the Raw Bone.
+
+It's time to mate. Either take Clash Blue or Dark Grey, though Clash Blue is
+more difficult to achieve than Dark Grey. Clash Blue is a terrific group, to
+boot...
+
+Either way, avoid the Conman Beast and get to mutating. Look for the field of
+Lovebits. It is also full of Dark Greyodons. Stay near the door and eat them
+all. This will land you the Scentsless form if you didn't get it form mating.
+
+You can attack the Clash Purpials, the Toothbrushes and eat specifically their
+purple parts. The Rage Purpial form, Kneel is difficult to get from them, but
+keep trying from where you mated. Go back to the start of the level now and eat
+the Clash Purpial for Clash Purpial 4-limbed: Duster.
+
+Now, for the Porter. To get this Clash Bluocytes, poop out the Rage Grey and eat
+the Clash Bluocytes.
+
+You can try for Rage Red and Rage Yellow, but after Rage Purpial this is
+something of an aggravation. I'd instead suggest you now eat the Clash Reds for
+the Clash Red form: Stirrup. Then, poop out the blue and eat Clash Yellows for
+the Clash Yellow form: Sumo.
+
+Time to kill the Conman. A hit and run tactic is definitely needed here. His
+roar actually causes damage and he can spin to make you dizzy. Hit him and
+take off. Clash Blue works well here because of the extra pounce range. Let's
+you take on the roar a little more safely. He'll give the Raw Shnoz.
+
+Find the rejuvinator and bits in the stage, then leave.
+
+89 Mutations, 6 New:
+
+***4-Limbed Clash Yellowbrate: Sumo
+***4-Limbed Clash Redaped: Stirrup
+***4-Limbed Clash Bluocytes: Porter (One of the better mating choices)
+***4-Limbed Clash Purpial: Duster
+***4-Limbed Rage Purpial: Kneel
+***4-Limbed Dark Greyodon: Scentsless (One of the better mating choices)
+
+------------------------------------------------------------------------------
+                            CV5.14: Venery Beach
+------------------------------------------------------------------------------
+
+Venery Beach has a very definite way to go about it. Many of the cubivores will
+flee after a short time, so you may reset once or twice. But it's worth it. You
+want to end this level with close to, but not more than, 97 mutations. This
+lets you pick a 100th mutation EZ-mutate in the next stage.
+
+Before you mate, get the rejuvinator and bit behind you. When you do mate,
+choose the Clash Bluocytes. This will save you a lot of trouble.
+
+Grow to max size then eat the rage Yellow here, leave the other colours. Make
+sure you only have one block of yellow. Eat the Rage Red that appears as you
+continue on, again poop so you only have one block of red and one block of
+yellow. Keep going through the water and eat the rag that appears for a block
+of Rage Purple. There's a Rage Blue a little further ahead. Eat this and poop
+one of the Blues.
+
+Backtrack a little, and go up the hill. Take a right, don't go up into the
+green section. Eat a Freeloader when you find them and you'll get hooked up
+with Clash Grey, Evicted.
+
+Now, eat the Rag (Purpial) and go down off the hill. Eat the Rage Purpial to
+get Clash Purpial, Toothbrush. Don't go any farther toward the exit, instead
+enter the special stage in the water.
+
+******************************************************************************
+                               Buffet Clearing
+
+You have 10 minutes, but you should get through this area much more quickly
+than that.
+
+*Purpials:
+Head east, eat the Rage Purpial for Rage Purpial: Yoga. This should be easy
+enough as your Rage Grey meat should be near the far right of your meats and
+you picked up a lot of Purpial for the Toothbrush.
+
+*Redapeds:
+To the West is a Rage Redaped, get 3 of these tiles. Find and eat a Rage
+Bluocytes for the Clash Redaped: Lasso. We won't bother with Clash Blue since
+that was out mating mutation.
+
+*Yellowbrates:
+Poop out your rage Blue tiles and eat the Rage Yellowbrate here to get the
+Clash Yellowbrate, Barbell.
+
+*Pale Red:
+Eat the two Flaggys in this special stage to add the Pale 5-Limbed Redaped,
+Flaggy to your bestiary.
+
+*Greyodons:
+Eat the Rage Greyodon in this special stage. Once you have three of his meats,
+it's time to leave.
+
+******************************************************************************
+
+Alright, we're almost done but it can still be messed up. When you emerge, head
+towards the end of the stage. Some Cubivores will appear and one of them is a
+Rage Grey. Eat this beast before it runs off and you'll get a 5-limbed Rage
+Greyodon, Chen.
+
+The other guys pounce on you all the while. You have to move in fats and
+accurately to get this mutation. Leave once you get it.
+
+
+
+97 Mutations, 8 New:
+
+***5-Limbed Clash Yellowbrate: Barbell
+***5-Limbed Pale Redaped: Flaggy
+***5-Limbed Clash Redaped: Lasso
+***5-Limbed Clash Bluocytes: Baglady
+***5-Limbed Clash Purpial: Toothbrush
+***5-Limbed Rage Purpial: Yoga.
+***5-Limbed Clash Greyodon: Evicted
+***5-Limbed Rage Greyodon: Chen
+
+------------------------------------------------------------------------------
+                           CV5.15: Wildlife Safari
+------------------------------------------------------------------------------
+
+The big draw of the Wildlife Safari is its Special Stage. You will plan your
+100th mutation based on the Special Stage. Either Rage Yellow, Rage Red, Rage
+Blue, Rage Purple, or Rage Grey. We'll focus on Rage Grey for the purposes of
+the guide. You should not enter the Special Stage with anymore than 99
+mutations, and no less than 94.
+
+This is because of the nature of the special stage. You need all of one colour
+to enter a section of the stage where the colours are kept. There are Dark
+cubivores outside of the sections that you can eat to gain access, so if you
+enter with 94 mutations, 5 Dark forms brings you to 99 and then you can get
+your 100th. If you enter with colourmeat as your 99th form (say, Paledark Grey)
+you can go to that section right away and try for your 100th. So, the whole
+thing is to get a good form, and have a plan worked out.
+
+But let's start the stage, shall we? You'll start by fighting the Muscleman
+Cubivore. Kill any silver cronies, but don't eat any colourmeats. The boss is
+a Clash Purpial, and retreats constantly. Hit and run is the thing to do,
+perhaps with the Shnoz's camouflage ability. His Raw-Peeper ingrains your
+powers, so you can still use them if they get eaten away on you.
+
+It's time to mate then. Pick the Beastruction, there's no question that it's
+the easiest way to get this form and you'll NEED it for the special stage, for
+strength and speed. This should be 98 Mutations by my guide.
+
+Head to the centre of the stage and eat the two PaleDark greys for the Paledark
+Form, Portfolio. 99 Mutations. Enter the Special Stage.
+
+******************************************************************************
+                             Colorful Crossings
+
+You have ten minutes here and you NEED every minute of it. You may have to come
+back here more than once (resetting) because the method isn't fool-proof. You
+may get a colourmeat where you don't need it. Don't be afraid to reset, your
+100th beast _matters_.
+
+Note that there are six 1-limbed Dark Greyodons and 2 3-Limbed Dark forms of
+all the other forms. These are generally one on two different platforms near
+their section, and if you eat them the section will open. The Dark Greys are on
+three different platforms so it does count to come in here as a Greyodon.
+
+Try to understand the layout of the crossings in case you have to reset.
+
+*Greyodons:
+Since we are PaleDark Grey, the grey section is open. Let's head there first,
+and geta  Rage Grey for our 100th. There is one Cottage, 4 studios, and a lone
+Beastruction. Eat the Cottage, and poop out the red and yellow meats. Then, eat
+a studio and poop the yellow meat. Repeat until all Studios are gone. You are
+advised to leave the section to poop.
+
+When it comes to the Beastruction, we're going to use diet plan. Don't bite
+multiple times (don't re-bite) and hold the x button while you hold the stick
+to tear the meat. You NEED a Grey tile. Let go until he gives you grey. If you
+did this correctly, you'll have the mighty Rage form, Zen.
+
+*Clean-Up:
+You'll want to open all the other sections now. This means you will get the six
+limbed Dark forms of Red, Blue, Yellow, and Purple.
+
+EZ Mutate to Zen or Beastruction every time you change form in this area so
+that you can get around quickly.
+
+*Purpials:
+Purpials are your first order of business. Eat the multilimbed Purpials. You
+should get the Rage or Clash form, Rage is preferable. If you get clash, get
+rid of any Grey tiles you can.
+
+*Bluocytes:
+Eat the two-Limbed Clash Bluocytes. This should land you the Clash form, Mover.
+Poop the yellow meat, then eat the next two-limbed. Poop yellow again. Eat the
+Mover in an attempt to get two blues (make sure you've got blue in your mouth)
+and finish it off with the 1-limbed blue to get the Rage beast, Freezer.
+
+*Redapeds:
+Eat the Chaps, this should give you Chaps as your clash form. Now, eat a Spurs
+and poop the blue. Eat the two Howdys now to take on the Rage Red form Piano.
+
+*Yellowbrates:
+Eat the Squats so that you can get the Clash form, Squats. Now, eat the Shotput
+and poop out the red. Finally, eat the Footraces to get the Rage Yellow form,
+Splits.
+
+*Before Leaving:
+Track down and eat at least three dark greyodons. We'll get dark grey when we
+leave. If you don't have time, well you've come too far to reset.
+
+******************************************************************************
+
+You're back in the Wildlife Safari, and we aren't done mutating yet. Run on the
+treadmill to train your hump then get ready for action.
+
+*Greyodons:
+If you picked up the dark grey meats in Colorful Crossing, head to the centre
+and eat the Scenturion for the 6-limbed Dark Greyodon, Scenturion.
+
+*Purpial:
+Eat a Paledark Purpial. If you get Pale meat, eat the Pale Purpial. If you get
+Dark Meat, eat a Dark Purpial. You should get the Pale, PaleDark, and Dark
+forms this way.
+
+*Redaped:
+Handle the reds the same as Purple. Eat a Paledark. If you get Pale,
+eat a Pale Red. If you get Dark, eat a Dark Red. You can get Pale, PaleDark,
+and Dark this way.
+
+*Yellowbrates:
+Eat the Pale Yellowbrates, then the dark Yellowbrates. This will land you the
+the Pale, Dark, and Paledark forms.
+
+*Boss time:
+Kill off the Hitman's cohorts, then check around for bits. When it comes to
+fighting the Hitman, a camouflage hit and run tactic is best. When you take the
+Raw-Life from him, the stage is over.
+
+120 Mutations, 23 New.
+
+***6-Limbed Pale Yellowbrate: Bulldozer
+***6-Limbed Paledark Yellowbrate: Neckbrace
+***6-Limbed Dark Yellowbrate: Scrappy
+***6-Limbed Clash Yellowbrate: Squats
+***6-Limbed Rage Yellowbrate: Splits
+***6-Limbed Pale Redaped: Unionjack
+***6-Limbed PaleDark Redaped: Magnum
+***6-Limbed Dark Redaped: Vice
+***6-Limbed Clash Redaped: Chaps
+***6-Limbed Rage Redaped: Piano
+***6-Limbed Pale Bluocytes: Cowbell
+***6-Limbed PaleDark Bluocytes: Waterbed
+***6-Limbed Dark Bluocytes: Mobius
+***6-Limbed Clash Bluocytes: Mover
+***6-Limbed Rage Bluocytes: Freezer
+***6-Limbed Pale Purpial: Highspeeddub
+***6-Limbed PaleDark Purpial: Hulaskirt
+***6-Limbed Dark Purpial: Harem
+------
+***6-Limbed Clash Purpial: Sweeper
+OR
+***6-Limbed Rage Purpial: Sprawl
+------
+***6-Limbed PaleDark Greyodon: Portfolio 
+***6-Limbed Dark Greyodon: Scenturion
+***6-Limbed Clash Greyodon: Beastruction
+***6-Limbed Rage Greyodon: Zen
+
+
+------------------------------------------------------------------------------
+                            CV5.16: Bosses Galore
+------------------------------------------------------------------------------
+
+If you became King of more than 100 Cubivores, then you will get to enter this
+area, which has every boss from the game.
+
+Individually, they are cake. The game put you into your strongest form, which
+for us is likely Zen. If you go into the middle, they will still beat on you
+pretty thusly though.
+
+As they die, some more seem to appear. Please note that many of the bosses have
+more power now too.
+
+Start the match by getting rejuvinator. There's another on the far end of the
+stage. Use camouflage to run in and attack one of the dudes on the perimeter.
+Hitman and Conman are both good targets. Hitman to remove the biggest threat,
+and Conman to get rid of the roar attack.
+
+You want to lure a boss out after you and take them on one at a time. When you
+kill one you get "Raw-Wilderness," which doesn't really do anything for you.
+Furthermore, you have to remove EVERY limb of EVERY boss to win.
+
+Patience is the name of the game though, if you take your time you should get
+through this without much incident. Try not to use any rejuvinators.
+
+------------------------------------------------------------------------------
+                       CV5.17: Sacred Cubivore Clearing
+------------------------------------------------------------------------------
+
+This is where you will fight the Killer Cubivore and the four divabeasts. All
+of them are Rage six-limbs, and all very troublesome. You will have no snack
+grass, and rejuvinators should be saved for the Killer. Divabeast flesh gives
+you a lot of HP so they should be your primary source of health.
+
+If you did not get Zen as your EZ-mutate for 100, but did get it as your
+"Strongest form," then you should kill the Divabeasts in a Red, Purple,
+Blue, Yellow pattern so as not to mutate. Luckily, you DON'T have to take
+every bit of meat from the divabeasts.
+
+Ok, this battle is fought initially by running around the perimeter of the
+stage. If the Killer comes near, get the hell out of there.
+
+*Rage Redaped:
+Your primary target, the rage red turns invisible. You can see its outline, but
+it is invincible until it attacks you. Let him target you, dodge the attack and
+try and get a few hits in on it before the rest of the Divabeasts
+
+*Rage Purpial:
+He can spin to dizzy you, resulting in a gang beating from the others. You
+could even make him the primary target. You have to try and get behind him.
+Remember, Rage Purples hold their heads behind them, so he can keep up a steady
+pace while bashing you. Loop around, hit, run, repeat.
+
+*Rage Yellowbrate:
+His rolling ball attack is long-range and you shouldn't attack him like this.
+Run circles around him until he stops, pound on him once or twice, run and
+repeat.
+
+*Rage Bluocytes:
+This guy hits hard and far, but if you get close to him you can run around
+snacking him and he will have trouble responding.
+
+*Killer Cubivore:
+Killer Cubivore is a Zen, and very powerful. You can only rip off one piece of
+his meat at a time. If he reduces you to or close to zero, use a rejuvinator.
+
+If you have to melee with the Killer up close, blocking is your best option. If
+he makes a little jump, block. He will do minimal damage and you will actually
+have room to respond with your own attack.
+
+If you can get away, camouflage yourself and come up behind him. Attack and
+repeat the pattern.
+
+When he is down to 1-limb he has a dizzying spin (run away if he gets it in on
+you) and a damaging roar (and the damage isn't neglible). He will actively
+pursue you now, so dodge and strike him. But if you can get away, camouflage
+really, really helps at this point.
+
+When the Killer is down, enjoy the ending.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                              CV6: After Game                               |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+After you beat the Killer Cubivore, you'll be able to replay the three laps of
+the game: pig, bear, and bird. This lets you get more mutations all the way to
+150.
+
+There are new beasts, such as clash and rage in the Pig and Bear laps. Bosses
+as well have more cronies nearby. All the special stages you would have passed
+are active as well.
+
+You can exit a lap at will, from the start menu. But it lets you save your
+mutations and not your location. You should be able to clear this mode much
+more quickly than you did the first time.
+
+Also note that all bits, training grounds, and rejuvinators are back. This
+means you can max out your stats.
+
+This part of the guide is based on the rest of the guide written here, but you
+can pretty much do them as you please. Mating is often the best way to get
+difficult forms.
+
+------------------------------------------------------------------------------
+                               CV6.1: Paw Dunes
+------------------------------------------------------------------------------
+
+Paw Dunes is pretty much the same as it was before, except that you now have
+access to the Special Stage, Meatmaze, and there is a Clash Purpial available
+outside of this area.
+
+Eat the Clash Purpial, Rag, to take on this form. Enter the special stage.
+
+******************************************************************************
+                                   Meatmaze
+
+There are six beasts to get in here. Avoid the dark Greyodons and make your
+way to the 6 rage and clash beasts. You can better find your way through
+Meatmaze if you float your camera as high as possible. Also, watch for beasts
+roaring from behind hedges.
+
+You only have 5 minutes, so you may have to get a few, exit the lap, and
+re-enter. It's only the first stage anyways.
+
+*Clash Grey and Clash Blue:
+These guys are more centred in the maze. If you make it to them, eat blue first
+and then grey.
+
+*Rage Purpial and Rage Grey:
+You'll find these guys if you head toward the Southwest of the maze. You'll
+have to get into them still, but you'll locate them more easily. Eat the Rage
+Grey, then Rage Purpial if you want to move quickly or Rage Purpial then Rage
+Grey if you want to easily beat the next guys.
+
+*Rage Red and Rage Blue.
+At the Northwest, near the exit you'll find Rage Blue and Rage Red 1-limbeds.
+As a Rage Grey, defeat both of these guys (get them to zero), and eat them.
+Otherwise, eat Red then Blue. They often run out of their cavern.
+
+******************************************************************************
+
+After the Meatmaze, finish the stage.
+
+127 Mutations, 7 New:
+
+***1-Limbed Rage Redaped: Piccolo
+***1-Limbed Clash Bluocytes: Prospector
+***1-Limbed Rage Bluocytes: Palmleaf
+***1-Limbed Clash Purpial: Rag
+***1-Limbed Rage Purpial: Poise
+***1-Limbed Clash Greyodon: Freeloader
+***1-Limbed Rage Greyodon: Ben
+
+------------------------------------------------------------------------------
+                         CV6.2: Bleach White Highlands
+------------------------------------------------------------------------------
+
+This stage is mostly unchanged, except that the boss has some new PaleDark
+cronies. Take him out and keep on going.
+
+127 Mutations, 0 New.
+
+------------------------------------------------------------------------------
+                               CV6.3: Frog Bog
+------------------------------------------------------------------------------
+
+When you mate, take a clash or Rage form - particularly Clash Grey. We'll need
+some speed for the special stage.
+
+******************************************************************************
+                                   Budokan
+
+You only have 5 minutes, and a lot of work to do. A FAST EZ mutate is
+especially useful. The Rage Greys in Budokan are on top of the mountain with
+one rage beast of every colour. There's single-limbs with rage meat near each
+giant statue - which tells you the colour of those around it.
+
+The only form we aren't getting is Clash Yellow. That and Clash Grey, but we
+already have that.
+
+*Yellowbrates:
+Head to the statue, eat the little guy here, then head on top of the mountain
+and eat the two-limbed. This will land you the 2-Limbed Rage form, Curtsy
+
+*Bluocytes:
+While you are up on the mountain, eat the 2-limbed Bluocytes. This will land you
+the Clash Blue form, Backpacker. Retreat to the Blue statue area and eat the
+1-limbed here for the Rage Bluocytes, Paperfan. 
+
+*Redapeds:
+Head onto the mountain and eat the Redaped, getting you Clash Red, Spurs. Now,
+head down to the Red Statue and eat the 1-limbed here for the Rage Beast,
+Flute.
+
+*Purpial:
+Head to the purple statue and get some Rage meat from the 1-limb. Now, head up
+the mountain and eat the 2-limb for the Rage form, Slouch.
+
+*Greyodon:
+Quickly defeat and eat the Rage Greys on the mountain for the Rage form, Ken.
+
+******************************************************************************
+
+Now, complete the stage.
+
+134 Mutations, 7 New:
+
+***2-Limbed Rage Yellowbrate: Curtsy
+***2-Limbed Clash Redaped: Spurs
+***2-Limbed Rage Redaped: Flute
+***2-Limbed Clash Bluocoyte: Backpacker
+***2-Limbed Rage Bluocytes:  Paperfan
+***2-Limbed Rage Purpial: Slouch
+***2-Limbed Rage Greyodon: Ken
+
+------------------------------------------------------------------------------
+                             CV6.4: Mupopo Desert
+------------------------------------------------------------------------------
+
+Mupopo Desert offers a CHANCE to get a Rage yellow, if you clear out the
+Wildabugs near the boss and manage to get 2 Rage yellow from the Sumo. You can
+then diet plan the Shotput to get a third Rage Yellow.
+
+But this is very aggravating, and you can much more easily get Rage Yellow in
+the bird chapter.
+
+134 Mutations, 0 New
+
+------------------------------------------------------------------------------
+                             CV6.5: Paw Rainforest
+------------------------------------------------------------------------------
+
+Near the Rage Yellow is a secret passage. This leads to a PaleDark Bluocytes.
+Eat it for the form Pillowless. (And yes, people, I know you can get it earlier
+than this)
+
+135 Mutations, 1 New:
+
+***1-Limbed PaleDark Bluocytes: Pillowless
+
+------------------------------------------------------------------------------
+                           CV6.6: Whitestill Highlands
+------------------------------------------------------------------------------
+
+With 2-limbs, eat the shotput, making SURE you get Rage yellow. Now, eat the
+Piccolo and we'll get the Clash Yellow we missed out on back at Budokan,
+Shotput.
+
+Get to the 3-Limbed stage, but there's nothing new to get here with 3 limbs.
+
+136 Mutations, 1 New:
+
+***2-Limbed Clash Yellowbrate: Shotput
+
+------------------------------------------------------------------------------
+                               CV6.7: Lake Getum
+------------------------------------------------------------------------------
+
+Mate, and take Clash Grey as your form. This is not NEW but the speed will help
+in the special stage.
+
+After you mate, eat the Yellowbrates near the mating grounds for 2 tiles of
+Rage Yellow. Enter Snake in the Grassland again...
+
+******************************************************************************
+                             Snake in the Grassland
+
+Alright, there are some Rage colours available here this time through. Remember
+that cubivores appear in the squares of grass. RUN if a Scenturion spots you.
+
+*Yellowbrates:
+Eat the Knockknees in the Northwest. You'll get rage Yellow, Openknees.
+
+*Purpials:
+Eat the Rage Purpials in the North. You'll get the rage form, Squat.
+
+*Redapeds:
+Head to the Southeast. There are four Piccolos scattered around here. Eat them
+all for Rage Red: Keyboard.
+
+*Bluocytes:
+West and Northwest of the Oasis. Eat the Rage Blues for Ceilingfan.
+
+*Greyodon:
+There are Clash Greys in the West, North, and East. Diet plan a Grey square
+off of each of them. Leave the Grassland and return to the Lake with your 3
+Rage grey tiles...
+
+******************************************************************************
+
+Kill the 2 bosses here and DO NOT eat and colours. When you go through the
+door you will face a 5-limbed Clash Grey, Evicted. Knock it out and Diet plan
+its grey tile, and you will get the Rage Grey form, Jen.
+
+Finish the stage.
+
+141 Mutations, 5 New:
+
+***4-Limbed Rage Yellowbrate: Openknees
+***4-Limbed Rage Redaped: Keyboard
+***4-Limbed Rage Bluocytes: Celingfan
+***4-Limbed Rage Purpial: Kneel
+***4-Limbed Rage Greyodon: Jen 
+
+------------------------------------------------------------------------------
+                               CV6.8: Ultimarsh
+------------------------------------------------------------------------------
+
+You should have 100% Mating Success by now, take Rage Blue, Yellow, or Red as
+your new form as you don't have either. ALL forms are available in the Special
+Stage.
+
+******************************************************************************
+                             Smorgasbord Clearing
+
+You have ten minutes, and this is rather easy. You can do this in a different
+order if you need clashes, but let's go for Rage beasts. You can skip whatever
+one you got from mating.
+
+*Yellowbrates:
+They're right near where you start. Eat the Rage yellows here for the Rage
+Yellow form: Bowlegs.
+
+*Purpials:
+East of the yellows, you will find Purpials. Eat the rage beasts here for the
+Rage form: Yoga, if you didn't have it already.
+
+*Redapeds:
+Northwest of Yellows, eat the rage beasts for the 5-limbed rage form: Organ.
+
+*Bluocytes:
+Northeast of the Yellows, eat the rage beasts here for A.C.
+
+*Greyodons:
+North of the Yellowbrates. If you couldn't get Chen in Venery Beach, now is
+your chance. You may as well get it before you leave for an easy time with the
+District attorney.
+
+******************************************************************************
+
+Now you just need to complete the stage. There's Clash Yellow, Purple, and Blue
+outside of the special stage if you're missing a form.
+
+144 Mutations, 3 New:
+
+***5-Limbed Rage Yellowbrate: Bowlegs
+***5-Limbed Rage Redaped: Organ
+***5-Limbed Rage Bluocytes: A.C.
+
+------------------------------------------------------------------------------
+                              CV6.9: Paw Pasture
+------------------------------------------------------------------------------
+
+Near the mating grounds there is a Spurs, kill it to geta  1-limbed Clash
+Redaped: Howdy.
+
+Be careful fighting the second boss, kill its Rage Purpial friend first.
+
+145 Mutations, 1 New:
+***1-Limbed Clash Redaped: Howdy
+
+------------------------------------------------------------------------------
+                         CV6.10: Verdigrass Highlands
+------------------------------------------------------------------------------
+
+Mate, and choose the Rage Greyodon, Len. You CAN get it in the stage, but it's
+not easy.
+
+Alright, complete the lap of the stage. The Beastructions in the small room
+with all the wildabugs have been doubled, there are now 4.
+
+Rage Grey: We got this from mating, but if you need to, here is a method:
+
+Eat the Freeloader in section 1. Enter the special stage, Cat Trails.
+
+******************************************************************************
+                                  Cat Trails
+
+5 Minutes. Only bother with this if you are getting Len. Find and eat the
+Freeloader (it runs) and find the clash grey, Mansion, diet plan the grey tile
+and you'll take the form.
+
+Head around the perimeter of the mountain. It could take some time to find the
+Freeloader, and it runs away. Len is much better to get through mating.
+
+******************************************************************************
+
+Rage Purpial:
+Eat the Rag in Section 1, and Diet plan a Purple tile from the Cleaner. Eat the
+Rag near the Cleaner for Rage Purpial: Squat.
+
+Rage Yellowbrate:
+Eat the Backpacker in Section 3 and isolate the Yellow. Diet Plan the Shotput
+here as well, and then leave the stage. We'll get this form in the next area.
+
+147 Mutations, 2 New:
+
+***3-Limbed Rage Purpial: Squat
+***3-Limbed Rage Greyodon: Len (mating)
+
+------------------------------------------------------------------------------
+                            CV6.11: Killing Plains
+------------------------------------------------------------------------------
+
+Diet plan a Clash Yellowbrate here for the 3-Limbed Rage Yellow, Knockknees.
+
+148 Mutations, 1 New:
+
+***3-Limbed Rage Yellowbrate: Knockknees 
+
+------------------------------------------------------------------------------
+                            CV6.12: Venery Beach
+------------------------------------------------------------------------------
+
+Check out the main walkthrough on Venery Beach if you're missing something.
+You shouldn't need any new five-limbs by now, however.
+
+What you can do is eat any Pale Greys you find. This will slant the mating
+in the next stage in your favour.
+
+This is for a 6-Limbed pale grey form.
+
+------------------------------------------------------------------------------
+                            CV6.13: Wildlife Safari
+------------------------------------------------------------------------------
+
+Mate, take the Bedhead if you can. You should be able to with your pale grey
+tiles. If not, you'll have to get one from the Pale grey and PaleDarks in the
+centre.
+
+What form are you missing in Rage or Clash? Get the colour you need outside
+first. Say you need Rage Purpial, Get all Purpials. If you need Clash Purpial,
+get some grey before you enter and purple inside the crossing.
+
+This will be your 150th, your emperor. Enter Colorful Crossings and get your
+last form (or forms).
+
+150 Mutations, 2 New:
+
+***6-Limbed Pale Greyodon: Bedhead
+--------
+***6-Limbed Clash Purpial: Sweeper
+OR
+***6-Limbed Rage Purpial: Sprawl
+--------
+
+That's it, you're done.
+
+------------------------------------------------------------------------------
+                              CV6.14: Shangri-La
+------------------------------------------------------------------------------
+
+Shangri-La is an area with many colourful beasts that will not attack you and
+you can eat. They regenerate each morning.
+
+All forms are now EZ-mutate, but you can only use 6-limbed beasts. Shangri-La
+takes over the laps, unfortunately. You can't play the main game anymore except
+for bosses galore.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                            CV7: Stats and Charts                           |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+                             ----Yellowbrate----
+                                 -----------
+
+Pale:              Paledark:           Dark:               Clash:
+1 - Tirejack       1 - Scarf           1 - Diskbrake       1 - Footrace
+2 - Pedal          2 - Bandanna        2 - Calliper        2 - Shotput
+3 - Cranky         3 - Collar          3 - Fenderbender    3 - Dumbell
+4 - Dolly          4 - Choker          4 - Wreckage        4 - Sumo
+5 - Forklift       5 - Bowtie          5 - Streetpancake   5 - Barbell
+6 - Bulldozer      6 - Neckbrace       6 - Scrappy         6 - Squats
+
+Rage:
+1 - Closeknees
+2 - Curtsy
+3 - Knockknees
+4 - Openknees
+5 - Bowlegs
+6 - Splits
+
+
+-==Creating Clash==-
+   --------------
+
+Clash 1-Limb - Rage Yellow from a 1-Limb Clash Yellowbrate.
+Clash 2-Limb and higher - Any combination of Rage Red and Yellow (one each at
+                          least).
+
++----------------+-------+-----+-----+------+------+--------+---------+
+| Classification | Stom. | Att | Def | Dash | Jump | Pounce | Reverse |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 1-Limb   |  10   |  2  |  1  |   E  |   E  |    E   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 2-Limb   |  34   |  7  |  2  |   E  |   E  |    E   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 3-Limb   |  60   | 12  |  6  |   D  |   E  |    D   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 4-Limb   |  107  | 22  | 17  |   D  |   E  |    D   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 5-Limb   |  170  | 35  | 42  |   C  |   E  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 6-Limb   |  296  | 62  | 100 |   C  |   D  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 1-Limb |  18   |  3  |  1  |   E  |   E  |    E   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 2-Limb |  45   |  9  |  4  |   E  |   E  |    E   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 3-Limb |  82   | 17  | 11  |   D  |   D  |    D   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 4-Limb |  134  | 28  | 29  |   C  |   D  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 5-Limb |  213  | 44  | 74  |   C  |   D  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 6-Limb |  365  | 76  | 186 |   C  |   D  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 1-Limb   |  29   |  6  |  3  |   E  |   D  |    E   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 2-Limb   |  55   | 11  |  8  |   D  |   D  |    D   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 3-Limb   |  102  | 21  | 20  |   D  |   C  |    D   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 4-Limb   |  166  | 34  | 52  |   C  |   C  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 5-Limb   |  270  | 56  | 130 |   C  |   C  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 6-Limb   |  444  | 93  | 326 |   B  |   C  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 1-Limb  |  39   |  8  |  5  |   D  |   D  |    E   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 2-Limb  |  71   | 14  | 14  |   D  |   D  |    D   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 3-Limb  |  134  | 28  | 36  |   C  |   C  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 4-Limb  |  223  | 46  | 91  |   C  |   C  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 5-Limb  |  354  | 74  | 228 |   B  |   C  |    B   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 6-Limb  |  549  | 115 | 571 |   B  |   B  |    B   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 1-Limb   |  55   | 11  | 10  |   D  |   C  |    D   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 2-Limb   |  102  | 21  | 25  |   D  |   C  |    D   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 3-Limb   |  176  | 37  | 63  |   C  |   C  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 4-Limb   |  320  | 67  | 159 |   C  |   B  |    C   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 5-Limb   |  481  | 100 | 399 |   B  |   B  |    B   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 6-Limb   |  681  | 142 | 999 |   A  |   A  |    B   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+| Classification | Stom. | Att | Def | Dash | Jump | Pounce | Reverse |
++----------------+-------+-----+-----+------+------+--------+---------+
+
+                               ----Redaped----
+                                   -------
+
+Pale:              Paledark:           Dark:               Clash:
+1 - Hanky          1 - Squirtgun       1 - Jigbit          1 - Howdy
+2 - Pennant        2 - Beebee          2 - Bevel           2 - Spurs
+3 - Banner         3 - Musket          3 - Ratchet         3 - Linedance
+4 - Halfmast       4 - Derringer       4 - Router          4 - Stirrup
+5 - Flaggy         5 - Sixshooter      5 - Jigsaw          5 - Lasso
+6 - Unionjack      6 - Magnum          6 - Vice            6 - Chaps
+
+Rage:
+1 - Piccolo
+2 - Flute
+3 - Violin
+4 - Keyboard
+5 - Organ
+6 - Piano
+
+-==Creating Clash==-
+   --------------
+
+Clash 1-Limb - Rage Red from a 1-Limb Clash Redaped.
+Clash 2-Limb and higher - combination Rage Red and Rage Blue, at least
+                          one of each.
+
++----------------+-------+-----+-----+------+------+--------+---------+
+| Classification | Stom. | Att | Def | Dash | Jump | Pounce | Reverse |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 1-Limb   |   9   |  1  |  1  |   E  |   D  |    E   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 2-Limb   |  31   |  5  |  2  |   E  |   C  |    E   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 3-Limb   |  55   | 10  |  6  |   D  |   C  |    D   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 4-Limb   |  97   | 18  | 16  |   D  |   C  |    D   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 5-Limb   |  154  | 29  | 41  |   C  |   B  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 6-Limb   |  268  | 50  | 102 |   B  |   B  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 1-Limb |  16   |  3  |  1  |   E  |   C  |    E   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 2-Limb |  40   |  7  |  4  |   D  |   C  |    D   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 3-Limb |  74   | 14  | 11  |   D  |   B  |    D   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 4-Limb |  121  | 23  | 28  |   C  |   B  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 5-Limb |  192  | 36  | 71  |   C  |   B  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 6-Limb |  330  | 62  | 179 |   B  |   A  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 1-Limb   |  26   |  4  |  3  |   E  |   C  |    E   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 2-Limb   |  50   |  9  |  8  |   D  |   B  |    D   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 3-Limb   |  92   | 17  | 20  |   C  |   B  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 4-Limb   |  150  | 28  | 50  |   C  |   A  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 5-Limb   |  244  | 46  | 126 |   B  |   A  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 6-Limb   |  401  | 76  | 314 |   B  |   A  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 1-Limb  |  35   |  6  |  5  |   D  |   C  |    D   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 2-Limb  |  64   | 12  | 14  |   D  |   B  |    D   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 3-Limb  |  121  | 23  | 35  |   C  |   B  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 4-Limb  |  202  | 38  | 87  |   C  |   A  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 5-Limb  |  320  | 60  | 219 |   B  |   A  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 6-Limb  |  496  | 94  | 549 |   A  |   S  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 1-Limb   |  50   |  9  |  9  |   D  |   B  |    D   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 2-Limb   |  92   | 17  | 24  |   C  |   B  |    D   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 3-Limb   |  159  | 30  | 61  |   C  |   A  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 4-Limb   |  289  | 54  | 153 |   B  |   A  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 5-Limb   |  435  | 82  | 384 |   B  |   S  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 6-Limb   |  616  | 116 | 961 |   A  |   S  |    B   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+| Classification | Stom. | Att | Def | Dash | Jump | Pounce | Reverse |
++----------------+-------+-----+-----+------+------+--------+---------+
+
+                               ----Bluocyte----
+                                   --------
+
+Pale:              Paledark:           Dark:               Clash:
+1 - Guitar         1 - Pillowless      1 - Hyphen          1 - Prospector
+2 - Maraca         2 - Armrest         2 - Bracket         2 - Backpacker
+3 - Bongo          3 - Ottoman         3 - Caret           3 - Bellhop
+4 - Tuningfork     4 - Recliner        4 - Ditto           4 - Porter
+5 - Triangle       5 - Sleepingbag     5 - Tilde           5 - Baglady
+6 - Cowbell        6 - Waterbed        6 - Mobius          6 - Mover
+
+Rage:
+1 - Palmleaf
+2 - Paperfan
+3 - Electricfan
+4 - Ceilingfan
+5 - A.C.
+6 - Freezer
+
+-==Creating Clash==-
+   --------------
+
+Clash 1-Limb - Rage Blue from a 1-Limb Clash Bluocyte.
+Clash 2-Limb - Rage Blue, and Rage Yellow.
+Clash 3-Limb and higher - Combination of Rage Blue, Rage Yellow, and Rage
+                          Purple with at least one of each.
+
++----------------+-------+-----+-----+------+------+--------+---------+
+| Classification | Stom. | Att | Def | Dash | Jump | Pounce | Reverse |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 1-Limb   |   9   |  1  |  0  |   E  |   E  |    D   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 2-Limb   |  29   |  6  |  2  |   E  |   E  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 3-Limb   |  52   | 11  |  5  |   D  |   E  |    B   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 4-Limb   |  92   | 19  | 14  |   C  |   D  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 5-Limb   |  146  | 30  | 35  |   C  |   D  |    A   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 6-Limb   |  253  | 53  | 87  |   C  |   D  |    A   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 1-Limb |  15   |  3  |  1  |   E  |   E  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 2-Limb |  38   |  8  |  3  |   D  |   D  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 3-Limb |  70   | 14  |  9  |   D  |   D  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 4-Limb |  115  | 24  | 24  |   C  |   D  |    A   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 5-Limb |  182  | 38  | 61  |   B  |   C  |    A   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 6-Limb |  313  | 66  | 153 |   B  |   C  |    A   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 1-Limb   |  24   |  5  |  2  |   E  |   D  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 2-Limb   |  47   | 10  |  6  |   D  |   D  |    B   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 3-Limb   |  87   | 17  | 17  |   C  |   C  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 4-Limb   |  142  | 30  | 43  |   C  |   C  |    A   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 5-Limb   |  231  | 48  | 107 |   B  |   C  |    A   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 6-Limb   |  380  | 80  | 269 |   B  |   C  |    A   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 1-Limb  |  34   |  9  |  4  |   D  |   D  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 2-Limb  |  61   | 12  | 12  |   D  |   C  |    B   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 3-Limb  |  115  | 24  | 30  |   C  |   C  |    A   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 4-Limb  |  191  | 40  | 75  |   C  |   C  |    A   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 5-Limb  |  303  | 64  | 188 |   B  |   B  |    A   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 6-Limb  |  470  | 99  | 471 |   B  |   B  |    S   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 1-Limb   |  47   | 10  |  8  |   D  |   C  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 2-Limb   |  87   | 18  | 21  |   C  |   B  |    B   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 3-Limb   |  151  | 31  | 52  |   C  |   B  |    A   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 4-Limb   |  274  | 57  | 131 |   B  |   B  |    A   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 5-Limb   |  412  | 87  | 329 |   B  |   A  |    S   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 6-Limb   |  583  | 129 | 824 |   A  |   A  |    S   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+| Classification | Stom. | Att | Def | Dash | Jump | Pounce | Reverse |
++----------------+-------+-----+-----+------+------+--------+---------+
+
+                               ----Purpial----
+                                   -------
+
+Pale:              Paledark:           Dark:               Clash:
+1 - Eject          1 - Stocking        1 - Puberty         1 - Rag
+2 - Play           2 - Pants           2 - Adolescence     2 - Cleaner
+3 - Rewind         3 - Apron           3 - Firstdate       3 - Broom
+4 - Pause          4 - Kimono          4 - Bigdate         4 - Duster
+5 - Speeddub       5 - Tutu            5 - Honeymoon       5 - Toothbrush
+6 - Highspeeddub   6 - Hulaskirt       6 - Harem           6 - Sweeper
+
+Rage:
+1 - Poise
+2 - Slouch
+3 - Squat
+4 - Kneel
+5 - Yoga
+6 - Sprawl
+
+-==Creating Clash==-
+   --------------
+
+Clash 1-Limb - Rage Purple from a 1-Limb Clash Purpial.
+Clash 2-Limb and Higher - combination of Rage Purple and Rage Grey with at
+                          least one of each.
+
++----------------+-------+-----+-----+------+------+--------+---------+
+| Classification | Stom. | Att | Def | Dash | Jump | Pounce | Reverse |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 1-Limb   |  10   |  2  |  0  |   E  |   E  |    E   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 2-Limb   |  32   |  6  |  2  |   D  |   E  |    E   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 3-Limb   |  58   | 11  |  5  |   D  |   D  |    D   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 4-Limb   |  102  | 20  | 14  |   C  |   D  |    C   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 5-Limb   |  162  | 32  | 37  |   C  |   D  |    C   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 6-Limb   |  282  | 56  | 92  |   B  |   D  |    C   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 1-Limb |  17   |  3  |  1  |   E  |   D  |    E   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 2-Limb |  42   |  8  |  4  |   D  |   D  |    D   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 3-Limb |  78   | 15  | 10  |   D  |   D  |    D   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 4-Limb |  127  | 25  | 25  |   C  |   C  |    C   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 5-Limb |  202  | 40  | 64  |   C  |   C  |    C   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 6-Limb |  347  | 69  | 162 |   B  |   C  |    B   |    S    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 1-Limb   |  27   |  5  |  2  |   D  |   D  |    E   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 2-Limb   |  52   | 10  |  7  |   D  |   C  |    D   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 3-Limb   |  97   | 19  | 18  |   C  |   C  |    C   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 4-Limb   |  158  | 31  | 46  |   C  |   C  |    C   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 5-Limb   |  257  | 51  | 113 |   B  |   C  |    C   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 6-Limb   |  422  | 84  | 284 |   B  |   B  |    B   |    S    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 1-Limb  |  37   |  7  |  5  |   D  |   D  |    D   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 2-Limb  |  68   | 13  | 12  |   D  |   C  |    D   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 3-Limb  |  127  | 25  | 31  |   C  |   C  |    C   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 4-Limb  |  213  | 42  | 79  |   C  |   B  |    C   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 5-Limb  |  337  | 67  | 198 |   B  |   B  |    B   |    S    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 6-Limb  |  523  | 104 | 497 |   A  |   B  |    B   |    S    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 1-Limb   |  52   | 10  |  8  |   D  |   C  |    D   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 2-Limb   |  97   | 19  | 22  |   C  |   B  |    C   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 3-Limb   |  168  | 33  | 55  |   C  |   B  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 4-Limb   |  304  | 60  | 139 |   B  |   B  |    B   |    A    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 5-Limb   |  458  | 91  | 348 |   B  |   A  |    B   |    S    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 6-Limb   |  648  | 129 | 870 |   A  |   A  |    B   |    S    |
++----------------+-------+-----+-----+------+------+--------+---------+
+| Classification | Stom. | Att | Def | Dash | Jump | Pounce | Reverse |
++----------------+-------+-----+-----+------+------+--------+---------+
+
+                              ----Greyodon----
+                                  --------
+
+Pale:              Paledark:           Dark:               Clash:
+1 - Buzzcut        1 - Stickypad       1 - Scenty          1 - Freeloader
+2 - Mullet         2 - Stapler         2 - Scenter         2 - Studio
+3 - Dreadlock      3 - Folder          3 - Scentaur        3 - Cottage
+4 - Afro           4 - Notebook        4 - Scentless       4 - Mansion
+5 - Toupee         5 - Binder          5 - Scentipede      5 - Evicted
+6 - Bedhead        6 - Portfolio       6 - Scentaurion     6 - Beastruction
+
+Rage:
+1 - Ben
+2 - Ken
+3 - Len
+4 - Jen
+5 - Chen
+6 - Zen
+
+-==Creating Clash==-
+   --------------
+
+Clash 1-Limb - Rage Grey from a 1-Limb Clash Greyodon.
+Clash 2-Limb - Rage Grey and Rage Yellow.
+Clash 3-Limb - Rage Grey, Rage Yellow, and Rage Red.
+Clash 4-Limb - Rage Grey, Rage Yellow, Rage Red, and Rage Blue.
+Clash 5-Limb - Rage Grey, Rage Yellow, Rage Red, Rage Blue, and Rage Purple.
+Clash 6-Limb - Rage Grey, Rage Yellow, Rage Red, Rage Blue, and Rage Purple as
+               well as one Rage meat of any colour.
+
++----------------+-------+-----+-----+------+------+--------+---------+
+| Classification | Stom. | Att | Def | Dash | Jump | Pounce | Reverse |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 1-Limb   |  11   |  2  |  1  |   C  |   E  |    E   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 2-Limb   |  36   |  6  |  2  |   C  |   E  |    D   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 3-Limb   |  63   | 12  |  6  |   C  |   D  |    D   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 4-Limb   |  112  | 21  | 15  |   B  |   D  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 5-Limb   |  178  | 34  | 39  |   B  |   D  |    C   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Pale 6-Limb   |  310  | 59  | 97  |   A  |   C  |    B   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 1-Limb |  19   |  3  |  1  |   C  |   D  |    E   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 2-Limb |  47   |  9  |  4  |   C  |   D  |    D   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 3-Limb |  86   | 16  | 10  |   B  |   C  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 4-Limb |  140  | 26  | 27  |   B  |   C  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 5-Limb |  228  | 42  | 68  |   A  |   C  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|PaleDark 6-Limb |  382  | 73  | 120 |   A  |   C  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 1-Limb   |  30   |  5  |  3  |   C  |   D  |    D   |    E    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 2-Limb   |  58   | 11  |  7  |   C  |   C  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 3-Limb   |  107  | 20  | 19  |   B  |   C  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 4-Limb   |  174  | 33  | 47  |   B  |   B  |    C   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 5-Limb   |  283  | 54  | 119 |   A  |   B  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Dark 6-Limb   |  465  | 88  | 299 |   A  |   B  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 1-Limb  |  41   |  7  |  5  |   C  |   C  |    D   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 2-Limb  |  74   | 14  | 13  |   B  |   C  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 3-Limb  |  140  | 26  | 33  |   A  |   B  |    C   |    D    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 4-Limb  |  234  | 44  | 83  |   A  |   B  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 5-Limb  |  371  | 70  | 209 |   A  |   B  |    B   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Clash 6-Limb  |  575  | 109 | 523 |   S  |   A  |    A   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 1-Limb   |  58   | 11  |  9  |   C  |   C  |    D   |    C    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 2-Limb   |  107  | 20  | 23  |   B  |   B  |    C   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 3-Limb   |  187  | 35  | 58  |   A  |   B  |    C   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 4-Limb   |  335  | 64  | 146 |   S  |   B  |    B   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 5-Limb   |  504  | 96  | 366 |   S  |   A  |    A   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+|  Rage 6-Limb   |  699  | 136 | 915 |   S  |   S  |    S   |    B    |
++----------------+-------+-----+-----+------+------+--------+---------+
+| Classification | Stom. | Att | Def | Dash | Jump | Pounce | Reverse |
++----------------+-------+-----+-----+------+------+--------+---------+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                             CV8: Unlockables                               |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+There's a couple of unlockables to Cubivore.
+
+Replay:
+------
+
+Beating the game's three quests will allow you to go back and play these as
+you wish. For instance, you can play the Piggy chapter again.
+
+There are some changes to the levels, special zones will open up and you can
+get even more mutations.
+
+Bosses Galore Area:
+------------------
+
+To enter these final scenes, you need to have beaten the Chicky chapter and
+have at least 100 mutations.
+
+Upgraded Heads:
+--------------
+
+If you manage to collect 100 or more mutations your FIRST time through the game
+you will get upgraded heads when you go back to replay.
+
+These are simply more detailed versions of the Pig, Bear, and Bird.
+
+Shangri-La:
+----------
+
+Activate this mode by getting all 150 mutations. Shangri-La replaces your
+ability to replay the laps. It's a single stage with many beasts which are
+non-aggressive. All forms become EZ-Mutate, and so you can switch between all
+6-limbs freely.
+
+You may want to keep a file near 149 or so if you want to replay laps. You can
+still play Bosses Galore with Shangri-La activated, however.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                               CV9: Credits                                 |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Many thanks to my younger brother, who helped devise some of the eating chains
+here and allowed for great brainstorming about how to gain rare forms. Thanks
+a lot bro, it wouldn't have been so smooth without you!
+
+Thanks to Saru Brunei for the game's development and Nintendo for publishing
+the game in Japan. Saru Brunei doesn't seem to be active any more, but you made
+a real gem here. This concept was so amazing, it's onlya  shame the game wasn't
+longer or had more exploration to compliment it.
+
+Thanks to Atlus for publishing it outside of Japan. You guys take a lot of
+obscure games and provide us with them, and I've appreciated that many times.
+
+Thanks of course go out to my hosts, as without them you would not be reading
+this guide.
+
+Websites with permission to use this Guide:
+www.GameFAQS.com
+www.neoseeker.com
+faqs.IGN.com
+www.1up.com
+www.honestgamer.com
+
+Game by Saru Brunei/Nintendo/Atlus
