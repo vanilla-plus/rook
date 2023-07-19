@@ -71,9 +71,9 @@ conversation = [
 
 def AddTextToIndex(text):
     embedding = create_embedding(text)
-    print("Adding embedding:", embedding)
+    # print("Adding embedding:", embedding)
     index.add(np.array([embedding], dtype=np.float32))
-    print("Index size:", index.ntotal)
+    # print("Index size:", index.ntotal)
 
 
 def WriteIndexToLocalStorage():
@@ -92,8 +92,10 @@ def UserTurn():
 
     WriteIndexToLocalStorage()
 
+    return user_input
 
-def AITurn():
+
+def AITurn(user_input):
     # Perform a similarity search in the index
     n_results = 5
     last_message = conversation[-1]["content"]
@@ -154,5 +156,5 @@ def AITurn():
 
 # Back and forth forever
 while True:
-    UserTurn()
-    AITurn()
+    user_input = UserTurn()
+    AITurn(user_input)

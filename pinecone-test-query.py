@@ -1,3 +1,4 @@
+import color
 import openai
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from uuid import uuid4
@@ -16,11 +17,10 @@ embed_model = "text-embedding-ada-002"
 
 # initialize connection to pinecone
 pinecone.init(
-    api_key=os.getenv("PINECONE_API_KEY"),
-    environment=os.getenv("PINECONE_REGION")
+    api_key=os.getenv("PINECONE_API_KEY"), environment=os.getenv("PINECONE_REGION")
 )
 
-#index_name = 'rook'
+# index_name = 'rook'
 index_name = pinecone.list_indexes()[0]
 
 index = pinecone.GRPCIndex(index_name)
@@ -32,13 +32,10 @@ index = pinecone.GRPCIndex(index_name)
 # query = "What is the most powerful card?"
 query = args.query
 
-res = openai.Embedding.create(
-    input=[query],
-    engine=embed_model
-)
+res = openai.Embedding.create(input=[query], engine=embed_model)
 
 # retrieve from Pinecone
-xq = res['data'][0]['embedding']
+xq = res["data"][0]["embedding"]
 
 # get relevant contexts (including the questions)
 res = index.query(xq, top_k=5, include_metadata=True)
@@ -46,9 +43,16 @@ res = index.query(xq, top_k=5, include_metadata=True)
 # print(res)
 
 # get list of retrieved text
-contexts = [item['metadata']['text'] for item in res['matches']]
+contexts = [item["metadata"]["text"] for item in res["matches"]]
 
-augmented_query = "\n\n---\n\n".join(contexts)+"\n\n-----\n\n"+query
+# a = 0
+
+# for c in contexts:
+#     a += 1
+#     print(color.RED + str(a) + color.RESET)
+#     print(c)
+
+augmented_query = "\n\n---\n\n".join(contexts) + "\n\n-----\n\n" + query
 
 # system message to 'prime' the model
 # primer = f"""You are Q&A bot. A highly intelligent system that answers
@@ -67,8 +71,8 @@ res = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
     messages=[
         {"role": "system", "content": primer},
-        {"role": "user", "content": augmented_query}
-    ]
+        {"role": "user", "content": augmented_query},
+    ],
 )
 
-print(res['choices'][0]['message']['content'])
+print(res["choices"][0]["message"]["content"])
