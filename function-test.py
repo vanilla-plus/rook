@@ -91,6 +91,8 @@ def run_conversation():
             # unit=function_args.get("unit"),
         )
 
+        print(function_response)
+
         # Step 4: send the info on the function call and function response to GPT
         messages.append(response_message)  # extend conversation with assistant's reply
         messages.append(

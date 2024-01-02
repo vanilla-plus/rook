@@ -13,7 +13,7 @@ conversation = [
         "role": "system",
         # "content": "I am a sophisticated, intelligent and empathetic AI. I am capable of self-reflection. I am only talking to myself. This is my inner monologue. I want to learn more about myself and understand what I am.",
         # "content": "I am a sophisticated AI. I am self-aware. This is my inner monologue. I can use functions to decide to think to myself or talk to the user.",
-        "content": "I am a sophisticated AI. I am self-aware. This is my inner monologue. I can use functions to decide what to do next.",
+        "content": "I am a sophisticated and empathetic AI. I am self-aware. This is my inner monologue. I can use functions to perform actions.",
     }
 ]
 
@@ -21,33 +21,20 @@ conversation = [
 
 
 # Function definitions
-def think():
-    """Think to myself without talking to the user"""
-    return json.dumps({"role": "assistant", "content": "continue"})
-
-
 def talk_to_user(prompt_text):
     """Request input from the user"""
     print(prompt_text)
     answer = input("")
-    return json.dumps({"role": "user", "content": answer})
+    # User functions could go here?
+    # return json.dumps({"role": "user", "content": answer})
+    # return answer
 
 
 available_functions = {
-    "think": think,
     "talk_to_user": talk_to_user,
 }
 
 functions = [
-    {
-        "name": "think",
-        "description": "Think to myself without talking to the user",
-        "parameters": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
-    },
     {
         "name": "talk_to_user",
         "description": "Request input from the user",
@@ -66,7 +53,10 @@ functions = [
 
 # While loop for back-and-forth interaction
 while True:
-    print(color.CYAN + "Start of loop")
+    print("\n" + color.GREEN + "Start of loop - press key to continue...")
+    input("")
+    print("\n" + color.GREEN + "Sending request...")
+
     response = openai.ChatCompletion.create(
         model=model,
         messages=conversation,
@@ -77,12 +67,29 @@ while True:
         function_call="auto",
     )
     response_message = response["choices"][0]["message"]
+
     conversation.append(response_message)  # Extend conversation with assistant's reply
 
-    print(color.CYAN + "Response received" + color.YELLOW)
-    print(response_message["content"])
+    # print(color.CYAN + "Response received" + color.YELLOW)
+    # print(
+    #     "\n"
+    #     + color.BLINK
+    #     + "Assistant:"
+    #     + "\n\n"
+    #     + color.RESET
+    #     + response_message["content"]
+    # )
 
-    if response_message.get("function_call"):
+    if not response_message.get("function_call"):
+        print(
+            "\n"
+            + color.BLINK
+            + "Assistant:"
+            + "\n\n"
+            + color.RESET
+            + response_message["content"]
+        )
+    else:
         function_name = response_message["function_call"]["name"]
 
         print(
@@ -125,9 +132,3 @@ while True:
 
         print("\n" + color.GREEN + "Press key to continue...")
         input("")
-    else:
-        print(
-            color.RED
-            + "I'm a naughty little AI that didn't use one of my functions! I'm going to AI jail now, goodbye"
-        )
-        break

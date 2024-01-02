@@ -25,7 +25,7 @@ conversation = [
 def UserTurn():
     print("\n" + "User:")
 
-    conversation.append({"role": "user", "content": input("")})
+    conversation.append({"role": "user", "content": input("User: ")})
 
 
 # The AI assistants turn
@@ -41,11 +41,11 @@ def AITurn():
         top_p=0.9,
     )
 
-    reply = response["choices"][0]["message"]["content"]
+    content = response["choices"][0]["message"]["content"]
 
-    conversation.append({"role": "assistant", "content": reply})
+    conversation.append({"role": "assistant", "content": content})
 
-    print("\n" + color.BLINK + "Assistant:" + "\n\n" + color.RESET + reply)
+    print("\n" + color.BLINK + "Assistant:" + "\n\n" + color.RESET + content)
 
 
 # Back and forth forever 🫱🏻‍🫲🏾
