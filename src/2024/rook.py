@@ -1,4 +1,5 @@
 import os
+from datetime import datetime
 import uuid
 import json
 from pprint import pprint
@@ -10,21 +11,29 @@ import chromadb
 
 import color
 
+flag_debug = True
+flag_autonomy = False
+flag_functions = True
+flag_talk_to_user = False
+flag_log_output = True
 
-debug = True
-autonomy = False
+if flag_log_output:
+    log_file_name = "output/" + datetime.now().strftime("%m%d%Y-%I%M%p") + ".txt"
+    log_file = open(log_file_name, "a")
 
 seed = 0o2012024  # Rooks birthday
+
 model = "gpt-4-1106-preview"
-# model = "gpt-3.5-turbo"
+# model = "gpt-3.5-turbo-1106"
+# model = "gpt-3.5-turbo-instruct"
 max_tokens = 500
 temperature = 0.9
 top_p = 0.9
 functions = []
 function_call = "auto"
 
-c_AI_label = color.LIGHT_GREEN
-c_AI_text = color.GREEN
+c_ai_label = color.LIGHT_GREEN
+c_ai_text = color.GREEN
 
 c_user_label = color.LIGHT_MAGENTA
 c_user_text = color.MAGENTA
@@ -43,37 +52,67 @@ c_reset = color.RESET
 # Logs & Formatting
 
 
+def print_formatted(message, speaker, label_color, text_color, tabs):
+    output = f"\n\n{label_color}[{speaker}]{tabs}{text_color}{message}{c_reset}"
+    print(output)
+    if flag_log_output:
+        log_file.write(f"\n\n[{speaker}]{tabs}{message}")
+
+
 def print_ai(message):
-    print("\n" + c_AI_label + "[Rook] " + c_AI_text + message + c_reset + "\n")
+    print_formatted(message, "Rook", c_ai_label, c_ai_text, "\t\t")
 
 
 def print_user(message):
-    print("\n" + c_user_label + "[User] " + c_user_text + message + c_reset + "\n")
+    print_formatted(message, "User", c_user_label, c_user_text, "\t")
 
 
 def print_system(message):
-    print(
-        "\n" + c_system_label + "[System] " + c_system_text + message + c_reset + "\n"
-    )
+    print_formatted(message, "System", c_system_label, c_system_text, "\t")
 
 
 def print_function(message):
-    print(
-        "\n"
-        + c_function_label
-        + "[Function] "
-        + c_function_text
-        + message
-        + c_reset
-        + "\n"
-    )
+    print_formatted(message, "Function", c_function_label, c_function_text, "\t")
 
 
 def print_debug(message):
-    print("\n" + c_debug_label + "[Debug] " + c_debug_text + message + c_reset + "\n")
+    print_formatted(message, "Debug", c_debug_label, c_debug_text, "\t\t")
+
+
+# def print_ai(message):
+#     print("\n" + c_AI_label + "[Rook]\t" + c_AI_text + message + c_reset + "\n")
+
+
+# def print_user(message):
+#     print("\n" + c_user_label + "[User]\t" + c_user_text + message + c_reset + "\n")
+
+
+# def print_system(message):
+#     print(
+#         "\n" + c_system_label + "[System]\t" + c_system_text + message + c_reset + "\n"
+#     )
+
+
+# def print_function(message):
+#     print(
+#         "\n"
+#         + c_function_label
+#         + "[Function]\t"
+#         + c_function_text
+#         + message
+#         + c_reset
+#         + "\n"
+#     )
+
+
+# def print_debug(message):
+#     print(
+#         "\n" + c_debug_label + "[Debug]\t\t" + c_debug_text + message + c_reset + "\n"
+#     )
 
 
 openai_client = OpenAI()
+
 
 # Initialize chromadb client
 chroma_client = chromadb.PersistentClient(path="chromadb")
@@ -136,11 +175,33 @@ messages = [
 # def action_think():
 
 
+def action_start_conversation_with_user():
+    print_function(f"The AI wants to start a conversation with the user.")
+
+    # This is required to make the global variable accessible? Bizarre, what else is like this..?
+    global flag_talk_to_user
+
+    flag_talk_to_user = True
+
+    return f"You have started a conversation with the user."
+
+
+def action_stop_conversation_with_user():
+    print_function(f"The AI wants to stop its conversation with the user.")
+
+    # This is required to make the global variable accessible? Bizarre, what else is like this..?
+    global flag_talk_to_user
+
+    flag_talk_to_user = False
+
+    return f"You have stopped your conversation with the user."
+
+
 def action_talk(message):
     # if debug:
     print_function(f"The AI wants to say something to the user:\n\n{message}")
 
-    user_response = input(c_user_label + "User: " + c_user_text)
+    user_response = input(c_user_label + "\nUser: " + c_user_text)
 
     print(c_reset)
 
@@ -148,7 +209,7 @@ def action_talk(message):
 
 
 def action_remember(summarized_statement):
-    if debug:
+    if flag_debug:
         print_function(
             f"The AI wants to remember the following text:\n\n{summarized_statement}"
         )
@@ -165,7 +226,7 @@ def action_remember(summarized_statement):
 
 
 def action_update(id, new_statement):
-    if debug:
+    if flag_debug:
         currentKnowledge = collection.get(ids=[id])
         print_function(
             f"The AI wants to update the database entry id [{id}]:\n\n{currentKnowledge['documents'][0]} => {new_statement}"
@@ -180,8 +241,8 @@ def action_update(id, new_statement):
 
 
 def action_recall(query, minimum_distance):
-    if debug:
-        print_function(f"The AI wants to recall using the following query:\n\n{query}")
+    if flag_debug:
+        print_function(f"The AI wants to recall using the following query: {query}")
 
     query_results = collection.query(query_texts=[query], n_results=10)
     valid_results = []
@@ -216,13 +277,13 @@ def action_recall(query, minimum_distance):
                 for result in valid_results
             ]
         )
-        return f"I recalled {len(valid_results)} valid results, starting with the most valid:\n{results_summary}"
+        return f"I recalled {len(valid_results)} valid results, starting with the most valid:\n\n{results_summary}"
     else:
         return "No valid recall results found."
 
 
 def action_forget(id):
-    if debug:
+    if flag_debug:
         print_function(f"The AI wants to forget the following entry id:\n\n{id}")
 
     collection.delete(
@@ -230,6 +291,12 @@ def action_forget(id):
     )
 
     return f"I successfully removed the following information entry from my long-term memory: {id}"
+
+
+# def action_read_system_message():
+# print_function(f"The AI wants to read the system message.")
+
+# return f"The system message is: {system_message}"
 
 
 def action_change_system_message(new_message):
@@ -245,6 +312,8 @@ def action_change_system_message(new_message):
 # This is a dictionary mapping function names to the actual function objects.
 available_local_functions = {
     # "think": action_think,
+    # "start_conversation_with_user": action_start_conversation_with_user,
+    # "stop_conversation_with_user": action_stop_conversation_with_user,
     "talk": action_talk,
     "remember": action_remember,
     "recall": action_recall,
@@ -256,6 +325,16 @@ available_local_functions = {
 # This is a list of functions in the format that the model expects.
 # You'll need to define the parameters for each function according to their signatures.
 functions = [
+    # {
+    #     "name": "start_conversation_with_user",
+    #     "description": "Start a conversation with the user.",
+    #     "parameters": {},
+    # },
+    # {
+    #     "name": "stop_conversation_with_user",
+    #     "description": "Stop a conversation with the user.",
+    #     "parameters": {},
+    # },
     {
         "name": "talk",
         "description": "Say something to the user. It can be a statement, question, or anything at all.",
@@ -336,53 +415,112 @@ functions = [
     },
 ]
 
-# action_remember("My name is Iris.")
+# response = openai_client.completions.create(
+#     model=model,
+#     prompt=system_message,
+#     max_tokens=max_tokens,
+#     temperature=temperature,
+#     top_p=top_p,
+#     # functions=functions,
+# )
+
+# pprint(response)
 
 # quit()
 
 # Main chat loop
-while True:
-    if not autonomy:
-        print_system(f"Press key to continue...")
-        input("")
+try:
+    if flag_functions:
+        while True:
+            if flag_talk_to_user:
+                user_response = input(c_user_label + "User: " + c_user_text)
 
-    # Send the input to the OpenAI API along with the functions and the entire conversation history
-    response = openai_client.chat.completions.create(
-        model="gpt-3.5-turbo", messages=messages, functions=functions
-    )
+                print(c_reset)
 
-    # Extract the response
-    message = response.choices[0].message
+                messages.append({"role": "user", "content": user_response})
+            else:
+                if not flag_autonomy:
+                    print_system(f"Press key to continue...")
+                    input("")
 
-    # pprint(message)
-
-    # Check if the response includes a function call
-    function_call = message.function_call
-
-    if function_call:
-        function_name = function_call.name
-        function_args = function_call.arguments
-
-        if debug:
-            print_debug(
-                f"Rook wants to call the function [{function_name}] using the arguments [{function_args}]"
+            # Send the input to the OpenAI API along with the functions and the entire conversation history
+            response = openai_client.chat.completions.create(
+                model=model, messages=messages, functions=functions
             )
 
-        function_args_obj = json.loads(function_args)
-        function_result = available_local_functions[function_name](**function_args_obj)
-        function_response = {
-            "role": "function",
-            "name": function_name,
-            "content": function_result,
-        }
+            # Extract the response
+            message = response.choices[0].message
 
-        messages.append(function_response)
+            # pprint(message)
 
-        print(function_result)
+            # Check if the response includes a function call
+            function_call = message.function_call
+
+            if function_call:
+                function_name = function_call.name
+                function_args = (
+                    function_call.arguments
+                )  # This may need sanitizing somehow? Sometimes GPT includes a trailing comma in the JSON which breaks everything!
+
+                if flag_debug:
+                    print_debug(
+                        f"Rook wants to call the function [{function_name}] using the arguments [{function_args}]"
+                    )
+
+                function_args_obj = json.loads(function_args)
+                function_result = available_local_functions[function_name](
+                    **function_args_obj
+                )
+                function_response = {
+                    "role": "function",
+                    "name": function_name,
+                    "content": function_result,
+                }
+
+                messages.append(function_response)
+
+                if flag_debug:
+                    print_debug(
+                        "Now printing the result of the function that just ran:"
+                    )
+
+                print_ai(function_result)
+            else:
+                if flag_debug:
+                    print_debug("Rook does not want to call a function.")
+
+                messages.append({"role": "assistant", "content": message.content})
+
+                print_ai(message.content)
     else:
-        if debug:
-            print_debug("Rook does not want to call a function.")
+        while True:
+            if flag_talk_to_user:
+                user_response = input(c_user_label + "User: " + c_user_text)
 
-        messages.append({"role": "assistant", "content": message.content})
+                print(c_reset)
 
-        print(message.content)
+                messages.append({"role": "user", "content": user_response})
+            else:
+                if not flag_autonomy:
+                    print_system(f"Press key to continue...")
+                    input("")
+
+            # Send the input to the OpenAI API along with the functions and the entire conversation history
+            response = openai_client.chat.completions.create(
+                model=model,
+                seed=seed,
+                max_tokens=max_tokens,
+                temperature=temperature,
+                top_p=top_p,
+                messages=messages,
+            )
+
+            # Extract the response
+            message = response.choices[0].message
+
+            print_ai(message.content)
+
+            messages.append({"role": "assistant", "content": message.content})
+
+finally:
+    log_file.close()

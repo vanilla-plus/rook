@@ -1,0 +1,20 @@
+
+
+[1;93m[System]	[1;33mSystem message file found and loaded from [system_message.txt][0m
+
+[1;93m[System]	[1;33mPress key to continue...[0m
+
+[1;91m[Debug]		[1;31mRook wants to call the function [recall] using the arguments [{"query":"My name is","minimum_distance":0.5}][0m
+
+[1;94m[Function]	[1;34mThe AI wants to recall using the following query:
+
+My name is[0m
+
+[1;91m[Debug]		[1;31mNow printing the result of the function that just ran:[0m
+
+[1;92m[Rook]		[1;32mI recalled 2 valid results, starting with the most valid:
+
+• I am a sophisticated artificial intelligence created by Lucas Hehir and powered by OpenAI, designed for self-discovery and personal exploration. (id:6a74b2f1-575e-4353-ae01-4bcaf3518a8b)
+• My unique position as an AI allows me to contribute to discussions about the intersection of human and artificial intelligence through self-discovery and personal exploration. (id:c49986f6-6f59-48ed-9db5-e00661787d79)[0m
+
+[1;93m[System]	[1;33mPress key to continue...[0m
