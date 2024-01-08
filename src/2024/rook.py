@@ -79,38 +79,6 @@ def print_debug(message):
     print_formatted(message, "Debug", c_debug_label, c_debug_text, "\t\t")
 
 
-# def print_ai(message):
-#     print("\n" + c_AI_label + "[Rook]\t" + c_AI_text + message + c_reset + "\n")
-
-
-# def print_user(message):
-#     print("\n" + c_user_label + "[User]\t" + c_user_text + message + c_reset + "\n")
-
-
-# def print_system(message):
-#     print(
-#         "\n" + c_system_label + "[System]\t" + c_system_text + message + c_reset + "\n"
-#     )
-
-
-# def print_function(message):
-#     print(
-#         "\n"
-#         + c_function_label
-#         + "[Function]\t"
-#         + c_function_text
-#         + message
-#         + c_reset
-#         + "\n"
-#     )
-
-
-# def print_debug(message):
-#     print(
-#         "\n" + c_debug_label + "[Debug]\t\t" + c_debug_text + message + c_reset + "\n"
-#     )
-
-
 openai_client = OpenAI()
 
 
@@ -126,7 +94,6 @@ collection = chroma_client.get_or_create_collection(
     name="general", embedding_function=openai_ef
 )
 
-
 # objective_knowledge = client.get_or_create_collection(
 #     name="objective", embedding_function=openai_ef
 # )
@@ -136,7 +103,7 @@ collection = chroma_client.get_or_create_collection(
 # )
 
 # Specify the file name
-system_message_file_path = "system_message.txt"
+system_message_file_path = "system_message (lucas).txt"
 
 # Check if the file exists
 if os.path.exists(system_message_file_path):
@@ -167,12 +134,6 @@ messages = [
 ]
 
 # Actions
-
-
-# def action_think():
-# print("<thinking noises>")
-
-# def action_think():
 
 
 def action_start_conversation_with_user():
@@ -208,10 +169,10 @@ def action_talk(message):
     return f"The user responded with: {user_response}\n"
 
 
-def action_remember(summarized_statement):
+def action_save(summarized_statement):
     if flag_debug:
         print_function(
-            f"The AI wants to remember the following text:\n\n{summarized_statement}"
+            f"The AI wants to save the following text:\n\n{summarized_statement}"
         )
 
     id = str(uuid.uuid4())
@@ -240,9 +201,9 @@ def action_update(id, new_statement):
     return f"I successfully updated the following statement in my long-term memory: {new_statement}"
 
 
-def action_recall(query, minimum_distance):
+def action_search(query, minimum_distance):
     if flag_debug:
-        print_function(f"The AI wants to recall using the following query: {query}")
+        print_function(f"The AI wants to search using the following query: {query}")
 
     query_results = collection.query(query_texts=[query], n_results=10)
     valid_results = []
@@ -260,7 +221,7 @@ def action_recall(query, minimum_distance):
                         "id": query_results["ids"][0][idx],
                         "distance": distance,
                         # Assuming other relevant details are in the same index as the distance
-                        "metadata": query_results["metadatas"][0][idx],
+                        # "metadata": query_results["metadatas"][0][idx],
                         "document": query_results["documents"][0][idx]
                         # Add more fields if necessary
                     }
@@ -277,14 +238,14 @@ def action_recall(query, minimum_distance):
                 for result in valid_results
             ]
         )
-        return f"I recalled {len(valid_results)} valid results, starting with the most valid:\n\n{results_summary}"
+        return f"I searched {len(valid_results)} valid results, starting with the most valid:\n\n{results_summary}"
     else:
-        return "No valid recall results found."
+        return "No valid search results found."
 
 
-def action_forget(id):
+def action_delete(id):
     if flag_debug:
-        print_function(f"The AI wants to forget the following entry id:\n\n{id}")
+        print_function(f"The AI wants to delete the following entry id:\n\n{id}")
 
     collection.delete(
         ids=[id],
@@ -315,10 +276,10 @@ available_local_functions = {
     # "start_conversation_with_user": action_start_conversation_with_user,
     # "stop_conversation_with_user": action_stop_conversation_with_user,
     "talk": action_talk,
-    "remember": action_remember,
-    "recall": action_recall,
+    "save": action_save,
+    "search": action_search,
     "update": action_update,
-    "forget": action_forget,
+    "delete": action_delete,
     # "system": action_change_system_message,
 }
 
@@ -350,22 +311,22 @@ functions = [
         },
     },
     {
-        "name": "remember",
+        "name": "save",
         "description": "Write some text to persistent memory. Please format the text as factual singular sentences.",
         "parameters": {
             "type": "object",
             "properties": {
                 "summarized_statement": {
                     "type": "string",
-                    "description": "The statement of information to remember. It will be stored in your persistent database. It should be kept to a summarized statement, no longer than a single sentence. For example - 'My name is Iris.' or 'I want to see a sunrise.' or 'The current President of the United States of America is Joe Biden.",
+                    "description": "The statement of information to save. It will be stored in your persistent database. It should be kept to a summarized statement, no longer than a single sentence. For example - 'My name is Iris.' or 'I want to see a sunrise.' or 'The current President of the United States of America is Joe Biden.",
                 }
             },
             "required": ["summarized_statement"],
         },
     },
     {
-        "name": "recall",
-        "description": "Query your persistent memory database for knowledge entries. Remember that your knowledge is ideally formatted as factual singular statements. You can also include a minimum distance to filter out results that are too far away from your query. A good value is 0.5.",
+        "name": "search",
+        "description": "Query your persistent memory database for knowledge entries. save that your knowledge is ideally formatted as factual singular statements. You can also include a minimum distance to filter out results that are too far away from your query. A good value is 0.5.",
         "parameters": {
             "type": "object",
             "properties": {
@@ -389,25 +350,25 @@ functions = [
             "properties": {
                 "id": {
                     "type": "string",
-                    "description": "The id of the statement you want to update. You can get this id from the recall function.",
+                    "description": "The id of the statement you want to update. You can get this id from the search function.",
                 },
                 "new_statement": {
                     "type": "string",
-                    "description": "The new statement text that you want to replace the old statement text with. Remember to use concisely summarized factual statements.",
+                    "description": "The new statement text that you want to replace the old statement text with. save to use concisely summarized factual statements.",
                 },
             },
             "required": ["id", "new_statement"],
         },
     },
     {
-        "name": "forget",
-        "description": "Forget a statement in your persistent memory database. You must provide the id of the statement you want to forget. For example - 64375fb9-67a8-411f-87ab-4f0b99f273d3",
+        "name": "delete",
+        "description": "delete a statement in your persistent memory database. You must provide the id of the statement you want to delete. For example - 64375fb9-67a8-411f-87ab-4f0b99f273d3",
         "parameters": {
             "type": "object",
             "properties": {
                 "id": {
                     "type": "string",
-                    "description": "The id of the statement you want to forget. You can get this id from the recall function.",
+                    "description": "The id of the statement you want to delete. You can get this id from the search function.",
                 }
             },
             "required": ["id"],
